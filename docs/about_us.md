@@ -1,3 +1,9 @@
+## Histórico de versão do arquivo
+
+|    Data    | Versão |                      Descrição                      | Autor             |
+| :--------: | :----: | :-------------------------------------------------: | :---------------- |
+| 06/11/2022 |  1.0   | Versão inicial de documento de descrição do projeto | MauricioMachadoFF |
+
 ## Nome do Projeto
 
 ---
