@@ -1,5 +1,5 @@
 Pull request activities 
 
-- [ ] Assigne two reviewers 
+- [ ] Assign two reviewers 
 - [ ] Link related issue
 - [ ] Label the PR 
