@@ -20,6 +20,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |     Gravação da apresentação     |       21/11/2022       |          -          | Todos os integrantes |          -           |
 |      Edição da apresentação      |       21/11/2022       |          -          |       Mauricio       |          -           |
 
+**Tabela 1: Cronograma do Ponto de Controle 1**
+
 ## 3. Cronograma Ponto de Controle 2
 
 |                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
@@ -31,6 +33,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |            Gravação da apresentação            |       24/11/2022       |          -          | Todos os integrantes |       -       |
 |             Edição da apresentação             |       24/11/2022       |          -          |       Mauricio       |       -       |
 
+**Tabela 2: Cronograma do Ponto de Controle 2**
+
 ## 4. Cronograma Ponto de Controle 3
 
 |          Atividade           | Data Limite de Entrega | Data Limite Revisão |       Autor(es)        |  Revisor(es)  |
@@ -40,6 +44,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |        Guia de estilo        |       03/12/2022       |     04/12/2022      | Nicolas e Lucas Macedo |   Mauricio    |
 |   Gravação da apresentação   |       05/12/2022       |          -          |  Todos os integrantes  |       -       |
 |    Edição da apresentação    |       05/12/2022       |          -          |        Mauricio        |       -       |
+
+**Tabela 3: Cronograma do Ponto de Controle 3**
 
 ## 5. Cronograma Ponto de Controle 4
 
@@ -52,6 +58,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                        Gravação da apresentação                         |       12/12/2022       |          -          | Todos os integrantes |       -       |
 |                         Edição da apresentação                          |       12/12/2022       |          -          |       Mauricio       |       -       |
 
+**Tabela 4: Cronograma do Ponto de Controle 4**
+
 ## 6. Cronograma Ponto de Controle 5
 
 |                                Atividade                                | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
@@ -62,6 +70,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |             Planejamento da avaliação do protótipo de papel             |       17/12/2022       |     18/12/2022      |       Mauricio       |    Nicolas    |
 |                        Gravação da apresentação                         |       20/12/2022       |          -          | Todos os integrantes |       -       |
 |                         Edição da apresentação                          |       20/12/2022       |          -          |       Mauricio       |       -       |
+
+**Tabela 5: Cronograma do Ponto de Controle 5**
 
 ## 7. Cronograma Ponto de Controle 6
 
@@ -80,6 +90,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                 Gravação da apresentação                 |       06/01/2023       |          -          | Todos os integrantes |       -       |
 |                  Edição da apresentação                  |       06/01/2023       |          -          |       Mauricio       |       -       |
 
+**Tabela 6: Cronograma do Ponto de Controle 6**
+
 ## 8. Cronograma Ponto de Controle 7
 
 |                                     Atividade                                      | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
@@ -89,6 +101,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |       13/01/2023       |     14/01/2023      |    Lucas Gabriel     |   Nicolas   |
 |                              Gravação da apresentação                              |       15/01/2023       |          -          | Todos os integrantes |      -      |
 |                               Edição da apresentação                               |       15/01/2023       |          -          |       Mauricio       |      -      |
+
+**Tabela 7: Cronograma do Ponto de Controle 7**
 
 ## 9. Cronograma Ponto de Controle 8
 
@@ -100,6 +114,8 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                      Gravação da apresentação                      |       21/01/2023       |          -          | Todos os integrantes |      -       |
 |                       Edição da apresentação                       |       21/01/2023       |          -          |       Mauricio       |      -       |
 
+**Tabela 8: Cronograma do Ponto de Controle 8**
+
 ## 10. Cronograma Entrega Final
 
 |                        Atividade                         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
@@ -108,6 +124,12 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 | Relato da verificação da Etapa 8 e ajustes nos artefatos |       27/01/2023       |     28/01/2023      |       Nicolas        |    Davi     |
 |                 Gravação da apresentação                 |       29/01/2023       |          -          | Todos os integrantes |      -      |
 |                  Edição da apresentação                  |       29/01/2023       |          -          |       Mauricio       |      -      |
+
+**Tabela 9: Cronograma da Entrega Final**
+
+## 11. Referências
+
+SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
 
 ## Histórico de versão do arquivo
 
