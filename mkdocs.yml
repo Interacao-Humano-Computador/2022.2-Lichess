@@ -12,9 +12,8 @@ nav:
     - "10/11/2022": "atas/ata_10_11.md"
     - "15/11/2022": "atas/ata_15_11.md"
   - "Planejamento":
-    - "Ferramentas": "tools.md" 
     - "Cronograma": "planejamento/cronograma.md"
-
+    - "Ferramentas": "planejamento/tools.md" 
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
