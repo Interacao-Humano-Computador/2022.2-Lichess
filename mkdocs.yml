@@ -9,6 +9,8 @@ nav:
   - "About Us": "about_us.md"
   - "Atas":
     - "01/11/2022": "atas/ata_01_11.md"
+  - "Planejamento":
+    - "Cronograma": "planejamento/cronograma.md"
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
