@@ -109,6 +109,10 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                 Gravação da apresentação                 |       29/01/2023       |          -          | Todos os integrantes |      -      |
 |                  Edição da apresentação                  |       29/01/2023       |          -          |       Mauricio       |      -      |
 
+## 11. Referências
+
+SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
+
 ## Histórico de versão do arquivo
 
 |    Data    | Versão |                Descrição                | Autor            |
