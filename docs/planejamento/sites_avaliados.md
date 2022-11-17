@@ -43,6 +43,16 @@ O site [Age Telecom](https://www.agetelecom.com.br) teve como responsável pela 
 A principal dor do site Age Telecom está em sua falta de documentação no site o que faz o usuário constantemente recorrer ao suporte técnico, contudo o próprio suporte tem falhas para seu contato, gerando estresse ao usuário na hora de tirar dúvidas ou resolver problemas.
 Age Telecom é um site para disposição e contratação de um serviço de internet em Brasília. Para ver a avaliação completa cheque [esse link](sites_avaliados/resultados_age_telecom.md).
 
+## Sesc DF
+
+O site [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avaliação o integrante Davi Silva Matias, que identificou alguns erros acerca da heurística no site:
+
+- Projeto estético e minimalista;
+- Controle e liberdade do usuário;
+- Flexibilidade e eficiência de uso;
+
+O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inumeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rapido sobre algum tema em específico. 
+
 ## Referências Bibliográficas
 
 - MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
