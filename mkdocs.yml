@@ -1,4 +1,4 @@
-site_name: Grupo 02
+site_name: Lichess
 theme:
   name: material
   features:
@@ -8,10 +8,12 @@ nav:
   - "Home": index.md
   - "About Us": "about_us.md"
   - "Atas":
-    - "01/11/2022": "atas/ata_01_11.md"
+      - "01/11/2022": "atas/ata_01_11.md"
   - "Planejamento":
-    - "Cronograma": "planejamento/cronograma.md"
+      - "Cronograma": "planejamento/cronograma.md"
+      - Sites avaliados: "planejamento/sites_avaliados.md"
+      - Avaliação dos sites:
+          - Resultados TSE: "planejamento/sites_avaliados/resultados_tse.md"
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
-    
