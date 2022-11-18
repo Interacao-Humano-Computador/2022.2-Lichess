@@ -68,7 +68,7 @@ A avaliação completa não foi realizada pelo responsável.
 
  ## Lichess
 
-O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela avaliação o integrante Lucas Gabriel Sousa Camargo Paiva, que validando-se de um método de avaliação de inspeção, mais especificamente o de _ Avaliação Heurística __, identificou entraves nas seguintes heurísticas ao realizar a avaliação:
+O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela avaliação o integrante Lucas Gabriel Sousa Camargo Paiva, que validando-se de um método de avaliação de inspeção, mais especificamente o de __Avaliação Heurística__, identificou entraves nas seguintes heurísticas ao realizar a avaliação:
 
 - Status do sistema
 - Controle do usuário e liberdade
