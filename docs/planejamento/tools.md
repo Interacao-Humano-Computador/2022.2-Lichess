@@ -4,7 +4,7 @@
 
 | Versão | Data       |            Modificação            |        Autor         | Revisor |
 | ------ | ---------- | :-------------------------------: | :------------------: | ------- |
-| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | ---     |
+| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas Chagas Souza|
 
 ## 2. Introdução
 
