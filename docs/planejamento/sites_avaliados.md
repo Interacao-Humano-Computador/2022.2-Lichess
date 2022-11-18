@@ -66,6 +66,16 @@ O site [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsáve
 O principal problema do cadúnico está no excesso de redirecionamento outros sites, onde algumas das funções realiza inumeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
 A avaliação completa não foi realizada pelo responsável.
 
+ ## Lichess
+
+O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela avaliação o integrante Lucas Gabriel Sousa Camargo Paiva, que validando-se de um método de avaliação de inspeção, mais especificamente o de _ Avaliação Heurística __, identificou entraves nas seguintes heurísticas ao realizar a avaliação:
+
+- Status do sistema
+- Controle do usuário e liberdade
+- Flexibilidade e eficiência de uso
+- Estética e design minimalista
+
+Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao site apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o site apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sites_avaliados/resultados_lichess.pdf).
 ## Referências Bibliográficas
 
 - MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
@@ -78,3 +88,4 @@ A avaliação completa não foi realizada pelo responsável.
 | ------ | ----- | ------------- | ----------------------------- | ------- |
 | 1.0    | 16/11 | Nicolas Souza | Criação do Documento          |         |
 | 1.1    | 18/11 | Lucas Macedo  | Adição do tópico do cad unico |         |
+| 1.2    | 18/11 | Lucas Gabriel | Adição do tópico do lichess   |         |
