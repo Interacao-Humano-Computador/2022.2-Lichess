@@ -1,7 +1,11 @@
-site_name: Grupo 02
+site_name: Lichess
+
 theme:
   name: material
-  favicon: img/icon.png
+  logo: img/logo.png
+  favicon: img/logo.png
+  palette:
+    primary: grey
   features:
     - tabs
     - navigation.section
@@ -14,8 +18,9 @@ nav:
 
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
-      - Processo de Design: "planejamento/processo_de_design.md"
       - Ferramentas: "planejamento/tools.md"
+      # - Metodologia: "planejamento/metodologia.md"
+      - Processo de Design: "planejamento/processo_de_design.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
