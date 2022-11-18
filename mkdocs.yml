@@ -6,8 +6,7 @@ theme:
     - tabs
     - navigation.section
 nav:
-  - Home: index.md
-  - About Us: "about_us.md"
+  - Sobre o Projeto: "index.md"
   - Atas:
       - 01/11/2022: "atas/ata_01_11.md"
       - 10/11/2022: "atas/ata_10_11.md"
