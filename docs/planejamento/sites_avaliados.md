@@ -51,7 +51,20 @@ O site [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avaliaç
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inumeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rapido sobre algum tema em específico. 
+O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inumeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rapido sobre algum tema em específico.
+
+## Cad Unico
+
+O site [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsável pela avaliação o integrante Lucas Macedo Barboza, que identificou alguns erros acerca da heurística no site:
+
+- Prevenção de erros;
+- Ajuda e Documentação.
+- Correspondência entre o sistema e o mundo real;
+- Controle e liberdade do usuário;
+- Flexibilidade e eficiência de uso;
+
+O principal problema do cadúnico está no excesso de redirecionamento outros sites, onde algumas das funções realiza inumeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
+A avaliação completa não foi realizada pelo responsável.
 
 ## Referências Bibliográficas
 
@@ -61,6 +74,7 @@ O principal problema está no excesso de informações do site. Tendo em vista q
 
 ## Histórico de Versão
 
-| Versão | Data  | Autor         | Descrição            | Revisor |
-| ------ | ----- | ------------- | -------------------- | ------- |
-| 1.0    | 16/11 | Nicolas Souza | Criação do Documento |         |
+| Versão | Data  | Autor         | Descrição                     | Revisor |
+| ------ | ----- | ------------- | ----------------------------- | ------- |
+| 1.0    | 16/11 | Nicolas Souza | Criação do Documento          |         |
+| 1.1    | 18/11 | Lucas Macedo  | Adição do tópico do cad unico |         |
