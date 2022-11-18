@@ -1,23 +1,23 @@
 site_name: Grupo 02
 theme:
   name: material
+  favicon: img/icon.png
   features:
     - tabs
     - navigation.section
 nav:
-  - Home": index.md
-  - About Us": "about_us.md"
-  - Atas":
-    - 01/11/2022": "atas/ata_01_11.md"
-    - 10/11/2022": "atas/ata_10_11.md"
-    - 15/11/2022": "atas/ata_15_11.md"
+  - Home: index.md
+  - About Us: "about_us.md"
+  - Atas:
+      - 01/11/2022: "atas/ata_01_11.md"
+      - 10/11/2022: "atas/ata_10_11.md"
+      - 15/11/2022: "atas/ata_15_11.md"
 
-  - Planejamento":
-    - Cronograma": "planejamento/cronograma.md"
-    - Processo de Design: "planejamento/processo_de_design.md"
-    - Ferramentas": "planejamento/tools.md" 
+  - Planejamento:
+      - Cronograma: "planejamento/cronograma.md"
+      - Processo de Design: "planejamento/processo_de_design.md"
+      - Ferramentas: "planejamento/tools.md"
 
-  # - Nova navegação": "nome do arquivo relativo a docs"
-  # - Nova navegação":
-  #   - Navegação com filhos": "nome do arquivo relativo a docs"
-    
+  # - Nova navegação: "nome do arquivo relativo a docs"
+  # - Nova navegação:
+  #   - Navegação com filhos: "nome do arquivo relativo a docs"
