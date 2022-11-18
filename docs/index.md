@@ -14,4 +14,5 @@
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
+        tools.md  # The tools of project.
         ...       # Other markdown pages, images and other files.

@@ -5,17 +5,18 @@ theme:
     - tabs
     - navigation.section
 nav:
-  - "Home": index.md
-  - "About Us": "about_us.md"
-  - "Atas":
-      - "01/11/2022": "atas/ata_01_11.md"
-  - "Planejamento":
-      - "Cronograma": "planejamento/cronograma.md"
+  - Home: index.md
+  - About Us: "about_us.md"
+  - Atas:
+      - 01/11/2022: "atas/ata_01_11.md"
+  - Planejamento:
+      - Cronograma: "planejamento/cronograma.md"
+      - Ferramentas: "planejamento/tools.md"
       - Sites avaliados: "planejamento/sites_avaliados.md"
       - Avaliação dos sites:
           - Resultados TSE: "planejamento/sites_avaliados/resultados_tse.md"
-          - "Resultados Age Telecom": "planejamento/sites_avaliados/resultados_age_telecom.md"
-          - "Resultados Lichess": "planejamento/sites_avaliados/resultados_lichess.pdf"
-  # - "Nova navegação": "nome do arquivo relativo a docs"
-  # - "Nova navegação":
-  #   - "Navegação com filhos": "nome do arquivo relativo a docs"
+          - Resultados Age Telecom: "planejamento/sites_avaliados/resultados_age_telecom.md"
+          - Resultados Lichess: "planejamento/sites_avaliados/resultados_lichess.pdf"
+  # - Nova navegação: "nome do arquivo relativo a docs"
+  # - Nova navegação:
+  #   - Navegação com filhos: "nome do arquivo relativo a docs"

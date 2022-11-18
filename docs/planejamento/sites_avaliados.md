@@ -25,7 +25,7 @@ O site [Resultados - TSE](https://resultados.tse.jus.br/oficial/app/index.html#/
 - Reconhecimento em vez de memorização;
 - Ajuda e Documentação.
 
-Os principais problemas estão no uso de nomenclaturas que não pertencem ao domínio do público alvo em menus e falta de sinalização e indicativos de como configurar uma busca no sistema. A avaliação completa está diponível [neste link](sites_avaliados/resultados_tse.md).
+Os principais problemas estão no uso de nomenclaturas que não pertencem ao domínio do público alvo em menus e falta de sinalização e indicativos de como configurar uma busca no sistema. A avaliação completa está disponível [neste link](sites_avaliados/resultados_tse.md).
 
 ## Age Telecom
 
@@ -51,7 +51,7 @@ O site [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avaliaç
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inumeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rapido sobre algum tema em específico.
+O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inúmeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rápido sobre algum tema em específico.
 
 ## Cad Unico
 
@@ -63,12 +63,12 @@ O site [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsáve
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema do cadúnico está no excesso de redirecionamento outros sites, onde algumas das funções realiza inumeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
+O principal problema do cadúnico está no excesso de redirecionamento outros sites, onde algumas das funções realiza inúmeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
 A avaliação completa não foi realizada pelo responsável.
 
- ## Lichess
+## Lichess
 
-O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela avaliação o integrante Lucas Gabriel Sousa Camargo Paiva, que validando-se de um método de avaliação de inspeção, mais especificamente o de _ Avaliação Heurística __, identificou entraves nas seguintes heurísticas ao realizar a avaliação:
+O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela avaliação o integrante Lucas Gabriel Sousa Camargo Paiva, que validando-se de um método de avaliação de inspeção, mais especificamente o de _Avaliação Heurística_, identificou entraves nas seguintes heurísticas ao realizar a avaliação:
 
 - Status do sistema
 - Controle do usuário e liberdade
@@ -76,6 +76,7 @@ O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela 
 - Estética e design minimalista
 
 Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao site apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o site apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sites_avaliados/resultados_lichess.pdf).
+
 ## Referências Bibliográficas
 
 - MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
@@ -87,5 +88,5 @@ Os principais problemas estão na falta de uma design minimalista e flexibilidad
 | Versão | Data  | Autor         | Descrição                     | Revisor |
 | ------ | ----- | ------------- | ----------------------------- | ------- |
 | 1.0    | 16/11 | Nicolas Souza | Criação do Documento          |         |
-| 1.1    | 18/11 | Lucas Macedo  | Adição do tópico do cad unico |         |
-| 1.2    | 18/11 | Lucas Gabriel | Adição do tópico do lichess   |         |
+| 1.1    | 18/11 | Lucas Macedo  | Adição do tópico do Cad Único |  Nicolas Souza  |
+| 1.2    | 18/11 | Lucas Gabriel | Adição do tópico do Lichess   |  Nicolas Souza  |

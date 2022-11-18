@@ -136,6 +136,6 @@ Para realização do percurso cognitivo foram elaborados duas personas.
 
 ## Histórico de Versão
 
-| Versão | Data       | Autor            | Descrição            | Revisor |
-| ------ | ---------- | ---------------- | -------------------- | ------- |
-| 1.0    | 16/11/2022 | Mauricio Machado | Criação do Documento |         |
+| Versão | Data       | Autor            | Descrição            | Revisor        |
+| ------ | ---------- | ---------------- | -------------------- | -------------- |
+| 1.0    | 16/11/2022 | Mauricio Machado | Criação do Documento | Nicolas Souza  |
