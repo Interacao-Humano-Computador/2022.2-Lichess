@@ -1,22 +1,27 @@
-site_name: Grupo 02
+site_name: Lichess
+
 theme:
   name: material
+  logo: img/logo.png
+  favicon: img/logo.png
+  palette:
+    primary: grey
   features:
     - tabs
     - navigation.section
 nav:
-  - "Home": index.md
-  - "About Us": "about_us.md"
-  - "Atas":
-    - "01/11/2022": "atas/ata_01_11.md"
-    - "10/11/2022": "atas/ata_10_11.md"
-    - "15/11/2022": "atas/ata_15_11.md"
+  - Sobre o Projeto: "index.md"
+  - Atas:
+      - 01/11/2022: "atas/ata_01_11.md"
+      - 10/11/2022: "atas/ata_10_11.md"
+      - 15/11/2022: "atas/ata_15_11.md"
 
-  - "Planejamento":
-    - "Cronograma": "planejamento/cronograma.md"
-    - "Ferramentas": "planejamento/tools.md" 
+  - Planejamento:
+      - Cronograma: "planejamento/cronograma.md"
+      - Ferramentas: "planejamento/tools.md"
+      # - Metodologia: "planejamento/metodologia.md"
+      - Processo de Design: "planejamento/processo_de_design.md"
 
-  # - "Nova navegação": "nome do arquivo relativo a docs"
-  # - "Nova navegação":
-  #   - "Navegação com filhos": "nome do arquivo relativo a docs"
-    
+  # - Nova navegação: "nome do arquivo relativo a docs"
+  # - Nova navegação:
+  #   - Navegação com filhos: "nome do arquivo relativo a docs"
