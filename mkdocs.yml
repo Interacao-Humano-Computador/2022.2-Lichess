@@ -15,7 +15,8 @@ nav:
   - "Planejamento":
     - "Cronograma": "planejamento/cronograma.md"
     - "Ferramentas": "planejamento/tools.md" 
-
+    - "Metodologias": "planejamento/metodologias.md"
+    
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
   #   - "Navegação com filhos": "nome do arquivo relativo a docs"
