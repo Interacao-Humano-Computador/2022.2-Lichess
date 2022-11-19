@@ -74,6 +74,7 @@ O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela 
 - Controle do usuário e liberdade
 - Flexibilidade e eficiência de uso
 - Estética e design minimalista
+- Ajuda e documentação
 
 Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao site apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o site apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sites_avaliados/resultados_lichess.pdf).
 
