@@ -15,6 +15,7 @@ nav:
   - "Planejamento":
     - "Cronograma": "planejamento/cronograma.md"
     - "Ferramentas": "planejamento/tools.md" 
+    - "Sítio selecionado": "planejamento/app_selected.md" 
 
   # - "Nova navegação": "nome do arquivo relativo a docs"
   # - "Nova navegação":
