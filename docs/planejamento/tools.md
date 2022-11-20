@@ -4,7 +4,7 @@
 
 | Versão | Data       |            Modificação            |        Autor         | Revisor |
 | ------ | ---------- | :-------------------------------: | :------------------: | ------- |
-| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas Chagas Souza e Lucas Gabriel|
+| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas Souza|
 
 ## 2. Introdução
 
@@ -32,4 +32,4 @@
 
 ## 4. Referências
 
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/. Acesso em: 16 de novembro de 2022.
+> Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
