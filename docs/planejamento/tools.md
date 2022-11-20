@@ -1,10 +1,10 @@
 # Ferramentas
 
-## 2. Introdução
+## Introdução
 
 <p> As ferramentas foram escolhidas visando a fácil interação dos integrantes do grupo em contexto remoto, tanto assíncrono quanto síncrono. Também foi levado em consideração o nível de familiaridade dos integrantes com as ferramentas, com a intenção de diminuir o atrito e aumentar a eficiência nas atividades do projeto. </p>
 
-## 3. Ferramentas utilizadas
+## Ferramentas utilizadas
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto</p>
@@ -24,11 +24,11 @@
 <p>Fonte: Grupo 2</p>
 </div>
 
-## 4. Referências
+## Referências Bibliográficas
 
-> Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
+[1] Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
 
-# Histórico de Versão
+## Histórico de Versão
 
 | Versão   | Data       | Descrição                         |  Autor        | Revisor          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |

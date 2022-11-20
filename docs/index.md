@@ -1,5 +1,4 @@
-
-## Lichess
+# Lichess
 
 <div style="text-align: center">
 <img src="img/logo.png" style="width:15vw"/>
@@ -22,7 +21,7 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 |        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">         |   Lucas Macedo   |            [Luckx98](https://github.com/Luckx98)            |
 |         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
 
-# Histórico de Versão
+## Histórico de Versão
 
 | Versão   | Data       | Descrição                         |  Autor        | Revisor          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
