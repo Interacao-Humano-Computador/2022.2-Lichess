@@ -19,7 +19,7 @@ nav:
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
       - Ferramentas: "planejamento/tools.md"
-      # - Metodologia: "planejamento/metodologia.md"
+      - Metodologia: "planejamento/metodologias.md"
       - Processo de Design: "planejamento/processo_de_design.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
