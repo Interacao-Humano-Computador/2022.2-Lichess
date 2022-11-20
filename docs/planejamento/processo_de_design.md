@@ -14,8 +14,9 @@ As atividades do processo de design podem ser organizadas de acordo com alguns c
 
 ## Ciclo de vida simples
 
+![Ciclo de vida Simples](../img/planejamento/processo_de_design/ciclo-de-vida-simples.png)
+
 <div style="text-align: center">
-<img src="/img/planejamento/processo_de_design/ciclo-de-vida-simples.png">
 <p> Imagem 1: Ciclo de vida simples. Fonte: [1]</p>
 </div>
 
@@ -23,8 +24,9 @@ No ciclo de vida simples, a atividade de sínteses é dividida em design (ou red
 
 ## Ciclo de vida em estrela
 
+![Ciclo de vida em Estrela](../img/planejamento/processo_de_design/ciclo-de-vida-em-estrela.png)
+
 <div style="text-align: center">
-<img src="/img/planejamento/processo_de_design/ciclo-de-vida-em-estrela.png">
 <p> Imagem 2: Ciclo de vida em estrela. Fonte: [1]</p>
 </div>
 
@@ -47,8 +49,9 @@ Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como 
 
 ## Ciclo de vida de Mayhew
 
+![Ciclo de vida Mayhew](../img/planejamento/processo_de_design/ciclo-de-vida-mayhew.png)
+
 <div style="text-align: center">
-<img src="/img/planejamento/processo_de_design/ciclo-de-vida-mayhew.png">
 <p> Imagem 3: Ciclo de vida de Mayhew. Fonte: [1]</p>
 </div>
 
@@ -62,11 +65,8 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-
 ## Histórico de Versão
 
 | Versão   | Data       | Descrição            |  Autor        | Revisor          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `0.1`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |
-
-

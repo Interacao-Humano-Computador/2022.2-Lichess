@@ -17,14 +17,14 @@ nav:
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
       - Ferramentas: "planejamento/tools.md"
-      - Sites avaliados: "planejamento/sites_avaliados.md"
+      - Metodologia: "planejamento/metodologias.md"
+      - Sítios avaliados: "planejamento/sites_avaliados.md"
       - Avaliação dos sites:
           - Resultados TSE: "planejamento/sites_avaliados/resultados_tse.md"
           - Resultados Age Telecom: "planejamento/sites_avaliados/resultados_age_telecom.md"
           - Resultados Lichess: "planejamento/sites_avaliados/resultados_lichess.pdf"
-      - Metodologia: "planejamento/metodologias.md"
-      - Processo de Design: "planejamento/processo_de_design.md"
       - Sítio selecionado: "planejamento/app_selected.md"
+      - Processo de Design: "planejamento/processo_de_design.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
