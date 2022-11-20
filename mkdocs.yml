@@ -22,7 +22,7 @@ nav:
           - Resultados TSE: "planejamento/sites_avaliados/resultados_tse.md"
           - Resultados Age Telecom: "planejamento/sites_avaliados/resultados_age_telecom.md"
           - Resultados Lichess: "planejamento/sites_avaliados/resultados_lichess.pdf"
-      # - Metodologia: "planejamento/metodologia.md"
+      - Metodologia: "planejamento/metodologia.md"
       - Processo de Design: "planejamento/processo_de_design.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
