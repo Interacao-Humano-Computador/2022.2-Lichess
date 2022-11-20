@@ -133,6 +133,6 @@ SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://ap
 
 ## Histórico de versão do arquivo
 
-|    Data    | Versão |                Descrição                | Autor            |
-| :--------: | :----: | :-------------------------------------: | :--------------- |
-| 16/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Mauricio Machado |
+|    Data    | Versão |                Descrição                | Autor            | Revisor       |
+| :--------: | :----: | :-------------------------------------: | :--------------- | ------------- |
+| 16/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
