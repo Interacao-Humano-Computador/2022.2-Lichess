@@ -1,11 +1,5 @@
 # Ferramentas
 
-## 1. Versionamento
-
-| Versão | Data       |            Modificação            |        Autor         | Revisor |
-| ------ | ---------- | :-------------------------------: | :------------------: | ------- |
-| 1.0    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo Barboza | Nicolas Souza|
-
 ## 2. Introdução
 
 <p> As ferramentas foram escolhidas visando a fácil interação dos integrantes do grupo em contexto remoto, tanto assíncrono quanto síncrono. Também foi levado em consideração o nível de familiaridade dos integrantes com as ferramentas, com a intenção de diminuir o atrito e aumentar a eficiência nas atividades do projeto. </p>
@@ -33,3 +27,9 @@
 ## 4. Referências
 
 > Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
+
+# Histórico de Versão
+
+| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
+| `0.1`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |

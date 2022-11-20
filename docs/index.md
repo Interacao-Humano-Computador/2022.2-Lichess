@@ -22,10 +22,10 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 |        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">         |   Lucas Macedo   |            [Luckx98](https://github.com/Luckx98)            |
 |         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
 
-## Histórico de versão do arquivo
+# Histórico de Versão
 
-|    Data    | Versão |                      Descrição                      | Autor             | Revisor |
-| :--------: | :----: | :-------------------------------------------------: | :---------------- | - |
-| 06/11/2022 |  1.0   | Versão inicial de documento de descrição do projeto | MauricioMachadoFF | Nicolas |
-| 11/11/2022 |  1.1   | Remoção de um integrante da tabela da equipe.       | Nicolas           | - |
-| 18/11/2022 |  1.2   | Inclusão da descrição do projeto.                   | Nicolas           | |
+| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
+| 06/11/2022 |  `0.1`   | Versão inicial de documento de descrição do projeto | Mauricio Machado | Nicolas Souza
+| 11/11/2022 |  `0.2`   | Remoção de um integrante da tabela da equipe.       | Nicolas Souza         | - |
+| 18/11/2022 |  `0.3`   | Inclusão da descrição do projeto.                   | Nicolas Souza         | - |

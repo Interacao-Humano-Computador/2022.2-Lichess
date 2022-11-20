@@ -71,8 +71,8 @@ As mensagens dos _commits_ devem seguir o padrão:
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
-## Histórico de versões
+# Histórico de Versão
 
-|    Data     | Versão | Descrição            | Autor(es)                   | Revisor  |
-| :-------:   | :----: | :------------------: | :-----------------------:   | :-:      |
-|  18/11/2022 |  0.1   | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
+| Versão   | Data       | Descrição            |  Autor(es)        | Revisor          |
+| :------: | :--------: |:-------------------: | :-----------: | :-----:          |
+| `0.1`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
