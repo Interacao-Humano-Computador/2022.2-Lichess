@@ -132,4 +132,4 @@ O caminho para configurar a pesquisa está ilustrado abaixo.
 
 | Versão | Data  | Autor         | Descrição            | Revisor       |
 | ------ | ----- | ------------- | -------------------- | ------------- |
-| 1.0    | 16/11 | Nicolas Souza | Criação do Documento |  |
+| 1.0    | 16/11 | Nicolas Souza | Criação do Documento | Mauricio |
