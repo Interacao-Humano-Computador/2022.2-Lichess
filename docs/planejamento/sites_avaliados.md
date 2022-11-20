@@ -1,10 +1,10 @@
-# Sites Avaliados
+# Sítios Avaliados
 
 ## Introdução
 
-Com o intuito de explorar as possibilidades de escolha para o site a ser avaliado durante o projeto da disciplina, cada integrante escolheu um site e avaliou sua interação humano computador a partir, baseando-se nas heurísticas de Nielsen. A distribuição dos sites escolhidos encontra-se na Tabela 1.
+Com o intuito de explorar as possibilidades de escolha para o sítio a ser avaliado durante o projeto da disciplina, cada integrante escolheu um sítio e avaliou sua interação humano computador a partir, baseando-se nas heurísticas de Nielsen. A distribuição dos sítios escolhidos encontra-se na Tabela 1.
 
-| Nome          | Site avaliado            |
+| Nome          | sítio avaliado            |
 | ------------- | ------------------------ |
 | Davi          | Sesc DF                  |
 | Lucas Gabriel | Lichess                  |
@@ -14,22 +14,22 @@ Com o intuito de explorar as possibilidades de escolha para o site a ser avaliad
 | Nicolas       | Resultados Eleição - TSE |
 
 <div style="text-align: center">
-<p> Tabela 1 - Sites avaliados </p>
+<p> Tabela 1 - sítios avaliados </p>
 </div>
 
 ## Resultados Eleição - TSE
 
-O site [Resultados - TSE](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados) teve como responsável pela avaliação o integrante Nicolas Chagas, que identificou três problemas principais de usabilidade, correspondentes a violação das seguintes heurísticas:
+O sítio [Resultados - TSE](https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados) teve como responsável pela avaliação o integrante Nicolas Chagas, que identificou três problemas principais de usabilidade, correspondentes a violação das seguintes heurísticas:
 
 - Correspondência entre o sistema e o mundo real;
 - Reconhecimento em vez de memorização;
 - Ajuda e Documentação.
 
-Os principais problemas estão no uso de nomenclaturas que não pertencem ao domínio do público alvo em menus e falta de sinalização e indicativos de como configurar uma busca no sistema. A avaliação completa está disponível [neste link](sites_avaliados/resultados_tse.md).
+Os principais problemas estão no uso de nomenclaturas que não pertencem ao domínio do público alvo em menus e falta de sinalização e indicativos de como configurar uma busca no sistema. A avaliação completa está disponível [neste link](sítios_avaliados/resultados_tse.md).
 
 ## Age Telecom
 
-O site [Age Telecom](https://www.agetelecom.com.br) teve como responsável pela avaliação o integrante Mauricio Machado, que identificou as seguintes heurísticas violadas:
+O sítio [Age Telecom](https://www.agetelecom.com.br) teve como responsável pela avaliação o integrante Mauricio Machado, que identificou as seguintes heurísticas violadas:
 
 - Reconhecimento através da memorização;
 - Projeto estético e minimalista;
@@ -40,22 +40,22 @@ O site [Age Telecom](https://www.agetelecom.com.br) teve como responsável pela 
 - Controle e liberdade de uso;
 - Correspondência entre sistema e o mundo real.
 
-A principal dor do site Age Telecom está em sua falta de documentação no site o que faz o usuário constantemente recorrer ao suporte técnico, contudo o próprio suporte tem falhas para seu contato, gerando estresse ao usuário na hora de tirar dúvidas ou resolver problemas.
-Age Telecom é um site para disposição e contratação de um serviço de internet em Brasília. Para ver a avaliação completa cheque [esse link](sites_avaliados/resultados_age_telecom.md).
+A principal dor do sítio Age Telecom está em sua falta de documentação no sítio o que faz o usuário constantemente recorrer ao suporte técnico, contudo o próprio suporte tem falhas para seu contato, gerando estresse ao usuário na hora de tirar dúvidas ou resolver problemas.
+Age Telecom é um sítio para disposição e contratação de um serviço de internet em Brasília. Para ver a avaliação completa cheque [esse link](sítios_avaliados/resultados_age_telecom.md).
 
 ## Sesc DF
 
-O site [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avaliação o integrante Davi Silva Matias, que identificou alguns erros acerca da heurística no site:
+O sítio [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avaliação o integrante Davi Silva Matias, que identificou alguns erros acerca da heurística no sítio:
 
 - Projeto estético e minimalista;
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema está no excesso de informações do site. Tendo em vista que o mesmo, em sua tela inicial, oferece inúmeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rápido sobre algum tema em específico.
+O principal problema está no excesso de informações do sítio. Tendo em vista que o mesmo, em sua tela inicial, oferece inúmeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rápido sobre algum tema em específico.
 
 ## Cad Unico
 
-O site [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsável pela avaliação o integrante Lucas Macedo Barboza, que identificou alguns erros acerca da heurística no site:
+O sítio [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsável pela avaliação o integrante Lucas Macedo Barboza, que identificou alguns erros acerca da heurística no sítio:
 
 - Prevenção de erros;
 - Ajuda e Documentação.
@@ -63,7 +63,7 @@ O site [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsáve
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema do cadúnico está no excesso de redirecionamento outros sites, onde algumas das funções realiza inúmeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
+O principal problema do cadúnico está no excesso de redirecionamento outros sítios, onde algumas das funções realiza inúmeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
 A avaliação completa não foi realizada pelo responsável.
 
 ## Lichess
@@ -76,7 +76,7 @@ O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela 
 - Estética e design minimalista
 - Ajuda e documentação
 
-Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao site apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o site apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sites_avaliados/resultados_lichess.pdf).
+Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao sítio apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o sítio apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sítios_avaliados/resultados_lichess.pdf).
 
 ## Referências Bibliográficas
 
