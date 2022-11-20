@@ -1,23 +1,22 @@
 # <center>Metodologias
 
 ### Histórico das versões
+
 |    Data     | Versão | Descrição            | Autor(es)     | Revisor(es)|
 |  :-------:  | :----: | :------------------: | :-----------: | :-: |
 |  18.11.2022 |  0.1   | Criação do documento | Davi Silva    | Mauricio Machado |
-
 
 ## 1. Introdução
 
 Nossa equipe contou com diferentes metodologias as quais de certa forma integram e agilizam nosso processo de desenvolvimento como um todo. É correto observar, que esse documento tem como objetivo informar sobre nossas metodologias em diferentes situações, e de certa forma,explicar como nosso time se comunicou e trabalhou durante todo o processo.  
 
-## 2. XP(eXtreme Progamming)
+## 2. XP (eXtreme Programming)
 
 O método XP é uma metodologia ágil e pode ser aplicada para otimizar processos e gerar valor ao cliente desejado. Nós usamos também, o método XP pois, de maneira direta, ele tem como objetivo desenvolver sistemas de qualidade, com um interação mais dinâmica e acessível com o cliente e testagem de ciclos de desenvolvimento rápidos e de maneira constante. Nós adaptamos o modelo ao nosso contexto para que dessa forma pudéssemos aproveitar de 100% do processo.
 
 ### 2.1  Refatoração
 
 Nossa equipe, de forma dinâmica e constante, busca melhorar e otimizar o projeto, deixando-o mais claro, com menos possibilidade de erros e de duplicação de processos, a partir de revisões e reuniões.
-
 
 ### 2.2 Propriedade coletiva
 
@@ -45,7 +44,6 @@ As reuniões semanais têm como principais objetivos a realização de um  momen
 
 A organização das tarefas será feita por meio da criação de _issues_ e a revisão dos artefatos será feita durante o _pull request_ referente à cada funcionalidade adicionada. Dessa forma é possível manter uma rastreabilidade das alterações e revisões efetuadas.
 
-
 ## 5. Políticas
 
 ### Política de _branches_
@@ -55,6 +53,19 @@ As branches devem ser nomeadas de acordo com a _issue_ correspondente, seguindo 
 
 Onde `tipo` diz respeito ao tipo de _issue_: _feat_ (funcionalidade), _refac_ (refatoração) ou _fix_ (conserto).
 
+> Exemplo:
+>
+> A branch referente à issue `#3 feature: metodologias` pode ter o nome: `feat/3-metodologias`
+
+### Política de _commits_
+
+As mensagens dos _commits_ devem seguir o padrão:
+
+`git commit -m "#issue descrição`
+
+> Exemplo:
+>
+> O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `#3 cria documento de metodologias`
 
 ## Referências Bibliográficas
 
@@ -62,6 +73,6 @@ Onde `tipo` diz respeito ao tipo de _issue_: _feat_ (funcionalidade), _refac_ (r
 
 ## Histórico de versões
 
-|    Data     | Versão | Descrição            | Autor(es)     | Revisor |
-| :-------: | :----: | :------------------: | :-----------: | :-: |
-|  18/11/2022 |  0.1   | Criação do documento | Davi Silva e Nicolas Souza  |  |
+|    Data     | Versão | Descrição            | Autor(es)                   | Revisor  |
+| :-------:   | :----: | :------------------: | :-----------------------:   | :-:      |
+|  18/11/2022 |  0.1   | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
