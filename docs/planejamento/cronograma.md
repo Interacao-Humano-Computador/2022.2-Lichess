@@ -1,12 +1,12 @@
 # Cronograma
 
-## 1. Introdução
+## Introdução
 
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador para o segundo semestre de 2022.
 
 Este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
 
-## 2. Cronograma Ponto de Controle 1
+## Cronograma Ponto de Controle 1
 
 |            Atividade             | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |     Revisor(es)      |
 | :------------------------------: | :--------------------: | :-----------------: | :------------------: | :------------------: |
@@ -22,7 +22,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 1: Cronograma do Ponto de Controle 1**
 
-## 3. Cronograma Ponto de Controle 2
+## Cronograma Ponto de Controle 2
 
 |                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
@@ -35,7 +35,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 2: Cronograma do Ponto de Controle 2**
 
-## 4. Cronograma Ponto de Controle 3
+## Cronograma Ponto de Controle 3
 
 |          Atividade           | Data Limite de Entrega | Data Limite Revisão |       Autor(es)        |  Revisor(es)  |
 | :--------------------------: | :--------------------: | :-----------------: | :--------------------: | :-----------: |
@@ -47,7 +47,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 3: Cronograma do Ponto de Controle 3**
 
-## 5. Cronograma Ponto de Controle 4
+## Cronograma Ponto de Controle 4
 
 |                                Atividade                                | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :---------------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
@@ -60,7 +60,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 4: Cronograma do Ponto de Controle 4**
 
-## 6. Cronograma Ponto de Controle 5
+## Cronograma Ponto de Controle 5
 
 |                                Atividade                                | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :---------------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
@@ -73,7 +73,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 5: Cronograma do Ponto de Controle 5**
 
-## 7. Cronograma Ponto de Controle 6
+## Cronograma Ponto de Controle 6
 
 |                        Atividade                         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |  Revisor(es)  |
 | :------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :-----------: |
@@ -92,7 +92,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 6: Cronograma do Ponto de Controle 6**
 
-## 8. Cronograma Ponto de Controle 7
+## Cronograma Ponto de Controle 7
 
 |                                     Atividade                                      | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :--------------------------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
@@ -104,7 +104,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 7: Cronograma do Ponto de Controle 7**
 
-## 9. Cronograma Ponto de Controle 8
+## Cronograma Ponto de Controle 8
 
 |                             Atividade                              | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
 | :----------------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
@@ -116,7 +116,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 8: Cronograma do Ponto de Controle 8**
 
-## 10. Cronograma Entrega Final
+## Cronograma Entrega Final
 
 |                        Atividade                         | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es) |
 | :------------------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------: |
@@ -127,12 +127,12 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 9: Cronograma da Entrega Final**
 
-## 11. Referências
+## Referências Bibliográficas
 
-SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
 
-## Histórico de versão do arquivo
+## Histórico de Versão
 
-|    Data    | Versão |                Descrição                | Autor            | Revisor       |
-| :--------: | :----: | :-------------------------------------: | :--------------- | ------------- |
-| 16/11/2022 |  1.0   | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
+| Versão   | Data       | Descrição            |  Autor        | Revisor          |
+| :------: | :--------: |:-------------------: | :-----------: | :-----:          |
+|  `0.1`   | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |

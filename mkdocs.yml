@@ -24,6 +24,7 @@ nav:
           - Resultados Lichess: "planejamento/sites_avaliados/resultados_lichess.pdf"
       - Metodologia: "planejamento/metodologia.md"
       - Processo de Design: "planejamento/processo_de_design.md"
+      - Sítio selecionado: "planejamento/app_selected.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
   # - Nova navegação:
