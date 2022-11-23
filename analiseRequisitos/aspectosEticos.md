@@ -19,10 +19,10 @@ Os questionários utilizados pela equipe possuem o seguinte termo de consentimen
 
 Somos uma equipe da disciplina de Interação Humano Computador, que está realizando uma avaliação do sistema Lichess, um sítio da internet que tem como foco a prática de xadrez online, os resultados desse projeto podem ser observados através deste [link](https://interacao-humano-computador.github.io/2022.2-Lichess/). Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que usam o sistema pensam a respeito de suas características e funcionamento e como imaginam que o novo sistema deveria apoiar a sua prática. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização de um questionário com duração de _________ . Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
-- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema Lichess.
+- Os dados coletados durante o questionário destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema Lichess.
 - Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
-- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-- A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
+- O consentimento para o questionário é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- O questionário pode ser interrompido a qualquer momento, segundo a sua disponibilidade e vontade.
 
 Diante das explicações você acha que está suficientemente informado(a) a respeito da pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador ?
 Caso o participante seja menor de idade é necessário a permissão do responsável legal.
