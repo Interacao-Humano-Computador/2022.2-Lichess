@@ -17,6 +17,6 @@ Vídeo 1: Apresentação da etapa 1 do projeto
 
 ## Histórico de versão do arquivo
 
-|  Data    | Versão |   Descrição              | Autor            | Revisor       |
+|  Data    | Versão |   Descrição              | Autor(es)        | Revisor(es)   |
 | :------: | :----: | :----------------------: | :--------------- | :-----------: |
 |22/11/2022| `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |

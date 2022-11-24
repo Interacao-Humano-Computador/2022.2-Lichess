@@ -67,6 +67,6 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor        | Revisor          |
+| Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |

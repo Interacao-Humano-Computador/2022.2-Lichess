@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é o cronograma com atualizações de o que foi feito, suas respectivas datas e autores/revisores.
+Este é o cronograma com atualizações de o que foi feito, suas respectivas datas e autores/Revisor(es)es.
 
 ## Cronograma Ponto de Controle 1
 
@@ -28,6 +28,6 @@ Na tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 ## Histórico de Versão
 
-| Versão |    Data    |                Descrição                |      Autor       |    Revisor    |
+| Versão |    Data    |                Descrição                |      Autor(es)      |    Revisor(es)    |
 | :----: | :--------: | :-------------------------------------: | :--------------: | :-----------: |
 | `1.0`  | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
