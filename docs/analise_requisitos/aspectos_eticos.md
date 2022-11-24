@@ -33,6 +33,7 @@ Caso o participante seja menor de idade é necessário a permissão do responsá
 ## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+
 [2] Johnson, D.G. Computer Ethics, 3a edição. Englewood Cliffs, NJ: Prentice Hall, 2001.
 
 ## Tabela de Versionamento
