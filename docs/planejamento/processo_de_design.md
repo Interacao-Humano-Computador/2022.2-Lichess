@@ -17,7 +17,7 @@ As atividades do processo de design podem ser organizadas de acordo com alguns c
 ![Ciclo de vida Simples](../img/planejamento/processo_de_design/ciclo-de-vida-simples.png)
 
 <div style="text-align: center">
-<p> Imagem 1: Ciclo de vida simples. Fonte: [1]</p>
+<p> Imagem 1: Ciclo de vida simples (Fonte: [1]).</p>
 </div>
 
 No ciclo de vida simples, a atividade de sínteses é dividida em design (ou redesign) e na construção de uma versão interativa. A iteração entre as atividades pode ocorrer quantas vezes forem necessárias. Esse modelo é mais indicado para designers que já possuam experiência, haja vista que ele apresenta atividades pouco detalhadas.
@@ -27,7 +27,7 @@ No ciclo de vida simples, a atividade de sínteses é dividida em design (ou red
 ![Ciclo de vida em Estrela](../img/planejamento/processo_de_design/ciclo-de-vida-em-estrela.png)
 
 <div style="text-align: center">
-<p> Imagem 2: Ciclo de vida em estrela. Fonte: [1]</p>
+<p> Imagem 2: Ciclo de vida em estrela (Fonte: [1]).</p>
 </div>
 
 No ciclo de vida em estrela, o designer pode começar o processo por qualquer uma das pontas, desde que, após concluir cada atividade, este realize uma avaliação dos resultados obtidos. Neste modelo, a atividade de síntese é dividida nas atividades de projeto conceitual e especificação do design, prototipação e implementação.
@@ -52,7 +52,7 @@ Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como 
 ![Ciclo de vida Mayhew](../img/planejamento/processo_de_design/ciclo-de-vida-mayhew.png)
 
 <div style="text-align: center">
-<p> Imagem 3: Ciclo de vida de Mayhew. Fonte: [1]</p>
+<p> Imagem 3: Ciclo de vida de Mayhew (Fonte: [1]).</p>
 </div>
 
 Nesse ciclo de vida as atividades são divididas em três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação. A primeira fase consiste na definição das metas de usabilidade, com base em dados coletados por meio de atividades como a análise do perfil do usuário e das tarefas. Durante a segunda fase o designer elabora uma solução de IHC atendendo as metas de usabilidade definidas na primeira fase. Por fim, na etapa de instalação, o projetista coleta opiniões dos usuários após o uso do sistema e utiliza tais opiniões na elaboração de melhorias.
@@ -67,6 +67,6 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor        | Revisor          |
+| Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |

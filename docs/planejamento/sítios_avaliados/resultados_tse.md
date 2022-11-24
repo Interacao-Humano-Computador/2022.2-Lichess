@@ -130,7 +130,7 @@ O caminho para configurar a pesquisa está ilustrado abaixo.
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                     | Autor         | Revisor       |
+| Versão | Data  | Descrição                     | Autor(es)        | Revisor(es)       |
 | ------ | ----- | ----------------------------- | ------------- | ------------- |
 | `1.0`  | 16/11 | Criação do Documento          | Nicolas Souza | Mauricio      |
 | `1.1`  | 24/11 | Inclusão da fonte nas legendas| Nicolas Souza | -             |

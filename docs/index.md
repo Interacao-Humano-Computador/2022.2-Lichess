@@ -3,7 +3,7 @@
 <div style="text-align: center">
 <img src="img/logo.png" style="width:15vw"/>
 
-<p> Figura 1: Logo do Lichess. Fonte: <a href="https://lichess.org/blog/XeRN0BAAACAA7HJu/a-new-logo-for-lichess"> lichess.org </a></p>
+<p> Figura 1: Logo do Lichess (Fonte: <a href="https://lichess.org/blog/XeRN0BAAACAA7HJu/a-new-logo-for-lichess"> lichess.org</a>).</p>
 
 </div>
 
@@ -11,7 +11,7 @@ Essa página dedica-se aos artefatos produzidos durante a disciplina de Interaç
 
 ## Equipe
 
-Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de Software da Universidade de Brasília:
+Nossa equipe de trabalho é composta pelos estudantes  de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
 |                                          Foto                                           |       Nome       |                          Github                           |
 | :-------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
@@ -21,9 +21,13 @@ Nossa equipe de trabalho é composta pelos seguintes estudantes de Engenharia de
 |        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">         |   Lucas Macedo   |            [Luckx98](https://github.com/Luckx98)            |
 |         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
 
+<div style="text-align: center">
+<p> Tabela 1: Equipe de trabalho (Fonte: autor, 2022).</p>
+</div>
+
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| Versão   | Data       | Descrição                         |  Autor(es)        | Revisor(es)          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
 | 06/11/2022 |  `1.0`   | Versão inicial de documento de descrição do projeto | Mauricio Machado | Nicolas Souza
 | 11/11/2022 |  `1.1`   | Remoção de um integrante da tabela da equipe.       | Nicolas Souza         | - |

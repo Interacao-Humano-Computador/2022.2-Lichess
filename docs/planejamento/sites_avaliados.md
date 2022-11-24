@@ -86,7 +86,7 @@ Os principais problemas estão na falta de uma design minimalista e flexibilidad
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                 |Autor         |  Revisor |
+| Versão | Data  | Descrição                 |Autor(es)        |  Revisor(es) |
 | ------ | ----- | ------------- | ----------------------------- | ------- |
 | `1.0`    | 16/11 |  Criação do Documento          |  Nicolas Souza | Davi Silva     |
 | `1.1`    | 18/11 |  Adição do tópico do Cad Único | Lucas Macedo  | Nicolas Souza  |
