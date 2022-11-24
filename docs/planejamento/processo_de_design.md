@@ -69,4 +69,4 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 
 | Versão   | Data       | Descrição            |  Autor        | Revisor          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| `0.1`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |
+| `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |

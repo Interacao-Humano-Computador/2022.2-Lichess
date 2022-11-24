@@ -19,4 +19,4 @@ Vídeo 1: Apresentação da etapa 1 do projeto
 
 |  Data    | Versão |   Descrição              | Autor            | Revisor       |
 | :------: | :----: | :----------------------: | :--------------- | :-----------: |
-|22/11/2022| `0.1`  | Adição da apresentação 1 | Mauricio Machado |  |
+|22/11/2022| `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |

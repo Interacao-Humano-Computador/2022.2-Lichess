@@ -69,4 +69,4 @@ As mensagens dos _commits_ devem seguir o padrão:
 
 | Versão   | Data       | Descrição            |  Autor(es)        | Revisor          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| `0.1`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
+| `1.0`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
