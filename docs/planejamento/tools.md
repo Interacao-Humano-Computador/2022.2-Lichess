@@ -30,6 +30,6 @@
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| Data   | Data       | Descrição                         |  Autor        | Revisor          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
-| `0.1`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
+| 16/11/2022    | `1.0`  | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |

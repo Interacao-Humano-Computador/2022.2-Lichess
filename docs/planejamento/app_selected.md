@@ -39,4 +39,4 @@ Segue, na imagem 1, a página inicial do sítio eletrônico:
 
 | Versão   | Data       | Descrição            |  Autor        | Revisor          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| `0.1`    | 19/11/2022 | Criação do documento | Lucas Gabriel  | Nicolas Souza |
+| `1.0`    | 19/11/2022 | Criação do documento | Lucas Gabriel  | Nicolas Souza |
