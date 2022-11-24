@@ -22,7 +22,7 @@ Na tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 **Tabela 1: Cronograma do Ponto de Controle 1. Fonte: Criado pelo autor**
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
 

@@ -31,7 +31,7 @@ Segue, na imagem 1, a página inicial do sítio eletrônico:
 <p>Imagem 1 - Imagem da página inicial do sítio eletrônico Lichess</p>
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 

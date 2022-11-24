@@ -127,7 +127,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 **Tabela 9: Cronograma da Entrega Final**
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
 

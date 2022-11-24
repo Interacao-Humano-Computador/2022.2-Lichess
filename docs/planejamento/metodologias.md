@@ -61,7 +61,7 @@ As mensagens dos _commits_ devem seguir o padrão:
 >
 > O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `#3 cria documento de metodologias`
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 

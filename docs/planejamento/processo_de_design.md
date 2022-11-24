@@ -61,7 +61,7 @@ Nesse ciclo de vida as atividades são divididas em três fases: análise de req
 
 Após o estudo dos processos de design apresentados acima, definiu-se que durante a elaboração do projeto será utilizado o ciclo de vida de Mayhew, por apresentar um processo detalhado e mais propício para o processo de aprendizagem.
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
