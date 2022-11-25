@@ -29,6 +29,7 @@ nav:
       - Processo de Design: "planejamento/processo_de_design.md"
   - Análise de Requisitos:
       - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
+      - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
