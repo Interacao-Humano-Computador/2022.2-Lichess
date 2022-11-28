@@ -8,7 +8,7 @@ Essa atividade pode ser realizada durante qualquer uma das três etapas principa
 
 A análise parte de um conjunto de objetivos, em termos psicológicos, das pessoas. Para cada objetivo elabora-se uma lista das ações realizadas, por meio do sistema, para alcançar esse objetivo. De acordo com os estudos de Diaper, a análise de tarefas é capaz de fornecer apenas uma simulação das verdadeiras tarefas de interesse, já que existe uma infinidade de tarefas que podem ser realizadas por diferentes pessoas e apenas uma pequena porção do trabalho pode ser observada. Um insumo importante da análise de tarefas é a observação do **desempenho**, e seus resultados devem ser comparados com os que foram obtidos por meio de entrevistas, questionários e documentação.
 
-Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "jogar uma partida de xadrez", "resolver um quebra cabeça" e "aprender a jogar xadrez" por meio de três metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA), GOMS (Goals, Operators, Methods and Selection Rules) e ConcurTaskTrees (CTT).
+Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "jogar uma partida de xadrez" e "aprender a jogar xadrez" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules).
 
 ## Análise Hierárquica de Tarefas (HTA)
 
@@ -41,22 +41,40 @@ A tarefa "jogar uma partida de xadrez" é a principal tarefa do sistema, já que
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
-| 0. Jogar uma partida de xadrez 1 > 2 | **input**: acesso ao menu "iniciar partida" na tela inicial; <br/> **feedback**: tela de jogo, com oponente e informações sobre a partida; <br/> **plano**: definir o tipo de oponente (computador, amigo ou aleatório) e depois configurar a partida; <br/> **recomendação**: permitir que o usuário inicie um jogo a partir da tela inicial. |
+| 0. Jogar uma partida de xadrez <br/>(1 > 2) | **input**: acesso ao menu "iniciar partida" na tela inicial; <br/> **feedback**: tela de jogo, com oponente e informações sobre a partida; <br/> **plano**: definir o tipo de oponente (computador, amigo ou aleatório) e depois configurar a partida; <br/> **recomendação**: permitir que o usuário inicie um jogo a partir da tela inicial. |
 | 1. Definir o tipo de oponente | |
-| 2. Configurar a partida 1+2 | **plano**: definir a variante de xadrez, os tempos e incrementos para cada lance e o nível de dificuldade (em caso de partida contra o computador) | |
-| 2.1 Definir a variante de xadrez 1+2 | |
+| 2. Configurar a partida (1+2)  | **plano**: definir a variante de xadrez, os tempos e incrementos para cada lance e o nível de dificuldade (em caso de partida contra o computador) | |
+| 2.1 Definir a variante de xadrez  | |
 | 2.2 Definir o tempo e incremento para cada lance | |
-| 2.3 Definir o nível de dificuldade 1/2 | **plano**: informar nível de dificuldade apenas para partidas contra o computador |
+| 2.3 Definir o nível de dificuldade   |  |
+<div style="text-align: center">
+<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/>(Fonte: autor, 2022).</p>
+</div>
 
 ![Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez"](imgs/hta-jogar-partida.png)
 
 <div style="text-align: center">
-<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" (Fonte: autor, 2022).</p>
+<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "jogar uma partida de xadrez" <br/> (Fonte: autor, 2022).</p>
 </div>
 
-<!-- ## GOMS -->
+## Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
 
-<!-- ## ConcurTaskTrees (CTT) -->
+De acordo com Barbosa et al [1], o conjunto de modelos GOMS (_Goals, Operators, Methods and Selection Rules_ - Objetivos, Operadores, Métodos e Regras de Seleção), visa analisar o desempenho de usuários competentes de sistemas computacionais realizando tarefas dentro de sua competência e sem cometer erros. Compõem a família de modelos GOMS algumas técnicas, dentre as quais a o modelo CMN-GOMS foi selecionado para a análise da tarefa aprender a jogar xadrez. Esse método representa as tarefas por meio de uma linguagem de pseudocódigo, indicando a ordem sequencial dos objetivos. Esse modelo visa prever a sequência dos operadores e o tempo de execução desempenhado em uma tarefa.
+
+### Análise da tarefa: aprender a jogar xadrez
+
+A modelo GOMS foi utilizado para analisar a tarefa "aprender a jogar xadrez", sendo o escopo de avaliação a situação em que um usuário experiente com a plataforma deseja aprender os conceitos iniciais de xadrez.
+
+GOAL 0: aprender a jogar xadrez
+<p style="padding-left: 1vw">GOAL 1: encontrar a seção de estudo da plataforma</p>
+<p style="padding-left: 3vw">OP. 1.1: posicionar o cursor do mouse sobre o menu aprender</p>
+<p style="padding-left: 3vw">OP. 1.2: clicar no menu "básicos do xadrez" </p>
+<p style="padding-left: 1vw">GOAL 2: selecionar o assunto para estudar </p>
+<p style="padding-left: 3vw">OP. 2.1: girar a roda do mouse para a modalidade desejada </p>
+<p style="padding-left: 3vw">OP. 2.2: clicar na opção desejada </p>
+<p style="padding-left: 1vw">GOAL 3: estudar o assunto escolhido </p>
+<p style="padding-left: 3vw">OP. 3.1: fazer a leitura do tutorial à direita da página </p>
+<p style="padding-left: 3vw">OP. 3.2: movimentar as peças no tabuleiro clicando nelas e nas posições de destino </p>
 
 ## Bibliografia
 
