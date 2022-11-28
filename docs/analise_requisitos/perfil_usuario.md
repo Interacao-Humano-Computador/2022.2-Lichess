@@ -190,4 +190,4 @@ Usuários voltam a criação de uma comunidade, como feature que deve ser trabal
 
 |    Data    | Versão |      Descrição       |  Autor   | Revisor |
 | :--------: | :----: | :------------------: | :------: | :-----: |
-| 26/11/2022 | `1.0`  | Criação do documento | Mauricio |   --    |
+| 26/11/2022 | `1.0`  | Criação do documento | Mauricio |   Lucas Macedo    |
