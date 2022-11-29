@@ -19,16 +19,20 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png)| This Person Doesn't Exist | Utilizado para geração de imagens para as personas.
 
 <div style="text-align: center">
+<<<<<<< HEAD
 <p>Tabela 1: Ferramentas utilizadas (fonte: autor, 2022).</p>
+=======
+<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
+>>>>>>> 6653027840663de7d70fae4ed502d84ee5395520
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| Data   | Data       | Descrição                         |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
 | `1.0`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
 | `1.1`    | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | - |

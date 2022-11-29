@@ -128,7 +128,7 @@ Para realização do percurso cognitivo foram elaborados duas personas.
   - Onde devo clicar para conseguir realizar a compra?
   - Tenho certeza que minha região pega essa rede?
 
-## Referências Bibliográficas
+## Bibliografia
 
 - MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
@@ -136,6 +136,6 @@ Para realização do percurso cognitivo foram elaborados duas personas.
 
 ## Histórico de Versão
 
-| Versão | Data       | Autor            | Descrição            | Revisor        |
-| ------ | ---------- | ---------------- | -------------------- | -------------- |
-| 1.0    | 16/11/2022 | Mauricio Machado | Criação do Documento | Nicolas Souza  |
+| Versão | Data       | Descrição            | Autor(es)           | Revisor(es)        |
+| ------ | ---------- | -------------------- | ---------------- | -------------- |
+| `1.0`  | 16/11/2022 | Criação do Documento | Mauricio Machado | Nicolas Souza  |

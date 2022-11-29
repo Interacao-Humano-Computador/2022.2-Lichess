@@ -4,7 +4,7 @@
 
 O cronograma da equipe foi estabelecido de acordo com as datas descritas para a entrega e apresentação do projeto presentes no plano de ensino da disciplina de Interação Humano Computador para o segundo semestre de 2022.
 
-Este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o revisor da atividade.
+Este documento apresenta o cronograma geral das atividades e o cronograma de cada ponto de controle, com as datas de entrega da atividade, o integrante e a atividade que ele irá executar no ponto de controle e o Revisor(es) da atividade, nas Tabelas de 1 a 8.
 
 ## Cronograma Ponto de Controle 1
 
@@ -20,7 +20,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |     Gravação da apresentação     |       21/11/2022       |          -          | Todos os integrantes |          -           |
 |      Edição da apresentação      |       21/11/2022       |          -          |       Mauricio       |          -           |
 
-**Tabela 1: Cronograma do Ponto de Controle 1**
+<div style="text-align: center">
+<p> Tabela 1: Cronograma do Ponto de Controle 1 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 2
 
@@ -33,7 +35,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |            Gravação da apresentação            |       24/11/2022       |          -          | Todos os integrantes |       -       |
 |             Edição da apresentação             |       24/11/2022       |          -          |       Mauricio       |       -       |
 
-**Tabela 2: Cronograma do Ponto de Controle 2**
+<div style="text-align: center">
+<p> Tabela 2: Cronograma do Ponto de Controle 2 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 3
 
@@ -45,7 +49,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |   Gravação da apresentação   |       05/12/2022       |          -          |  Todos os integrantes  |       -       |
 |    Edição da apresentação    |       05/12/2022       |          -          |        Mauricio        |       -       |
 
-**Tabela 3: Cronograma do Ponto de Controle 3**
+<div style="text-align: center">
+<p> Tabela 3: Cronograma do Ponto de Controle 3 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 4
 
@@ -58,7 +64,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                        Gravação da apresentação                         |       12/12/2022       |          -          | Todos os integrantes |       -       |
 |                         Edição da apresentação                          |       12/12/2022       |          -          |       Mauricio       |       -       |
 
-**Tabela 4: Cronograma do Ponto de Controle 4**
+<div style="text-align: center">
+<p> Tabela 4: Cronograma do Ponto de Controle 4 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 5
 
@@ -71,7 +79,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                        Gravação da apresentação                         |       20/12/2022       |          -          | Todos os integrantes |       -       |
 |                         Edição da apresentação                          |       20/12/2022       |          -          |       Mauricio       |       -       |
 
-**Tabela 5: Cronograma do Ponto de Controle 5**
+<div style="text-align: center">
+<p> Tabela 5: Cronograma do Ponto de Controle 5 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 6
 
@@ -90,7 +100,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                 Gravação da apresentação                 |       06/01/2023       |          -          | Todos os integrantes |       -       |
 |                  Edição da apresentação                  |       06/01/2023       |          -          |       Mauricio       |       -       |
 
-**Tabela 6: Cronograma do Ponto de Controle 6**
+<div style="text-align: center">
+<p> Tabela 6: Cronograma do Ponto de Controle 6 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 7
 
@@ -102,7 +114,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                              Gravação da apresentação                              |       15/01/2023       |          -          | Todos os integrantes |      -      |
 |                               Edição da apresentação                               |       15/01/2023       |          -          |       Mauricio       |      -      |
 
-**Tabela 7: Cronograma do Ponto de Controle 7**
+<div style="text-align: center">
+<p> Tabela 7: Cronograma do Ponto de Controle 7 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Ponto de Controle 8
 
@@ -114,7 +128,9 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                      Gravação da apresentação                      |       21/01/2023       |          -          | Todos os integrantes |      -       |
 |                       Edição da apresentação                       |       21/01/2023       |          -          |       Mauricio       |      -       |
 
-**Tabela 8: Cronograma do Ponto de Controle 8**
+<div style="text-align: center">
+<p> Tabela 8: Cronograma do Ponto de Controle 8 (Fonte: autor, 2022).</p>
+</div>
 
 ## Cronograma Entrega Final
 
@@ -125,14 +141,17 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 |                 Gravação da apresentação                 |       29/01/2023       |          -          | Todos os integrantes |      -      |
 |                  Edição da apresentação                  |       29/01/2023       |          -          |       Mauricio       |      -      |
 
-**Tabela 9: Cronograma da Entrega Final**
+<div style="text-align: center">
+<p> Tabela 9: Cronograma da Entrega Final (Fonte: autor, 2022).</p>
+</div>
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor        | Revisor          |
+| Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-|  `0.1`   | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
+|  `1.0`   | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
+| `1.1`    | 24/11/2022 | Padronização das legendas               | Nicolas Souza    | - |

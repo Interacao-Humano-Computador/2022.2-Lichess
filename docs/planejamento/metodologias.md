@@ -14,7 +14,7 @@ Nossa equipe, de forma dinâmica e constante, busca melhorar e otimizar o projet
 
 ### Propriedade coletiva
 
-Com o objetivo de tornar o projeto mais dinâmico e de certa forma leve para os membros, as nossas atividades são dividas de maneira que tenha um desenvolvedor e um revisor para que seja evitado envios e conclusões com erros. No processo, de maneira constante, nós debatemos a maioria das decisões em grupo principalmente quando o tema ou questão é importante e pertinente a todos. Ademais, nas outras atividades consideradas "chave" para o processo de desenvolvimento, nós nos dedicamos na realização a tarefa de maneira coletiva para que possamos assim, ter um pensamento comum e cada membro sinta-se integrado e influente dentro do projeto.
+Com o objetivo de tornar o projeto mais dinâmico e de certa forma leve para os membros, as nossas atividades são dividas de maneira que tenha um desenvolvedor e um Revisor(es) para que seja evitado envios e conclusões com erros. No processo, de maneira constante, nós debatemos a maioria das decisões em grupo principalmente quando o tema ou questão é importante e pertinente a todos. Ademais, nas outras atividades consideradas "chave" para o processo de desenvolvimento, nós nos dedicamos na realização a tarefa de maneira coletiva para que possamos assim, ter um pensamento comum e cada membro sinta-se integrado e influente dentro do projeto.
 
 ## Proposta de Comunicação
 
@@ -61,12 +61,12 @@ As mensagens dos _commits_ devem seguir o padrão:
 >
 > O _commit_ referente a criação do arquivo `metodologias.md` pode ter a mensagem `#3 cria documento de metodologias`
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor(es)        | Revisor          |
+| Versão   | Data       | Descrição            |  Autor(es)        | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-| `0.1`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
+| `1.0`    | 18/11/2022 | Criação do documento | Davi Silva e Nicolas Souza  | Maurício |
