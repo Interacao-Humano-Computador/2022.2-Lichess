@@ -37,7 +37,7 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 
 ### Análise da tarefa: jogar uma partida de xadrez
 
-A tarefa "jogar uma partida de xadrez" é a principal tarefa do sistema, já que é sua funcionalidade principal. A Tabela 1 apresenta a análise hierárquica dessa tarefa
+A tarefa "jogar uma partida de xadrez" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 apresenta a análise hierárquica dessa tarefa
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
@@ -63,7 +63,7 @@ De acordo com Barbosa et al [1], o conjunto de modelos GOMS (_Goals, Operators, 
 
 ### Análise da tarefa: aprender a jogar xadrez
 
-A modelo GOMS foi utilizado para analisar a tarefa "aprender a jogar xadrez", sendo o escopo de avaliação a situação em que um usuário experiente com a plataforma deseja aprender os conceitos iniciais de xadrez.
+O modelo GOMS foi utilizado para analisar a tarefa "aprender a jogar xadrez", sendo o escopo de avaliação a situação em que um usuário experiente com a plataforma deseja aprender os conceitos iniciais de xadrez.
 
 GOAL 0: aprender a jogar xadrez
 <p style="padding-left: 1vw">GOAL 1: encontrar a seção de estudo da plataforma</p>
@@ -84,4 +84,4 @@ GOAL 0: aprender a jogar xadrez
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |               |
+| `1.0`  | 27/11/2022 | Criação do documento.              | Nicolas Souza |  Lucas Macedo |

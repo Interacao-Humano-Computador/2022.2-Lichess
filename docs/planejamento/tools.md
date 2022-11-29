@@ -30,5 +30,5 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 
 | Versão   | Data       | Descrição                         |  Autor        | Revisor          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
-| `0.1`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
-| `0.2`    | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | - |
+| `1.0`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
+| `1.1`    | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | - |
