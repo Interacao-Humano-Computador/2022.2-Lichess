@@ -17,11 +17,11 @@ nav:
       - 22/11/2022: "atas/ata_22_11.md"
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
-      - Cronograma Realziado: "planejamento/cronograma_realizado.md"
+      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
       - Ferramentas: "planejamento/tools.md"
       - Metodologia: "planejamento/metodologias.md"
       - Sítios avaliados: "planejamento/sites_avaliados.md"
-      - Avaliação dos sites:
+      - Avaliação dos sítios:
           - Resultados TSE: "planejamento/sítios_avaliados/resultados_tse.md"
           - Resultados Age Telecom: "planejamento/sítios_avaliados/resultados_age_telecom.md"
           - Resultados Lichess: "planejamento/sítios_avaliados/resultados_lichess.pdf"

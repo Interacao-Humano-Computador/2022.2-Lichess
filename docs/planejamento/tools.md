@@ -6,10 +6,6 @@
 
 ## Ferramentas utilizadas
 
-<div style="text-align: center">
-<p>Tabela 1: Ferramentas utilizadas no projeto</p>
-</div>
-
 |                    Logo                    |     Ferramenta     | Finalidade                                                                                                                                                                |
 | :----------------------------------------: | :----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     ![Github](../img/github-icon.png)      |       Github       | Utilizado como repositório dos documentos produzidos e para o versionamento dos mesmos.                                                                                   |
@@ -21,15 +17,15 @@
 |     ![VsCode](../img/vscode-icon.png)      | Visual Studio Code | Utilizado para manipulação dos arquivos do projeto, devido facilidade de integração de extensões e da experiência da maioria dos integrantes com essa ferramenta.         |
 
 <div style="text-align: center">
-<p>Fonte: Grupo 2</p>
+<p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
 
 [1] Wiki Requisitos - Planejamento - Ferramentas. Disponível no [link](https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/). Acesso em: 16 de novembro de 2022.
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor        | Revisor          |
+| Data   | Data       | Descrição                         |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
-| `0.1`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
+| 16/11/2022    | `1.0`  | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |

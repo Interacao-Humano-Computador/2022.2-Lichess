@@ -26,7 +26,7 @@ Ao longo da avaliação foram levadas em consideração as seguintes heurística
 | H10 | Ajuda e documentação |
 
 <div style="text-align: center">
-<p> Tabela 1 - Heurísticas avaliadas </p>
+<p> Tabela 1 - Heurísticas avaliadas (Fonte: autor, 2022). </p>
 </div>
 
 A avaliação foi realizada pelo avaliador Nicolas Chagas Souza.
@@ -41,12 +41,12 @@ Abaixo estão registradas as figuras que ilustram o primeiro problema identifica
 
 ![Menu de navegação.](imgs/20-06-37.png)
 <div style="text-align: center">
-<p> Figura 1 - Menu de navegação </p>
+<p> Figura 1 - Menu de navegação (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>). </p>
 </div>
 
 ![Página de Dados de Urna](imgs/20-07-06.png)
 <div style="text-align: center">
-<p> Figura 2 - Página de Dados da Urna </p>
+<p> Figura 2 - Página de Dados da Urna (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 | **Correspondência entre o sistema e o mundo real** |
@@ -61,7 +61,7 @@ Abaixo estão registradas as figuras que ilustram o primeiro problema identifica
 | **Correções possíveis:** <br/> - Adicionar um texto de explicação sobre o menu que apareça quando o usuário posicionar o cursor sobre a tela. <br/>  - Inclusão de um subtítulo no menu indicando o significado dessas palavras. <br/>  - Alteração de **log** por **relatório**.|
 
 <div style="text-align: center">
-<p> Tabela 2 - Relato de resultados - Problema 1 </p>
+<p> Tabela 2 - Relato de resultados - Problema 1 (Fonte: autor, 2022). </p>
 </div>
 
 ### Problema 2
@@ -70,24 +70,24 @@ Abaixo está ilustrado o segundo problema identificado, a configuração da pesq
 
 ![Ausência de indicativo de onde fazer a configuração da pesquisa](imgs/20-08-04.png)
 <div style="text-align: center">
-<p> Figura 3 - Ausência de indicativo de onde fazer a configuração da pesquisa </p>
+<p> Figura 3 - Ausência de indicativo de onde fazer a configuração da pesquisa (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 O caminho para configurar a pesquisa está ilustrado abaixo.
 
 ![Primeiro passo: definir a localização](imgs/20-44-38.png)
 <div style="text-align: center">
-<p> Figura 4 - Primeiro passo: definir a localização </p>
+<p> Figura 4 - Primeiro passo: definir a localização (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 ![Segundo passo: selecionar a cidade](imgs/20-44-48.png)
 <div style="text-align: center">
-<p> Figura 5 - Segundo passo: selecionar a cidade </p>
+<p> Figura 5 - Segundo passo: selecionar a cidade (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 ![Terceiro passo: selecionar a zona e a seção](imgs/20-44-56.png)
 <div style="text-align: center">
-<p> Figura 5 - Terceiro passo: selecionar a zona e a seção </p>
+<p> Figura 5 - Terceiro passo: selecionar a zona e a seção (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 | **Reconhecimento em vez de memorização** |
@@ -102,7 +102,7 @@ O caminho para configurar a pesquisa está ilustrado abaixo.
 | **Correções possíveis:** <br/> - Incluir um link no texto "configure sua pesquisa acima", que abra a janela de seleção da região. <br/> - Incluir um ícone de ajuda, que direcione para uma página com instruções de uso. <br/> |
 
 <div style="text-align: center">
-<p> Tabela 3 - Relato de resultados - Problema 2 </p>
+<p> Tabela 3 - Relato de resultados - Problema 2 (Fonte: autor, 2022). </p>
 </div>
 
 ### Problema 3
@@ -119,17 +119,18 @@ O caminho para configurar a pesquisa está ilustrado abaixo.
 | **Correções possíveis:** <br/> - Incluir uma página de ajuda. <br/> - Incluir tutoriais de uso nas páginas do sistema.|
 
 <div style="text-align: center">
-<p> Tabela 4 - Relato de resultados - Problema 3 </p>
+<p> Tabela 4 - Relato de resultados - Problema 3 (Fonte: autor, 2022). </p>
 </div>
 
-## Referências Bibliográficas
+## Bibliografia
 
-- MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
+[1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 
-| Versão | Data  | Autor         | Descrição            | Revisor       |
-| ------ | ----- | ------------- | -------------------- | ------------- |
-| 1.0    | 16/11 | Nicolas Souza | Criação do Documento | Mauricio |
+| Versão | Data  | Descrição                     | Autor(es)        | Revisor(es)       |
+| ------ | ----- | ----------------------------- | ------------- | ------------- |
+| `1.0`  | 16/11 | Criação do Documento          | Nicolas Souza | Mauricio      |
+| `1.1`  | 24/11 | Inclusão da fonte nas legendas| Nicolas Souza | -             |
