@@ -19,11 +19,7 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png)| This Person Doesn't Exist | Utilizado para geração de imagens para as personas.
 
 <div style="text-align: center">
-<<<<<<< HEAD
-<p>Tabela 1: Ferramentas utilizadas (fonte: autor, 2022).</p>
-=======
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
->>>>>>> 6653027840663de7d70fae4ed502d84ee5395520
 </div>
 
 ## Bibliografia
