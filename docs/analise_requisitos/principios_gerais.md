@@ -12,8 +12,11 @@ Os princípios gerais do projeto são uma parte que tem sua importância no dese
 
 * <b> Visibilidade e Reconhecimento:</b> O designer deve tornar as coisas visíveis: abreviar possibilidades de execução e avaliação . Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas. De acordo com Nielsen, o designer deve explicar o que é possível de ser realizado, como é feito e também deve restringir as possibilidades de execução. Isso é importante para que o usuário não seja obrigado a memorizar como determinadas ações devem ser executadas.
 
-* <b> Antecipação:</b> 
+* <b> Encontrabilidade:</b> Encontrabilidade é a facilidade de se encontrar informação contida num website, tanto de fora do website quanto por usuários já no website. Este princípio transforma a interação com a plataforma uma experiência rápida e eficaz.
 
+## Conclusão
+
+Observa-se que é essencial para um bom projeto e sistema, ter princípios bem organizados e focados no bem-estar dos seus usuários. Tais pontos abordados acima são de suma importância para uma entrega robusta bem como também, uma experiência positiva para com os seus usuários.
 
 ## Bibliografia
 
