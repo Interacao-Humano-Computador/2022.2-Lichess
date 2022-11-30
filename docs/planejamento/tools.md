@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<p> As ferramentas foram escolhidas visando a fácil interação dos integrantes do grupo em contexto remoto, tanto assíncrono quanto síncrono. Também foi levado em consideração o nível de familiaridade dos integrantes com as ferramentas, com a intenção de diminuir o atrito e aumentar a eficiência nas atividades do projeto. </p>
+As ferramentas foram escolhidas visando a fácil interação dos integrantes do grupo em contexto remoto, tanto assíncrono quanto síncrono. Também foi levado em consideração o nível de familiaridade dos integrantes com as ferramentas, com a intenção de diminuir o atrito e aumentar a eficiência nas atividades do projeto.
 
 ## Ferramentas utilizadas
 
@@ -15,6 +15,8 @@
 |      ![Teams](../img/teams-icon.png)       |  Microsoft teams   | Nas apresentações dos pontos de controle foi utilizado para compartilhar a tela com a github pages, gravar a apresentação o projeto e elaboração dos artefatos do projeto |
 |    ![Youtube](../img/youtube-icon.png)     |      Youtube       | Utilizado para armazenar os links das gravações do projeto.                                                                                                               |
 |     ![VsCode](../img/vscode-icon.png)      | Visual Studio Code | Utilizado para manipulação dos arquivos do projeto, devido facilidade de integração de extensões e da experiência da maioria dos integrantes com essa ferramenta.         |
+| ![Lucidchart](../img/lucidchart.png) | Lucidchart | Utilizado para elaboração de diagramas.  |
+| ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png)| This Person Doesn't Exist | Utilizado para geração de imagens para as personas.
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
@@ -28,4 +30,5 @@
 
 | Data   | Data       | Descrição                         |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
-| 16/11/2022    | `1.0`  | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
+| `1.0`    | 16/11/2022 | Adição das ferramentas do projeto | Lucas Macedo   | Nicolas Souza |
+| `1.1`    | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | - |
