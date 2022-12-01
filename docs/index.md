@@ -11,15 +11,15 @@ Essa página dedica-se aos artefatos produzidos durante a disciplina de Interaç
 
 ## Equipe
 
-Nossa equipe de trabalho é composta pelos estudantes  de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
+Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
-|                                          Foto                                           |       Nome       |                          Github                           |
-| :-------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
+|                                              Foto                                               |       Nome       |                          Github                           |
+| :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
 | <img src="https://github.com/MauricioMachadoFF.png" alt="Mauricio Machado" style="width: 10vw"> | Mauricio Machado | [MauricioMachadoFF](https://github.com/MauricioMachadoFF) |
 |        <img src="https://github.com/daves22.png" alt="Davi Matias" style="width: 10vw">         |   Davi Matias    |           [daves22](https://github.com/daves22)           |
-    <img src="https://github.com/lucasgabriel-2.png" alt="Lucas Gabriel" style="width: 10vw">    |  Lucas Gabriel   |    [lucasgabriel-2](https://github.com/lucasgabriel-2)    |
-|        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">         |   Lucas Macedo   |            [Luckx98](https://github.com/Luckx98)            |
-|         <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">          |     Nicolas Souza     |         [nszchagas](https://github.com/nszchagas)         |
+|    <img src="https://github.com/lucasgabriel-2.png" alt="Lucas Gabriel" style="width: 10vw">    |  Lucas Gabriel   |    [lucasgabriel-2](https://github.com/lucasgabriel-2)    |
+|        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">        |   Lucas Macedo   |           [Luckx98](https://github.com/Luckx98)           |
+|      <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">       |  Nicolas Souza   |         [nszchagas](https://github.com/nszchagas)         |
 
 <div style="text-align: center">
 <p> Tabela 1: Equipe de trabalho (Fonte: autor, 2022).</p>
@@ -27,8 +27,8 @@ Nossa equipe de trabalho é composta pelos estudantes  de Engenharia de Software
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição                         |  Autor(es)        | Revisor(es)          |
-| :------: | :--------: |:--------------------------------: | :-----------: | :-----:          |
-| 06/11/2022 |  `1.0`   | Versão inicial de documento de descrição do projeto | Mauricio Machado | Nicolas Souza
-| 11/11/2022 |  `1.1`   | Remoção de um integrante da tabela da equipe.       | Nicolas Souza         | - |
-| 18/11/2022 |  `1.2`   | Inclusão da descrição do projeto.                   | Nicolas Souza         | - |
+|   Versão   | Data  |                      Descrição                      |    Autor(es)     |  Revisor(es)  |
+| :--------: | :---: | :-------------------------------------------------: | :--------------: | :-----------: |
+| 06/11/2022 | `1.0` | Versão inicial de documento de descrição do projeto | Mauricio Machado | Nicolas Souza |
+| 11/11/2022 | `1.1` |    Remoção de um integrante da tabela da equipe.    |  Nicolas Souza   | Lucas Macedo  |
+| 18/11/2022 | `1.2` |          Inclusão da descrição do projeto.          |  Nicolas Souza   | Lucas Macedo  |
