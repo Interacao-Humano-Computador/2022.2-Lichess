@@ -151,7 +151,7 @@ Este documento apresenta o cronograma geral das atividades e o cronograma de cad
 
 ## Histórico de Versão
 
-| Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
-| :------: | :--------: |:-------------------: | :-----------: | :-----:          |
-|  `1.0`   | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
-| `1.1`    | 24/11/2022 | Padronização das legendas               | Nicolas Souza    | - |
+| Versão |    Data    |                Descrição                |    Autor(es)     |  Revisor(es)  |
+| :----: | :--------: | :-------------------------------------: | :--------------: | :-----------: |
+| `1.0`  | 16/11/2022 | Versão inicial do cronograma do projeto | Mauricio Machado | Nicolas Souza |
+| `1.1`  | 24/11/2022 |        Padronização das legendas        |  Nicolas Souza   | Lucas Macedo  |

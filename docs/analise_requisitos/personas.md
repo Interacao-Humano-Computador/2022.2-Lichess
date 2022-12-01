@@ -103,6 +103,6 @@ Abaixo temos listadas as principais personas identificadas para o aplicativo LiC
 
 ## Histórico de versões
 
-|    Data    | Versão |                  Descrição                  |  Autor   | Revisor |
-| :--------: | :----: | :-----------------------------------------: | :------: | :-----: |
-| 26/11/2022 | `1.0`  | Criação do documento e adição das perssonas | Mauricio |    -    |
+|    Data    | Versão |                  Descrição                  |  Autor   |   Revisor    |
+| :--------: | :----: | :-----------------------------------------: | :------: | :----------: |
+| 26/11/2022 | `1.0`  | Criação do documento e adição das perssonas | Mauricio | Lucas Macedo |

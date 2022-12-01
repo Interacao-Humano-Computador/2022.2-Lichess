@@ -4,7 +4,7 @@
 
 Com o intuito de explorar as possibilidades de escolha para o sítio a ser avaliado durante o projeto da disciplina, cada integrante escolheu um sítio e avaliou sua interação humano computador a partir, baseando-se nas heurísticas de Nielsen. A distribuição dos sítios escolhidos encontra-se na Tabela 1.
 
-| Nome          | sítio avaliado            |
+| Nome          | sítio avaliado           |
 | ------------- | ------------------------ |
 | Davi          | Sesc DF                  |
 | Lucas Gabriel | Lichess                  |
@@ -86,11 +86,11 @@ Os principais problemas estão na falta de uma design minimalista e flexibilidad
 
 ## Histórico de Versão
 
-| Versão | Data  | Descrição                 |Autor(es)        |  Revisor(es) |
-| ------ | ----- | ------------- | ----------------------------- | ------- |
-| `1.0`    | 16/11 |  Criação do Documento          |  Nicolas Souza | Davi Silva     |
-| `1.1`    | 18/11 |  Adição do tópico do Cad Único | Lucas Macedo  | Nicolas Souza  |
-| `1.2`    | 18/11  | Adição do tópico do Lichess | Lucas Gabriel  |  Nicolas Souza  |
-| `1.3`    | 18/11      | Adição do tópico do Age Telecom | Maurício    |  Nicolas Souza  |
-| `1.4`    | 18/11     | Adição do tópico do Sesc DF | Davi Silva  |  Nicolas Souza  |
-| `1.5`    | 24/11  | Inclusão da fonte na legenda e complementação do versionamento | Nicolas Souza| - |
+| Versão | Data  | Descrição                                                      | Autor(es)     | Revisor(es)   |
+| ------ | ----- | -------------------------------------------------------------- | ------------- | ------------- |
+| `1.0`  | 16/11 | Criação do Documento                                           | Nicolas Souza | Davi Silva    |
+| `1.1`  | 18/11 | Adição do tópico do Cad Único                                  | Lucas Macedo  | Nicolas Souza |
+| `1.2`  | 18/11 | Adição do tópico do Lichess                                    | Lucas Gabriel | Nicolas Souza |
+| `1.3`  | 18/11 | Adição do tópico do Age Telecom                                | Maurício      | Nicolas Souza |
+| `1.4`  | 18/11 | Adição do tópico do Sesc DF                                    | Davi Silva    | Nicolas Souza |
+| `1.5`  | 24/11 | Inclusão da fonte na legenda e complementação do versionamento | Nicolas Souza | Lucas Macedo  |
