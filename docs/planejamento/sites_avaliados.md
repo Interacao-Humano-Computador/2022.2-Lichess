@@ -4,7 +4,7 @@
 
 Com o intuito de explorar as possibilidades de escolha para o sítio a ser avaliado durante o projeto da disciplina, cada integrante escolheu um sítio e avaliou sua interação humano computador a partir, baseando-se nas heurísticas de Nielsen. A distribuição dos sítios escolhidos encontra-se na Tabela 1.
 
-| Nome          | sítio avaliado            |
+| Nome          | sítio avaliado           |
 | ------------- | ------------------------ |
 | Davi          | Sesc DF                  |
 | Lucas Gabriel | Lichess                  |
@@ -14,7 +14,7 @@ Com o intuito de explorar as possibilidades de escolha para o sítio a ser avali
 | Nicolas       | Resultados Eleição - TSE |
 
 <div style="text-align: center">
-<p> Tabela 1 - sítios avaliados </p>
+<p> Tabela 1 - Sítios avaliados (Fonte: autor, 2022).</p>
 </div>
 
 ## Resultados Eleição - TSE
@@ -78,16 +78,19 @@ O sítio eletrônico [Lichess](https://lichess.org) teve como responsável pela 
 
 Os principais problemas estão na falta de uma design minimalista e flexibilidade de uso, devido ao sítio apresentar ao usuário muitas informações se torna difícil a compreensão de quais passos esse deve realizar para atingir seus objetivos, além disso o sítio apresenta termos relacionados ao jogo que poucos jogadores iniciantes conhecem dificultando o acesso desse público. A avaliação pode ser observada na íntegra através [deste link](sítios_avaliados/resultados_lichess.pdf).
 
-## Referências Bibliográficas
+## Bibliografia
 
-- MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
+[1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 
-| Versão | Data  | Autor         | Descrição                     | Revisor |
-| ------ | ----- | ------------- | ----------------------------- | ------- |
-| 1.0    | 16/11 | Nicolas Souza | Criação do Documento          |         |
-| 1.1    | 18/11 | Lucas Macedo  | Adição do tópico do Cad Único |  Nicolas Souza  |
-| 1.2    | 18/11 | Lucas Gabriel | Adição do tópico do Lichess   |  Nicolas Souza  |
+| Versão | Data  | Descrição                                                      | Autor(es)     | Revisor(es)   |
+| ------ | ----- | -------------------------------------------------------------- | ------------- | ------------- |
+| `1.0`  | 16/11 | Criação do Documento                                           | Nicolas Souza | Davi Silva    |
+| `1.1`  | 18/11 | Adição do tópico do Cad Único                                  | Lucas Macedo  | Nicolas Souza |
+| `1.2`  | 18/11 | Adição do tópico do Lichess                                    | Lucas Gabriel | Nicolas Souza |
+| `1.3`  | 18/11 | Adição do tópico do Age Telecom                                | Maurício      | Nicolas Souza |
+| `1.4`  | 18/11 | Adição do tópico do Sesc DF                                    | Davi Silva    | Nicolas Souza |
+| `1.5`  | 24/11 | Inclusão da fonte na legenda e complementação do versionamento | Nicolas Souza | Lucas Macedo  |

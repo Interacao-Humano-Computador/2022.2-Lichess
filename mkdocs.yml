@@ -15,13 +15,14 @@ nav:
       - 10/11/2022: "atas/ata_10_11.md"
       - 15/11/2022: "atas/ata_15_11.md"
       - 22/11/2022: "atas/ata_22_11.md"
+      - 29/11/2022: "atas/ata_29_11.md"
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
-      - Cronograma Realziado: "planejamento/cronograma_realizado.md"
+      - Cronograma Realizado: "planejamento/cronograma_realizado.md"
       - Ferramentas: "planejamento/tools.md"
       - Metodologia: "planejamento/metodologias.md"
       - Sítios avaliados: "planejamento/sites_avaliados.md"
-      - Avaliação dos sites:
+      - Avaliação dos sítios:
           - Resultados TSE: "planejamento/sítios_avaliados/resultados_tse.md"
           - Resultados Age Telecom: "planejamento/sítios_avaliados/resultados_age_telecom.md"
           - Resultados Lichess: "planejamento/sítios_avaliados/resultados_lichess.pdf"
@@ -30,6 +31,7 @@ nav:
   - Análise de Requisitos:
       - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
       - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
+      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
       - Personas: "analise_requisitos/personas.md"
   - Apresentações: "apresentacoes.md"
