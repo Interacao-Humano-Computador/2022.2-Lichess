@@ -182,12 +182,25 @@ Com uma grande parcela de usuários tendo alta taxa de uso de dispositivos eletr
 
 Usuários voltam a criação de uma comunidade, como feature que deve ser trabalhado a fim de ajudar a trazer novas pessoas para a área do xadrez.
 
+Para ficar mais fácil a leitura desse perfil criamos a seguinte tabela:
+
+| Característica    | Descrição                                                                    |
+| ----------------- | ---------------------------------------------------------------------------- |
+| Idade             | Jovem, com idade média de 23 anos.                                           |
+| Experiência       | Especialista                                                                 |
+| Atitudes          | Tecnófilos                                                                   |
+| Tarefas primárias | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente |
+
+<div style="text-align: center">
+<p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
+</div>
+
 ## Referências
 
 > VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
 
 ## Histórico de versões
 
-|    Data    | Versão |      Descrição       |  Autor   | Revisor |
-| :--------: | :----: | :------------------: | :------: | :-----: |
-| 26/11/2022 | `1.0`  | Criação do documento | Mauricio |   Lucas Macedo    |
+|    Data    | Versão |      Descrição       |  Autor   |   Revisor    |
+| :--------: | :----: | :------------------: | :------: | :----------: |
+| 26/11/2022 | `1.0`  | Criação do documento | Mauricio | Lucas Macedo |
