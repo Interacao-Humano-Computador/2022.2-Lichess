@@ -10,13 +10,29 @@ Na presente página encontram-se as gravações das apresentações dos pontos d
 <iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/PX3cAScQhcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
+[Link Apresentação 1](https://youtu.be/PX3cAScQhcM)
+
 <div style="text-align: center">
 Vídeo 1: Apresentação da etapa 1 do projeto
 </div>
 <br>
 
+## Apresentação 1
+
+<center>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/Pj61xkfG3uo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+[Link Apresentação 2](https://youtu.be/Pj61xkfG3uo)
+
+<div style="text-align: center">
+Vídeo 2: Apresentação da etapa 2 do projeto
+</div>
+<br>
+
 ## Histórico de versão do arquivo
 
-|  Data    | Versão |   Descrição              | Autor(es)        | Revisor(es)   |
-| :------: | :----: | :----------------------: | :--------------- | :-----------: |
-|22/11/2022| `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |
+|    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
+| :--------: | :----: | :----------------------: | :--------------- | :----------: |
+| 22/11/2022 | `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |
+| 04/12/2022 | `2.0`  | Adição da apresentação 2 | Mauricio Machado |   Nicolas    |
