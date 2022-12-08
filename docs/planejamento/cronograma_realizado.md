@@ -6,7 +6,7 @@ Este é o cronograma com atualizações de o que foi feito, suas respectivas dat
 
 ## Cronograma Ponto de Controle 1
 
-Na tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
+Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 |            Atividade             | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |       Revisor(es)       |
 | :------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------------------: |
@@ -26,7 +26,7 @@ Na tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 ## Cronograma Ponto de Controle 2
 
-Na tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
+Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 
 |                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
 | :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
@@ -51,4 +51,4 @@ Na tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 | :----: | :--------: | :-----------------------------------------------: | :--------------: | :-----------: |
 | `1.0`  | 16/11/2022 |      Versão inicial do cronograma do projeto      | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 24/11/2022 |             Padronização das legendas             |  Nicolas Souza   | Lucas Macedo  |
-| `1.2`  | 01/12/2022 | Adição do cronograma do segundo ponto de controle |   Lucas Macedo   |      ---      |
+| `1.2`  | 01/12/2022 | Adição do cronograma do segundo ponto de controle |   Lucas Macedo   | Nicolas Souza |
