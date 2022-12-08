@@ -103,6 +103,9 @@ Para realização do percurso cognitivo foram elaborados duas personas.
 ### Pedro
 
 ![Persona Pedro](imgs/resultados_age_telecom/persona_pedro.jpg)
+<div style="text-align: center">
+<p> Figura 1: Persona Pedro (Fonte: [3]).</p>
+</div>
 
 #### Percurso de Pedro: Assinar um plano de internet
 
@@ -119,6 +122,9 @@ Para realização do percurso cognitivo foram elaborados duas personas.
 ### Eugênia
 
 ![Persona Eugênia](imgs/resultados_age_telecom/persona_eugenia.jpg)
+<div style="text-align: center">
+<p> Figura 2: Persona Eugênia (Fonte: [3]).</p>
+</div>
 
 #### Percurso de Eugênia: Assinar um plano de internet
 
@@ -130,12 +136,15 @@ Para realização do percurso cognitivo foram elaborados duas personas.
 
 ## Bibliografia
 
-- MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
+[1] MACIEL, C. _et al_. Avaliação Heurística de Sítios na Web. Niterói, RJ: UFF, 2004.
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+
+[3] Ferramenta para geração de personas, disponível no [link](https://www.geradordepersonas.com.br/). Acesso em 07/12/2022.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição            | Autor(es)           | Revisor(es)        |
 | ------ | ---------- | -------------------- | ---------------- | -------------- |
 | `1.0`  | 16/11/2022 | Criação do Documento | Mauricio Machado | Nicolas Souza  |
+| `1.1`  | 07/12/2022 | Atualização das legendas e bibliografia | Nicolas Souza |     |

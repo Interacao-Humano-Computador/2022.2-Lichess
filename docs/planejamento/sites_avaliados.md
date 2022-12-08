@@ -4,13 +4,12 @@
 
 Com o intuito de explorar as possibilidades de escolha para o sítio a ser avaliado durante o projeto da disciplina, cada integrante escolheu um sítio e avaliou sua interação humano computador a partir, baseando-se nas heurísticas de Nielsen. A distribuição dos sítios escolhidos encontra-se na Tabela 1.
 
-| Nome          | sítio avaliado           |
+| Nome          | Sítio avaliado           |
 | ------------- | ------------------------ |
 | Davi          | Sesc DF                  |
 | Lucas Gabriel | Lichess                  |
-| Lucas Macedo  | CadUnico                 |
+| Lucas Macedo  | CadÚnico                 |
 | Maurício      | Medium                   |
-| Renan         | SPC                      |
 | Nicolas       | Resultados Eleição - TSE |
 
 <div style="text-align: center">
@@ -53,9 +52,9 @@ O sítio [Sesc DF](https://www.sescdf.com.br) teve como responsável pela avalia
 
 O principal problema está no excesso de informações do sítio. Tendo em vista que o mesmo, em sua tela inicial, oferece inúmeras opções de navegação e conteúdo, porem, com várias portas e contextos diferentes para navegar e pesquisar. Dessa maneira, dificultando o usuário que deseja um acesso rápido sobre algum tema em específico.
 
-## Cad Unico
+## CadÚnico
 
-O sítio [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsável pela avaliação o integrante Lucas Macedo Barboza, que identificou alguns erros acerca da heurística no sítio:
+O sítio [CadÚnico](https://cadunico.dataprev.gov.br/#/home) teve como responsável pela avaliação o integrante Lucas Macedo Barboza, que identificou alguns erros acerca da heurística no sítio:
 
 - Prevenção de erros;
 - Ajuda e Documentação.
@@ -63,7 +62,7 @@ O sítio [CadUnico](https://cadunico.dataprev.gov.br/#/home) teve como responsá
 - Controle e liberdade do usuário;
 - Flexibilidade e eficiência de uso;
 
-O principal problema do cadúnico está no excesso de redirecionamento outros sítios, onde algumas das funções realiza inúmeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
+O principal problema do CadÚnico está no excesso de redirecionamento outros sítios, onde algumas das funções realiza inúmeras opções de navegação, gerando estresse ao usuário na hora de acompanhar os benefícios e atualizar seu cadastro. Dessa maneira, dificultando o acesso rápido sobre algum tema específico.
 A avaliação completa não foi realizada pelo responsável.
 
 ## Lichess
