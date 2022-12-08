@@ -10,15 +10,15 @@ Na Tabela 1, temos as entregas realizadas para o Ponto de Controle 1.
 
 |            Atividade             | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       |       Revisor(es)       |
 | :------------------------------: | :--------------------: | :-----------------: | :------------------: | :---------------------: |
-|     Lista de sites avaliados     |       19/11/2022       |     20/11/2022      | Todos os integrantes |  Todos os integrantes   |
+|     Lista de sites avaliados     |       19/11/2022       |     20/11/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |  Davi, Lucas G., Lucas M., Maurício, Nicolas   |
 | Site selecionado para disciplina |       19/11/2022       |     20/11/2022      |    Lucas Gabriel     |         Nicolas         |
 |     Criação do github pages      |       17/11/2022       |     18/11/2022      |       Mauricio       |         Nicolas         |
 |      Ferramentas do projeto      |       16/11/2022       |     18/11/2022      |     Lucas Macedo     | Lucas Gabriel e Nicolas |
 |     Cronograma de atividades     |       16/11/2022       |     17/11/2022      |       Mauricio       |      Lucas Macedo       |
 |        Processo de design        |       18/11/2022       |     19/11/2022      |       Nicolas        |          Davi           |
 |           Metodologias           |       18/11/2022       |     20/11/2022      |         Davi         |   Mauricio e Nicolas    |
-|     Gravação da apresentação     |       20/11/2022       |          -          | Todos os integrantes |            -            |
-|      Edição da apresentação      |       20/11/2022       |          -          |       Mauricio       |            -            |
+|     Gravação da apresentação     |       20/11/2022       |     20/11/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |            Maurício            |
+|      Edição da apresentação      |       20/11/2022       |     20/11/2022      |       Mauricio       |            Nicolas            |
 
 <div style="text-align: center">
 <p> Tabela 1: Cronograma realizado do Ponto de Controle 1 (Fonte: autor, 2022).</p>
@@ -34,8 +34,8 @@ Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 |                    Personas                    |       30/11/2022       |     01/12/2022      |       Mauricio       | Lucas Macedo |
 |         Analise de tarefas de usuário          |       27/11/2022       |     28/11/2022      |       Nicolas        | Lucas Macedo |
 | Aspectos éticos de pesquisa envolvendo pessoas |       23/11/2022       |     24/11/2022      |    Lucas Gabriel     |     Davi     |
-|            Gravação da apresentação            |       04/12/2022       |          -          | Todos os integrantes |      -       |
-|             Edição da apresentação             |       04/12/2022       |          -          |       Mauricio       |      -       |
+|            Gravação da apresentação            |       04/12/2022       |     04/12/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
+|             Edição da apresentação             |       04/12/2022       |     04/12/2022      |       Mauricio       |      Nicolas       |
 
 <div style="text-align: center">
 <p> Tabela 2: Cronograma realizado do Ponto de Controle 2 (Fonte: autor, 2022).</p>
@@ -52,3 +52,4 @@ Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 | `1.0`  | 16/11/2022 |      Versão inicial do cronograma do projeto      | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 24/11/2022 |             Padronização das legendas             |  Nicolas Souza   | Lucas Macedo  |
 | `1.2`  | 01/12/2022 | Adição do cronograma do segundo ponto de controle |   Lucas Macedo   | Nicolas Souza |
+| `1.3`  | 07/12/2022 | Inclusão de revisores e datas que estavam faltando| Nicolas Souza    |  |
