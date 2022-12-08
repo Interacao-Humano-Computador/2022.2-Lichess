@@ -6,7 +6,7 @@ O mapa de empatia é uma ferramenta que nos ajuda a conhecer e entender melhor o
 
 ### Quando aplicar
 
-É ideal aplicar o mapa de empatia depois de ter as personas bem definidas e claras, pois assim irá proporcionar uma analise mais aprofundada dos clientes. Ele pode ser executado numa lousa com post-its, flip-chart, papel sulfite ou no computador. Para isso, é necessário responder aos sequintes questionamentos, também representados na figura 1:
+É ideal aplicar o mapa de empatia depois de ter as personas bem definidas e claras, pois assim irá proporcionar uma analise mais aprofundada dos clientes. Ele pode ser executado numa lousa com post-its, flip-chart, papel sulfite ou no computador. Para isso, é necessário responder aos seguintes questionamentos, também representados na figura 1:
 
 - com quem estamos sendo empáticos?
 - o que ela/ele precisa fazer?
@@ -37,7 +37,7 @@ Para realizar o desenvolvimento do mapa de empatia, utilizaremos como base a per
 
 ### 2. O que ele ouve?
 
-- Consome muitas aulas gravadas para aperfeiçoar suas ténicas no xadrez e matemática
+- Consome muitas aulas gravadas para aperfeiçoar suas técnicas no xadrez e matemática
 - Usa principalmente o Telegram para se comunicar e enviar memes para seus colegas
 
 ### 3. O que ele faz e fala?
@@ -63,7 +63,7 @@ Para realizar o desenvolvimento do mapa de empatia, utilizaremos como base a per
 
 ## Conclusão
 
-O mapa é uma ferramenta simples, mas que possue uma análise visual prática entre os desenvolvedores e usuários, passando a ter uma comunicação direta com a persona e enteder sua realidade. Mas além de se ter uma boa comunicação com usuários, é preciso se ter um bom relacionamento desde o início.
+O mapa é uma ferramenta simples, mas que possui uma análise visual prática entre os desenvolvedores e usuários, passando a ter uma comunicação direta com a persona e entender sua realidade. Mas além de se ter uma boa comunicação com usuários, é preciso se ter um bom relacionamento desde o início.
 
 ## Bibliografia
 
@@ -71,6 +71,6 @@ O mapa é uma ferramenta simples, mas que possue uma análise visual prática en
 
 ## Histórico de Versão
 
-| Versão | Data     | Descrição            | Autor(es)    | Revisor(es) |
-| ------ | -------- | -------------------- | ------------ | ----------- |
-| `1.0`  | 06/12/22 | Criação do documento | Lucas Macedo | ---         |
+| Versão | Data     | Descrição            | Autor(es)    | Revisor(es)   |
+| ------ | -------- | -------------------- | ------------ | ------------- |
+| `1.0`  | 06/12/22 | Criação do documento | Lucas Macedo | Nicolas Souza |
