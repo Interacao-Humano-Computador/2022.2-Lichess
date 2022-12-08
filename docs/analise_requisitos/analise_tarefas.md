@@ -8,7 +8,7 @@ Essa atividade pode ser realizada durante qualquer uma das três etapas principa
 
 A análise parte de um conjunto de objetivos, em termos psicológicos, das pessoas. Para cada objetivo elabora-se uma lista das ações realizadas, por meio do sistema, para alcançar esse objetivo. De acordo com os estudos de Diaper, a análise de tarefas é capaz de fornecer apenas uma simulação das verdadeiras tarefas de interesse, já que existe uma infinidade de tarefas que podem ser realizadas por diferentes pessoas e apenas uma pequena porção do trabalho pode ser observada. Um insumo importante da análise de tarefas é a observação do **desempenho**, e seus resultados devem ser comparados com os que foram obtidos por meio de entrevistas, questionários e documentação.
 
-Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "jogar uma partida de xadrez" e "aprender a jogar xadrez" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules).
+Com o intuito de explorar diferentes técnicas, foram avaliadas as tarefas de "jogar uma partida de xadrez" e "aprender a jogar xadrez" por meio de duas metodologias diferentes, a saber: Análise Hierárquica de Tarefas (HTA) e GOMS (Goals, Operators, Methods and Selection Rules). As tarefas selecionadas compõem as duas funcionalidades mais utilizadas pelos usuários do aplicativo, conforme apontam os dados coletados durante a elaboração do [perfil do usuário](perfil_usuario.md).
 
 ## Análise Hierárquica de Tarefas (HTA)
 
