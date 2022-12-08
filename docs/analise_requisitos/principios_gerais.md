@@ -28,6 +28,7 @@ Observa-se que é essencial para um bom projeto e sistema, ter princípios bem o
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição            | Autor(es) |  Revisor(es)  |
-| ------ | ---------- | -------------------- | -----     | ------------ |
-| `1.0`  | 25/11/2022 | Criação do documento | Davi      | Lucas Macedo |
+| Versão | Data       | Descrição            | Autor         | Revisor |
+| ------ | ---------- | -------------------- | ------------- | ------- |
+| `1.0`    | 25/11/2022 | Criação do documento | Davi | Lucas Macedo    |
+| `1.1`    | 05/12/2022 | Alteração de tópicos | Davi | Nicolas Souza   |
