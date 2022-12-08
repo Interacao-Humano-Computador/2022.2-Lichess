@@ -221,4 +221,4 @@ A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele per
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 26/11/2022  |   Criação do documento   |  Maurício     |  Lucas Macedo |
-| `1.1`  | 07/12/2022  |   Padronização das legendas e ajustes gramaticais  |  Nicolas Souza |   |
+| `1.1`  | 07/12/2022  |   Padronização das legendas e ajustes gramaticais  |  Nicolas Souza | Lucas Macedo  |

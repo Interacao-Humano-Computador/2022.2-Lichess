@@ -42,4 +42,4 @@ A Figura 1 ilustra a página inicial do sítio eletrônico.
 | Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 19/11/2022 | Criação do documento | Lucas Gabriel  | Nicolas Souza |
-| `1.1`    | 07/12/2022 | Ajustes nas legendas e bibliografia | Nicolas Souza | |
+| `1.1`    | 07/12/2022 | Ajustes nas legendas e bibliografia | Nicolas Souza | Lucas Macedo|

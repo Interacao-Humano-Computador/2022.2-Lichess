@@ -70,4 +70,4 @@ Para a definição do ciclo de vida do projeto, foram levados em consideração 
 | Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |
-| `1.1`    | 07/12/2022 | Melhorando justificativa da escolha do ciclo de vida. | Nicolas Souza |  |
+| `1.1`    | 07/12/2022 | Melhorando justificativa da escolha do ciclo de vida. | Nicolas Souza | Lucas Macedo |

@@ -52,4 +52,4 @@ Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 | `1.0`  | 16/11/2022 |      Versão inicial do cronograma do projeto      | Mauricio Machado | Nicolas Souza |
 | `1.1`  | 24/11/2022 |             Padronização das legendas             |  Nicolas Souza   | Lucas Macedo  |
 | `1.2`  | 01/12/2022 | Adição do cronograma do segundo ponto de controle |   Lucas Macedo   | Nicolas Souza |
-| `1.3`  | 07/12/2022 | Inclusão de revisores e datas que estavam faltando| Nicolas Souza    |  |
+| `1.3`  | 07/12/2022 | Inclusão de revisores e datas que estavam faltando| Nicolas Souza    | Lucas Macedo |

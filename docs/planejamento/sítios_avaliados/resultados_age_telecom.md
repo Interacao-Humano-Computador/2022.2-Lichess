@@ -147,4 +147,4 @@ Para realização do percurso cognitivo foram elaborados duas personas (Figuras 
 | Versão | Data       | Descrição            | Autor(es)           | Revisor(es)        |
 | ------ | ---------- | -------------------- | ---------------- | -------------- |
 | `1.0`  | 16/11/2022 | Criação do Documento | Mauricio Machado | Nicolas Souza  |
-| `1.1`  | 07/12/2022 | Atualização das legendas e bibliografia | Nicolas Souza |     |
+| `1.1`  | 07/12/2022 | Atualização das legendas e bibliografia | Nicolas Souza | Lucas Macedo    |
