@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Os princípios gerais do projeto são uma parte que tem sua importância no desenvolvimento do projeto como um todo. Pois de certa forma, baseiam-se na necessidade da projeção de um sistema no qual o usuário não encontre dificuldades e aprenda de forma rápida e plena. Os princípios e diretrizes os quais foram utilizados de forma frequente em torno da matéria estão ligados aos tópicos (BARBOSA,S.,2010):
+Os princípios gerais do projeto são uma parte que tem sua importância no desenvolvimento do projeto como um todo. Pois de certa forma, eles serão o guia do time para a criação e refatoração da plataforma escolhida. Os princípios e diretrizes os quais foram utilizados de forma frequente em torno da matéria estão ligados aos tópicos(BARBOSA,S.,2010):
 
 ## Princípios Gerais do Projeto
 
@@ -28,6 +28,7 @@ Observa-se que é essencial para um bom projeto e sistema, ter princípios bem o
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição            | Autor(es) |  Revisor(es)  |
-| ------ | ---------- | -------------------- | -----     | ------------ |
-| `1.0`  | 25/11/2022 | Criação do documento | Davi      | Lucas Macedo |
+| Versão | Data       | Descrição            | Autor         | Revisor |
+| ------ | ---------- | -------------------- | ------------- | ------- |
+| `1.0`    | 25/11/2022 | Criação do documento | Davi | Lucas Macedo    |
+| `1.1`    | 05/12/2022 | Alteração de tópicos | Davi | Nicolas Souza   |
