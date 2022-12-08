@@ -47,19 +47,19 @@ Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como 
 > 9. Realizar testes empíricos;
 > 10. Praticar design iterativo (correção de problemas durante as iterações de design e avaliação);
 
-## Ciclo de vida de Mayhew
+## Ciclo de vida da Mayhew
 
 ![Ciclo de vida Mayhew](../img/planejamento/processo_de_design/ciclo-de-vida-mayhew.png)
 
 <div style="text-align: center">
-<p> Imagem 3: Ciclo de vida de Mayhew (Fonte: [1]).</p>
+<p> Imagem 3: Ciclo de vida da Mayhew (Fonte: [1]).</p>
 </div>
 
 Nesse ciclo de vida as atividades são divididas em três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação. A primeira fase consiste na definição das metas de usabilidade, com base em dados coletados por meio de atividades como a análise do perfil do usuário e das tarefas. Durante a segunda fase o designer elabora uma solução de IHC atendendo as metas de usabilidade definidas na primeira fase. Por fim, na etapa de instalação, o projetista coleta opiniões dos usuários após o uso do sistema e utiliza tais opiniões na elaboração de melhorias.
 
 ## Ciclo de vida do projeto
 
-Após o estudo dos processos de design apresentados acima, definiu-se que durante a elaboração do projeto será utilizado o ciclo de vida de Mayhew, por apresentar um processo detalhado e mais propício para o processo de aprendizagem.
+Para a definição do ciclo de vida do projeto, foram levados em consideração dois aspectos principais: o ciclo de vida das atividades propostas na disciplina de Interação Humano Computador e o processo de aprendizagem dos estudantes do grupo. Considerando que o [cronograma](cronograma.md) proposto no plano de ensino está em consonância com as atividades do ciclo de vida da Mayhew, e este apresenta um maior nível de detalhamento em relação aos outros ciclos de vidas propostos na literatura de referência, o ciclo de vida que será utilizado durante o projeto é o Ciclo de Vida da Mayhew.
 
 ## Bibliografia
 
@@ -70,3 +70,4 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 | Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |
+| `1.1`    | 07/12/2022 | Melhorando justificativa da escolha do ciclo de vida. | Nicolas Souza |  |
