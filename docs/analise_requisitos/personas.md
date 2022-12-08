@@ -30,7 +30,7 @@ Todas as imagens utilizadas nesse artefato foram retiradas do site [This Person 
 
 ## Perfil do Usuário
 
-A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](questionario.md) do questionário aplicado.
+A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos [resultados](./perfil_usuario.md) do questionário aplicado.
 
 | Característica    | Descrição                                                                    |
 | ----------------- | ---------------------------------------------------------------------------- |
@@ -151,4 +151,4 @@ A partir do perfil do usuário e das tarefas primárias identificadas, foi elabo
 | ------ | ---------- | -------------------------------------------------------------------------------------- | ---------------- | ------------ |
 | `1.0`  | 24/11/2022 | Criação do documento e adição das personas                                             | Mauricio         | Lucas Macedo |
 | `1.1`  | 30/11/2022 | Inclusão do perfil de usuário e inclusão da justificativa sobre a escolha das personas | Nicolas Souza    | Lucas Macedo |
-| `2.0`  | 06/12/2022 | Adição de persona Ana e refatoração de persona Jorge                                   | Mauricio Machado | Lucas Macedo |
+| `1.2`  | 06/12/2022 | Adição de persona Ana e refatoração de persona Jorge                                   | Mauricio Machado | Lucas Macedo |

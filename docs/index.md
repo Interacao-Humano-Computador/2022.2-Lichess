@@ -1,5 +1,9 @@
 # Lichess
 
+## Introdução
+
+Essa página dedica-se aos artefatos produzidos durante a disciplina de Interação Humano Computador (IHC) da Universidade de Brasília (UnB), durante o 2º semestre de 2022. O principal objetivo do projeto desenvolvido pelo grupo na disciplina é avaliar a IHC proposta pelo site [Lichess](https://lichess.org) (Figura 1) e apontar sugestões para resolver os problemas encontrados. O site consiste em uma plataforma de xadrez online, com funcionalidades voltadas para o treinamento e aperfeiçoamento dos jogadores.
+
 <div style="text-align: center">
 <img src="img/logo.png" style="width:15vw"/>
 
@@ -7,18 +11,16 @@
 
 </div>
 
-Essa página dedica-se aos artefatos produzidos durante a disciplina de Interação Humano Computador (IHC) da Universidade de Brasília (UnB), durante o 2º semestre de 2022. O principal objetivo do projeto desenvolvido pelo grupo na disciplina é avaliar a IHC proposta pelo site [Lichess](https://lichess.org) e apontar sugestões para resolver os problemas encontrados. O site consiste em uma plataforma de xadrez online, com funcionalidades voltadas para o treinamento e aperfeiçoamento dos jogadores.
-
 ## Equipe
 
 Nossa equipe de trabalho é composta pelos estudantes de Engenharia de Software da Universidade de Brasília presentes na Tabela 1.
 
 |                                              Foto                                               |       Nome       |                          Github                           |
 | :---------------------------------------------------------------------------------------------: | :--------------: | :-------------------------------------------------------: |
-| <img src="https://github.com/MauricioMachadoFF.png" alt="Mauricio Machado" style="width: 10vw"> | Mauricio Machado | [MauricioMachadoFF](https://github.com/MauricioMachadoFF) |
 |        <img src="https://github.com/daves22.png" alt="Davi Matias" style="width: 10vw">         |   Davi Matias    |           [daves22](https://github.com/daves22)           |
 |    <img src="https://github.com/lucasgabriel-2.png" alt="Lucas Gabriel" style="width: 10vw">    |  Lucas Gabriel   |    [lucasgabriel-2](https://github.com/lucasgabriel-2)    |
 |        <img src="https://github.com/Luckx98.png" alt="Lucas Macedo" style="width: 10vw">        |   Lucas Macedo   |           [Luckx98](https://github.com/Luckx98)           |
+| <img src="https://github.com/MauricioMachadoFF.png" alt="Mauricio Machado" style="width: 10vw"> | Mauricio Machado | [MauricioMachadoFF](https://github.com/MauricioMachadoFF) |
 |      <img src="https://github.com/nszchagas.png" alt="Nicolas Souza" style="width: 10vw">       |  Nicolas Souza   |         [nszchagas](https://github.com/nszchagas)         |
 
 <div style="text-align: center">

@@ -37,7 +37,7 @@ A avaliação revelou três problemas de usabilidade, que estão descritos a seg
 
 ### Problema 1
 
-Abaixo estão registradas as figuras que ilustram o primeiro problema identificado, que é uma violação da heurística H2 - correspondência entre o sistema e o mundo real. As nomenclaturas **totalização**, **RDV** e **log** utilizadas nos menus estão distantes da realidade do público alvo.
+As Figuras 1 e 2  ilustram o primeiro problema identificado, que é uma violação da heurística H2 - correspondência entre o sistema e o mundo real. As nomenclaturas **totalização**, **RDV** e **log** utilizadas nos menus estão distantes da realidade do público alvo.
 
 ![Menu de navegação.](imgs/20-06-37.png)
 
@@ -69,7 +69,7 @@ Abaixo estão registradas as figuras que ilustram o primeiro problema identifica
 
 ### Problema 2
 
-Abaixo está ilustrado o segundo problema identificado, a configuração da pesquisa não é intuitiva para o usuário.
+As Figuras de 3 a 6 ilustram segundo problema identificado, a configuração da pesquisa não é intuitiva para o usuário.
 
 ![Ausência de indicativo de onde fazer a configuração da pesquisa](imgs/20-08-04.png)
 
@@ -94,7 +94,7 @@ O caminho para configurar a pesquisa está ilustrado abaixo.
 ![Terceiro passo: selecionar a zona e a seção](imgs/20-44-56.png)
 
 <div style="text-align: center">
-<p> Figura 5 - Terceiro passo: selecionar a zona e a seção (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
+<p> Figura 6 - Terceiro passo: selecionar a zona e a seção (Fonte: <a href="https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/resultados"> Resultados TSE</a>).</p>
 </div>
 
 | **Reconhecimento em vez de memorização**                                                                                                            |

@@ -6,7 +6,7 @@ O mapa de empatia é uma ferramenta que nos ajuda a conhecer e entender melhor o
 
 ### Quando aplicar
 
-É ideal aplicar o mapa de empatia depois de ter as personas bem definidas e claras, pois assim irá proporcionar uma analise mais aprofundada dos clientes. Ele pode ser executado numa lousa com post-its, flip-chart, papel sulfite ou no computador. Para isso, é necessário responder aos seguintes questionamentos, também representados na figura 1:
+É ideal aplicar o mapa de empatia depois de ter as personas bem definidas e claras, pois assim irá proporcionar uma analise mais aprofundada dos clientes. Ele pode ser executado numa lousa com post-its, flip-chart, papel sulfite ou no computador. Para isso, é necessário responder aos seguintes questionamentos, também representados na Figura 1:
 
 - com quem estamos sendo empáticos?
 - o que ela/ele precisa fazer?
@@ -19,7 +19,7 @@ O mapa de empatia é uma ferramenta que nos ajuda a conhecer e entender melhor o
 ![Mapa de empatia](imgs/mapa-da-empatia.png)
 
 <div style="text-align: center">
-<p> Imagem 1: Mapa de empatia(Fonte: Dave Gray, XPlane).</p>
+<p> Figura 1: Mapa de empatia(Fonte: Dave Gray, XPlane).</p>
 </div>
 
 ### Relação com as personas

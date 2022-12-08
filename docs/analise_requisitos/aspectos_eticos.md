@@ -15,7 +15,7 @@ de danos e riscos. Esses danos podem ocorrer de forma física, psíquica, moral,
 
 Os questionários utilizados pela equipe possuem o seguinte termo de consentimento:
 
-### Termo de consentimento
+## Termo de consentimento
 
 Somos uma equipe da disciplina de Interação Humano Computador, que está realizando uma avaliação do sistema Lichess, um sítio da internet que tem como foco a prática de xadrez online, os resultados desse projeto podem ser observados através deste [link](https://interacao-humano-computador.github.io/2022.2-Lichess/). Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que usam o sistema pensam a respeito de suas características e funcionamento e como imaginam que o novo sistema deveria apoiar a sua prática. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização de um questionário com duração de _________ . Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
 
@@ -38,6 +38,6 @@ Caso o participante seja menor de idade é necessário a permissão do responsá
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição            | Autor         | Revisor |
+| Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ------- |
 | 1.0    | 23/11/2022 | Criação do documento | Lucas Gabriel | Davi    |
