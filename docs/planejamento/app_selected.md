@@ -1,6 +1,6 @@
-# Sítio eletrônico selecionado para o projeto da disciplina
+# Sítio selecionado para o projeto da disciplina
 
-## Sítios eletrônico analisados
+## Introdução
 
 Durante a primeira etapa do projeto, os estudantes realizaram escolhas de sítios da internet, priorizando os do governo ou comunidades de software livre, de forma individual a fim de trazerem propostas para o projeto a ser trabalhado pelo grupo durante a disciplina de Interação Humano Computador, dessa forma cada um fez uma breve avaliação e produziu o artefato de avaliação inicial relativo a sua escolha, com base nessas decisões foram debatidas ideias a respeito de qual desses sítios melhor se encaixaria para ser trabalhado durante a disciplina. Nesse [link](./sites_avaliados.md), é possível observar a escolha de cada integrante do grupo e a avaliação realizada.
 
@@ -23,7 +23,7 @@ Dentre os sítios analisados de forma individual, o escolhido foi o "[Lichess](h
 - Estética e design minimalista
 - Ajuda e documentação
 
-Segue, na Figura 1, a página inicial do sítio eletrônico:
+A Figura 1 ilustra a página inicial do sítio eletrônico.
 
 ![Imagem da página inicial do sítio eletrônico Lichess](images/img-lichess.png)
 

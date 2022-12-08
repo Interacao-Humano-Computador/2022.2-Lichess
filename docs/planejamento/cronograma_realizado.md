@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é o cronograma com atualizações de o que foi feito, suas respectivas datas e autores/Revisor(es)es.
+Este é o cronograma com atualizações de o que foi feito, suas respectivas datas e autores/Revisor(es).
 
 ## Cronograma Ponto de Controle 1
 

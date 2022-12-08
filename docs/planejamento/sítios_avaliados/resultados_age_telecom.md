@@ -7,7 +7,7 @@ Para avaliação do site fora utilizado o framework DECIDE. Nele apontamos duas 
 
 ## Avaliação Heurística
 
-Abaixo temos uma lista de violações encontradas junto de seu grau de severidade e uam sugestão de possível solução:
+Abaixo temos uma lista de violações encontradas junto de seu grau de severidade e uma sugestão de possível solução:
 
 - Reconhecimento através de memorização: Sistema apresenta modos de navegação conhecidos (carrossel, barra de menu, mensagens interativas) porém com comportamentos diferentes dos padrões implementados.
   - Severidade: **Baixa**
@@ -98,7 +98,7 @@ Abaixo temos uma lista de violações encontradas junto de seu grau de severidad
 
 ## Percurso cognitivo
 
-Para realização do percurso cognitivo foram elaborados duas personas.
+Para realização do percurso cognitivo foram elaborados duas personas (Figuras 1 e 2).
 
 ### Pedro
 

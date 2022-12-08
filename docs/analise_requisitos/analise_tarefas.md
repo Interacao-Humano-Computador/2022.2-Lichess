@@ -37,7 +37,7 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 
 ### Análise da tarefa: jogar uma partida de xadrez
 
-A tarefa "jogar uma partida de xadrez" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 apresenta a análise hierárquica dessa tarefa
+A tarefa "jogar uma partida de xadrez" é a principal tarefa que o usuário realiza no sistema, já que é sua funcionalidade principal. A Tabela 1 e a Figura 2 apresentam a análise hierárquica dessa tarefa em sua forma textual e de diagrama, respectivamente.
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
