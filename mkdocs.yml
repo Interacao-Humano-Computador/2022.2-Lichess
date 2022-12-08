@@ -4,7 +4,19 @@ theme:
   logo: img/logo.png
   favicon: img/logo.png
   palette:
-    primary: grey
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
   features:
     - tabs
     - navigation.section
