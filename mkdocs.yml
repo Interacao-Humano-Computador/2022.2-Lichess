@@ -32,10 +32,10 @@ nav:
   - Análise de Requisitos:
       - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
       - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
-      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
       - Personas: "analise_requisitos/personas.md"
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
+      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
