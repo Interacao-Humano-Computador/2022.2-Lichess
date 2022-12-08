@@ -35,6 +35,7 @@ nav:
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
       - Personas: "analise_requisitos/personas.md"
+      - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
