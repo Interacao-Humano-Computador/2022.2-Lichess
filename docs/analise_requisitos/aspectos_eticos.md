@@ -38,6 +38,6 @@ Caso o participante seja menor de idade é necessário a permissão do responsá
 
 ## Tabela de Versionamento
 
-| Versão | Data       | Descrição            | Autor         | Revisor |
+| Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ------- |
 | 1.0    | 23/11/2022 | Criação do documento | Lucas Gabriel | Davi    |
