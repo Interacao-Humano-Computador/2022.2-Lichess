@@ -5,7 +5,7 @@
 ## Introdução
 
 <div style="text-align: center">
-<p> Imagem 1: Descrição (Fonte: [1]).</p>
+<p> Figura 1: Descrição (Fonte: [1]).</p>
 </div>
 
 <div style="text-align: center">

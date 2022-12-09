@@ -20,30 +20,34 @@ Para obter esses dados foi realizado um questionário.
 ### Desvantagens
 
 - Se a taxa de resposta for baixa, o resultado pode não ser estatisticamente significativo.
-- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergun-ta, o que pode levar a erros nos requisitos.
+- Uma falha na elaboração do questionário pode levar a respostas em branco ou incorretas, ou também gerar interpretações distintas da mesma pergunta, o que pode levar a erros nos requisitos.
 - O uso de questões com respostas ilimitadas demanda mais esforço de análise das respostas, se o público for numeroso.
 
 ## Resultados coletados
 
-A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso (termo consentimento)[https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing]
-A fim de conhecer apenas o público que já utiliza o aplicativo foi estabelecida uma pesquisa de filtragem. Assim das 52 respostas coletadas apenas 28 usam o LiChess seja via site ou aplicativo.
+A seguir iremos mostrar os resultados coletados para cada questão do formulário. O formulário conta com 52 respostas, antes da coleta os usuários aceitaram o nosso [termo consentimento](https://docs.google.com/document/d/1mpv84VxXb-ld8qBgqgDsLqtA2fs2hG_L8Ta4iR4A4lI/edit?usp=sharing)
+A fim de conhecer apenas o público que já utiliza o aplicativo foi estabelecida uma pesquisa de filtragem. Assim das 52 respostas coletadas apenas 28 usam o Lichess seja via site ou aplicativo.
 Respostas foram coletadas entre as datas **20/11/2022** e **24/11/2022**.
 
 ### Questão 1
 
 ![Image do resultado da questão 1](./imgs/perfil_usuario/pergunta-1.png)
 
-**Imagem Pergunta 1. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 1: Pergunta 1. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 2
 
 ![Image do resultado da questão 2](./imgs/perfil_usuario/pergunta-2.png)
 
-**Imagem Pergunta 2. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 2: Pergunta 2. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 3
 
-Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
+Na Tabela 1, estão listadas as resposta diretas do nosso usuário, sem edição e/ou correção ortográfica.
 
 |                                                                                                                   **Descreva um dia agradável para você**                                                                                                                   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -63,7 +67,9 @@ Na Tabela Respostas Pergunta 3, estão listadas as resposta diretas do nosso usu
 |                                                                                                                        Sair com os amigos para beber                                                                                                                        |
 |                                                                                                 Acordar às 10h, amassar meu doguinho num abraço e jogar algo no computador.                                                                                                 |
 
-**Tabela Respostas Pergunta 3. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Tabela 1: Respostas pergunta 3. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 4
 
@@ -85,23 +91,28 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                            Xadrez e war                             |
 |                            Xadrez, damas                            |
 
-**Tabela Respostas Pergunta 4. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Tabela 2: Respostas pergunta 4. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 5
 
 ![Image do resultado da questão 5](./imgs/perfil_usuario/pergunta-5.png)
 
-**Imagem Pergunta 5. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 3: Pergunta 5. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 6
 
 ![Image do resultado da questão 6](./imgs/perfil_usuario/pergunta-6.png)
-
-**Imagem Pergunta 6. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 4: Pergunta 6. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 7
 
-| Qual a frequência que você joga LiChess? | Votos | Porcentagem |
+| Qual a frequência que você joga Lichess? | Votos | Porcentagem |
 | :--------------------------------------: | :---: | :---------: |
 |         Mais de uma vez por dia          |   1   |    3,6%     |
 |              1 vez por dia               |   9   |     32%     |
@@ -112,43 +123,47 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |           1 vez a cada 2 meses           |   2   |    7,1%     |
 |                  Outros                  |   4   |    14,3%    |
 
-**Tabela Respsotas Pergunta 7. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Tabela 3: Respostas pergunta 7. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 8
 
 ![Image do resultado da questão 8](./imgs/perfil_usuario/pergunta-8.png)
 
-**Imagem Pergunta 8. Fonte: Mauricio Machado**
-
 ### Questão 9
 
-| Qual seu tempo médio de uso do LiChess antes de ficar cansado? | Votos | Porcentagem |
+| Qual seu tempo médio de uso do Lichess antes de ficar cansado? | Votos | Porcentagem |
 | :------------------------------------------------------------: | :---: | :---------: |
 |                         Até 30 minutos                         |   5   |    26,3%    |
 |                     Entre 30 e 60 minutos                      |   4   |   21,05%    |
 |                       Entre 1 e 2 horas                        |   4   |   21,05%    |
 |                       Entre 2 e 3 horas                        |   2   |   10,55%    |
 |                        Mais de 3 horas                         |   4   |   21,05%    |
-
-**Tabela Respsotas Pergunta 9. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Tabela 4: Respostas pergunta 9. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 10
 
 ![Image do resultado da questão 10](./imgs/perfil_usuario/pergunta-10.png)
-
-**Imagem Pergunta 10. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 5: Pergunta 10. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 11
 
 ![Image do resultado da questão 11](./imgs/perfil_usuario/pergunta-11.png)
-
-**Imagem Pergunta 11. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 6: Pergunta 11. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 12
 
 ![Image do resultado da questão 12](./imgs/perfil_usuario/pergunta-12.png)
-
-**Imagem Pergunta 12. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Figura 7: Pergunta 12. (Fonte: autor, 2022).</p>
+</div>
 
 ### Questão 13
 
@@ -172,22 +187,38 @@ Na Tabela Respostas Pergunta 4, estão listadas as resposta diretas do nosso usu
 |                                                                           A única coisa que me frustra um pouco no Lichess é o matchmaking, que às vezes falha e coloca adversários muito fáceis ou muito difíceis.                                                                           |
 |                                                                                                                        Aperfeiçoamento de anticheats para a plataforma                                                                                                                        |
 
-**Tabela Respsotas Pergunta 13. Fonte: Mauricio Machado**
+<div style="text-align: center">
+<p> Tabela 5: Respostas pergunta 13. (Fonte: autor, 2022).</p>
+</div>
 
 ## Análise dos resultados
 
-Levando em conta os dados levantados através do qeustionário, pode-se constarar que o perfil de usuário é centrada na faixa dos 20 anos, onde temos dois traços de perfis muito forte: competitivo e sociável. Cada um desses traços, cria uma persona.
+Levando em conta os dados levantados através do questionário, pode-se constatar que o perfil de usuário é centrada na faixa dos 20 anos, onde temos dois traços de perfis muito forte: competitivo e sociável. Cada um desses traços, cria uma persona.
 
-Com uma grande parcela de usuários tendo alta taxa de uso de dispositivos eletrônicos como smartphones, uma das principais queixas levantadas foi acerca do conforto de utilização do aplicativo, tendo uma interface poluída e díficil acesso a documentação, acaba por gerar uma redução no tempo de sessão de seus usuários.
+Com uma grande parcela de usuários tendo alta taxa de uso de dispositivos eletrônicos como smartphones, uma das principais queixas levantadas foi acerca do conforto de utilização do aplicativo, tendo uma interface poluída e difícil acesso a documentação, acaba por gerar uma redução no tempo de sessão de seus usuários.
 
 Usuários voltam a criação de uma comunidade, como feature que deve ser trabalhado a fim de ajudar a trazer novas pessoas para a área do xadrez.
 
-## Referências
+A Tabela 6 apresenta um resumo dos resultados, para facilitar a leitura dele perfil.
 
-> VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
+| Característica    | Descrição                                                                    |
+| ----------------- | ---------------------------------------------------------------------------- |
+| Idade             | Jovem, com idade média de 23 anos.                                           |
+| Experiência       | Especialista                                                                 |
+| Atitudes          | Tecnófilos                                                                   |
+| Tarefas primárias | Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente |
 
-## Histórico de versões
+<div style="text-align: center">
+<p>Tabela 6: Perfil do usuário (fonte: autor, 2022).</p>
+</div>
 
-|    Data    | Versão |      Descrição       |  Autor   | Revisor |
-| :--------: | :----: | :------------------: | :------: | :-----: |
-| 26/11/2022 | `1.0`  | Criação do documento | Mauricio |   Lucas Macedo    |
+## Bibliografia
+
+[1] VASQUEZ, Carlos E; SIVOES, Guilherme S. Engenharia de Requisitos - Software orientado ao negócio.
+
+## Histórico de Versão
+
+| Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
+| ------ | ----- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 26/11/2022  |   Criação do documento   |  Maurício     |  Lucas Macedo |
+| `1.1`  | 07/12/2022  |   Padronização das legendas e ajustes gramaticais  |  Nicolas Souza | Lucas Macedo  |

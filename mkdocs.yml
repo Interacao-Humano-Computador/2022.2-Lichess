@@ -28,6 +28,7 @@ nav:
       - 15/11/2022: "atas/ata_15_11.md"
       - 22/11/2022: "atas/ata_22_11.md"
       - 29/11/2022: "atas/ata_29_11.md"
+      - 06/12/2022: "atas/ata_06_12.md"
   - Planejamento:
       - Cronograma: "planejamento/cronograma.md"
       - Cronograma Realizado: "planejamento/cronograma_realizado.md"
@@ -43,10 +44,11 @@ nav:
   - Análise de Requisitos:
       - Aspectos éticos: "analise_requisitos/aspectos_eticos.md"
       - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
-      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
       - Personas: "analise_requisitos/personas.md"
       - Metas de Usabilidade: "analise_requisitos/metas_usabilidade.md"
+      - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
+      - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"

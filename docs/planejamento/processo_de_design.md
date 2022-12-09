@@ -14,23 +14,23 @@ As atividades do processo de design podem ser organizadas de acordo com alguns c
 
 ## Ciclo de vida simples
 
+No ciclo de vida simples (Figura 1), a atividade de sínteses é dividida em design (ou redesign) e na construção de uma versão interativa. A iteração entre as atividades pode ocorrer quantas vezes forem necessárias. Esse modelo é mais indicado para designers que já possuam experiência, haja vista que ele apresenta atividades pouco detalhadas.
+
 ![Ciclo de vida Simples](../img/planejamento/processo_de_design/ciclo-de-vida-simples.png)
 
 <div style="text-align: center">
-<p> Imagem 1: Ciclo de vida simples (Fonte: [1]).</p>
+<p> Figura 1: Ciclo de vida simples (Fonte: [1]).</p>
 </div>
 
-No ciclo de vida simples, a atividade de sínteses é dividida em design (ou redesign) e na construção de uma versão interativa. A iteração entre as atividades pode ocorrer quantas vezes forem necessárias. Esse modelo é mais indicado para designers que já possuam experiência, haja vista que ele apresenta atividades pouco detalhadas.
-
 ## Ciclo de vida em estrela
+
+No ciclo de vida em estrela (Figura 2), o designer pode começar o processo por qualquer uma das pontas, desde que, após concluir cada atividade, este realize uma avaliação dos resultados obtidos. Neste modelo, a atividade de síntese é dividida nas atividades de projeto conceitual e especificação do design, prototipação e implementação.
 
 ![Ciclo de vida em Estrela](../img/planejamento/processo_de_design/ciclo-de-vida-em-estrela.png)
 
 <div style="text-align: center">
-<p> Imagem 2: Ciclo de vida em estrela (Fonte: [1]).</p>
+<p> Figura 2: Ciclo de vida em estrela (Fonte: [1]).</p>
 </div>
-
-No ciclo de vida em estrela, o designer pode começar o processo por qualquer uma das pontas, desde que, após concluir cada atividade, este realize uma avaliação dos resultados obtidos. Neste modelo, a atividade de síntese é dividida nas atividades de projeto conceitual e especificação do design, prototipação e implementação.
 
 ## Ciclo de Vida de Nielsen
 
@@ -47,19 +47,19 @@ Nielsen definiu **engenharia de usabilidade** como as seguintes atividades como 
 > 9. Realizar testes empíricos;
 > 10. Praticar design iterativo (correção de problemas durante as iterações de design e avaliação);
 
-## Ciclo de vida de Mayhew
+## Ciclo de vida da Mayhew
+
+Nesse ciclo de vida as atividades são divididas em três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação, representados em detalhes na Figura 3. A primeira fase consiste na definição das metas de usabilidade, com base em dados coletados por meio de atividades como a análise do perfil do usuário e das tarefas. Durante a segunda fase o designer elabora uma solução de IHC atendendo as metas de usabilidade definidas na primeira fase. Por fim, na etapa de instalação, o projetista coleta opiniões dos usuários após o uso do sistema e utiliza tais opiniões na elaboração de melhorias.
 
 ![Ciclo de vida Mayhew](../img/planejamento/processo_de_design/ciclo-de-vida-mayhew.png)
 
 <div style="text-align: center">
-<p> Imagem 3: Ciclo de vida de Mayhew (Fonte: [1]).</p>
+<p> Figura 3: Ciclo de vida da Mayhew (Fonte: [1]).</p>
 </div>
-
-Nesse ciclo de vida as atividades são divididas em três fases: análise de requisitos, design/avaliação/desenvolvimento e instalação. A primeira fase consiste na definição das metas de usabilidade, com base em dados coletados por meio de atividades como a análise do perfil do usuário e das tarefas. Durante a segunda fase o designer elabora uma solução de IHC atendendo as metas de usabilidade definidas na primeira fase. Por fim, na etapa de instalação, o projetista coleta opiniões dos usuários após o uso do sistema e utiliza tais opiniões na elaboração de melhorias.
 
 ## Ciclo de vida do projeto
 
-Após o estudo dos processos de design apresentados acima, definiu-se que durante a elaboração do projeto será utilizado o ciclo de vida de Mayhew, por apresentar um processo detalhado e mais propício para o processo de aprendizagem.
+Para a definição do ciclo de vida do projeto, foram levados em consideração dois aspectos principais: o ciclo de vida das atividades propostas na disciplina de Interação Humano Computador e o processo de aprendizagem dos estudantes do grupo. Considerando que o [cronograma](cronograma.md) proposto no plano de ensino está em consonância com as atividades do ciclo de vida da Mayhew, e este apresenta um maior nível de detalhamento em relação aos outros ciclos de vidas propostos na literatura de referência, o ciclo de vida que será utilizado durante o projeto é o Ciclo de Vida da Mayhew.
 
 ## Bibliografia
 
@@ -70,3 +70,4 @@ Após o estudo dos processos de design apresentados acima, definiu-se que durant
 | Versão   | Data       | Descrição            |  Autor(es)       | Revisor(es)          |
 | :------: | :--------: |:-------------------: | :-----------: | :-----:          |
 | `1.0`    | 18/11/2022 | Criação do documento. | Nicolas Souza | Davi Silva |
+| `1.1`    | 07/12/2022 | Melhorando justificativa da escolha do ciclo de vida. | Nicolas Souza | Lucas Macedo |
