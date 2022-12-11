@@ -1,4 +1,10 @@
 site_name: Lichess
+
+repo_name: "2022.2-Lichess"
+repo_url: "https://github.com/Interacao-Humano-Computador/2022.2-Lichess"
+
+copyright: "Copyright &copy; 2022 Lichess"
+
 theme:
   name: material
   logo: img/logo.png
