@@ -5,7 +5,7 @@
 O Guia de Estilo é um documento criado com intuito de reunir os princípios e as diretrizes adotadas no projeto. Assim, registrando as principais decisões de design tomadas, com objetivo que elas não se percam e sejam de fácil acesso para serem efetivamente implementadas no produto final e reutilizadas durante as etapas de extensão do produto. Diante disso, esse documento pode servir como uma forma de comunicação da equipe de design com a equipe de desenvolvimento, nesse caso esses conceitos serão aplicados ao sítio eletrônico [Lichess](https://lichess.org/) baseando-se nas [Metas de Usabilidade](../analise_requisitos/metas_usabilidade.md) de acordo com o ciclo de vida para engenharia de usabilidade de Mayhew [1]. 
 
 
-### Objetivo do guia de estilo
+## Objetivo do guia de estilo
 O objetivo desse documento é compreender o design proposto para o projeto do sítio eletrônico Lichess, analisando elementos como Logo, Layout Tipografia, Simbolismo, Cores, Visualização de informações, Design de telas e elementos de interface (widgets) com intuito de documentá-los e com esse entendimento propor melhorias para alguns elementos e no futuro dar prosseguimento  ao projeto nas etapas de design, avaliação e desenvolvimento.
 
 ### Organização e conteúdo do guia de estilo
@@ -21,10 +21,11 @@ O guia pode ser consultado para decisões de design relacionadas ao projeto, sej
 Sempre que a equipe de design tomar uma decisão que modificará o projeto é importante que o guia de estilo seja atualizado para que o projeto continue padronizado.
 
 ## Elementos de interface
-Os elementos de interface podem ser observados no projeto no sítio eletrônico do [Figma](https://www.figma.com/file/qfUwpHwhGHyrFqgfEYKr53/Guia-de-estilo---Lichess?node-id=0%3A1&t=SUSt7d2e73XI8wI8-1)
+Os elementos de interface podem ser observados no projeto no sítio eletrônico do Figma, localizado abaixo:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FqfUwpHwhGHyrFqgfEYKr53%2FGuia-de-estilo---Lichess%3Fnode-id%3D0%253A1%26t%3D3foPw08drZfIqwwh-1" allowfullscreen></iframe>
 
 
-### Bibliografia
+## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
