@@ -59,6 +59,6 @@ A satisfação do usuário está relacionado às emoções e sentimentos do usu�
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 09/12/2022 | Criação do documento.              | Nicolas Souza |               |
+| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)     |
+| ------ | ---------- | ---------------------------------- | ------------- | ---------------- |
+| `1.0`  | 09/12/2022 | Criação do documento.              | Nicolas Souza | Maurício Machado |
