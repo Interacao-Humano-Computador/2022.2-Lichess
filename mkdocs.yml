@@ -4,7 +4,19 @@ theme:
   logo: img/logo.png
   favicon: img/logo.png
   palette:
-    primary: grey
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: grey
+      toggle:
+        icon: material/brightness-7
+        name: Tema escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      toggle:
+        icon: material/brightness-4
+        name: Tema claro
   features:
     - tabs
     - navigation.section
@@ -34,6 +46,7 @@ nav:
       - Princípios Gerais do Projeto: "analise_requisitos/principios_gerais.md"
       - Perfil de Usuário: "analise_requisitos/perfil_usuario.md"
       - Personas: "analise_requisitos/personas.md"
+      - Metas de Usabilidade: "analise_requisitos/metas_usabilidade.md"
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
   - Apresentações: "apresentacoes.md"
