@@ -49,6 +49,7 @@ nav:
       - Metas de Usabilidade: "analise_requisitos/metas_usabilidade.md"
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
+      - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
