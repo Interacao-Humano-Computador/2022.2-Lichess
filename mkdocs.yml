@@ -56,6 +56,11 @@ nav:
       - Mapa de Empatia: "analise_requisitos/mapa_empatia.md"
       - Análise de tarefas: "analise_requisitos/analise_tarefas.md"
       - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+          - Storyboard:
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/storyboard/planejamento_relato.md
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
