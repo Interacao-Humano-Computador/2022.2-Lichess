@@ -9,6 +9,7 @@ Durante a etapa da Análise de requisitos foi realizada a [Análise de tarefas](
 Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir:
 
 **DECIDE**
+
 | Letra | Significado                                                 |
 | ----- | ----------------------------------------------------------- |
 | **D** | Determinar os objetivos gerais da avaliação                 |
