@@ -152,4 +152,4 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas |               |               |
+| `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
