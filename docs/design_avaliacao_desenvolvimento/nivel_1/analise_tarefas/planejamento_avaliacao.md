@@ -114,7 +114,7 @@ Entrevista 5
 
 Com relação à ética serão seguidos os padrões de ética definidos no documento de [Aspectos Éticos](../analise_requisitos/aspectos_eticos.md), o termo de consentimento relativo à entrevista pode ser observados logo a seguir na Figura 1.
 
-![Termo de consentimento da entrevista](../images/termoConsentimento.jpeg)
+![Termo de consentimento da entrevista](images/termoConsentimento.jpeg)
 
 <div style="text-align: center">
 <p> Figura 1: Termo de consentimento da entrevista (Fonte: [1]).</p>
