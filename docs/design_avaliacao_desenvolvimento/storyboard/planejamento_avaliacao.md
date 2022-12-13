@@ -43,6 +43,12 @@ Por meio do [perfil de usuário](../../analise_requisitos/perfil_usuario.md) foi
 
 ### Cronograma da avaliação
 
+| Data e horário | Atividade | Autor(es) | Revisor(es) |
+| :-: | - | - | - |
+| 16/12/2022 <br> às 10:00 | Execução do teste piloto | Nicolas Souza | Lucas Macedo |
+| 18/12/2022 <br> às 09:00 | Entrevista com o usuário | Nicolas Souza <br> Lucas Macedo | Lucas Gabriel |
+| 19/12/2022 <br> até 22:00 | Registro dos resultados da entrevista | Lucas Macedo | Nicolas Souza |
+
 ### Papeis dos Avaliadores
 
 Durante a entrevista, dois membros do grupo exercerão o papel de avaliadores. Um deles ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, e o outro responsável por conduzir a entrevista.
