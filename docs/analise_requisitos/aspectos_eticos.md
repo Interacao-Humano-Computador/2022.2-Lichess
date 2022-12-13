@@ -40,4 +40,5 @@ Caso o participante seja menor de idade é necessário a permissão do responsá
 
 | Versão | Data       | Descrição            | Autor(es)         | Revisor(es) |
 | ------ | ---------- | -------------------- | ------------- | ------- |
-| 1.0    | 23/11/2022 | Criação do documento | Lucas Gabriel | Davi    |
+| `1.0`    | 23/11/2022 | Criação do documento | Lucas Gabriel | Davi    |
+| `1.1`    | 13/12/2022 | Ajustes nas referências e termo de consentimento | Lucas Gabriel | Nicolas Souza  |
