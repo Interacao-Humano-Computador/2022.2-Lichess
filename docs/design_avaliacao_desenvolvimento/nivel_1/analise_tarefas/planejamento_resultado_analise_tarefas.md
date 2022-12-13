@@ -34,7 +34,7 @@ Nessa etapa, o escritor do documento deverá relatar o porquê essa avaliação 
 
 Descrever qual atividade foi executada para coleta de dados e como a avaliação ocorreu.
 
-Além disso a fim de incrementar sobre dados deve ser adicionado o **cronograma executado**. A fim de padronizar o cronograma iremos ilustrar na tabela 1, o exemplo de um item de crongrama.
+Além disso a fim de incrementar sobre dados deve ser adicionado o **cronograma executado**. A fim de padronizar o cronograma iremos ilustrar na tabela 1, o exemplo de um item de cronograma.
 
 | Data | Ator da avaliação | Receptor da avaliação | Local | Horário |
 | ---- | ----------------- | --------------------- | ----- | ------- |
