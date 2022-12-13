@@ -61,9 +61,60 @@ Antes da execução da entrevista, será realizado um teste piloto. O teste pilo
 
 ### Roteiro de Perguntas
 
-### Storyboards desenvolvimentos
+A seguir estão registradas as perguntas que comporão a entrevista com o usuário. Caso ele responda **não** ou **não sei afirmar** para qualquer uma delas, o entrevistador deve perguntar em seguida se ele pode justificar o motivo da resposta e se ele possui alguma sugestão de melhoria.
 
-#### Tarefa 1: Jogar uma partida
+A sequência de perguntas a seguir deve ser executada para cada um dos [storyboards desenvolvidos](#storyboards-desenvolvidos).
+
+#### Perguntas
+
+<ol>
+<li> Os atores envolvidos no storyboard são condizentes com a realidade?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+<li> O ambiente em que ocorre o storyboard é condizente com a realidade?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+<li> As tarefas realizadas pelos atores no storyboard são condizentes com a realidade?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+<li> A sequência de ações do storyboard é condizente com a realidade?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+<li> A motivação do usuário para utilizar a aplicação lichess fica clara no storyboard?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+<li> Você considera que o ator principal completou seu objetivo na história contada pelo storyboard?
+    <ul>
+    <li> Sim
+    <li> Não
+    <li> Não sei afirmar
+    </ul>
+</li>
+</ol>
+
+### Storyboards desenvolvidos
+
+#### Tarefa 1: Jogar uma partida de xadrez
 
 #### Tarefa 2: Aprender a jogar xadrez
 
