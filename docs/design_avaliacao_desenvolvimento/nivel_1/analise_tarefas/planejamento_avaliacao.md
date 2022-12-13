@@ -1,10 +1,12 @@
 # Planejamento da avaliação da Análise de tarefas
 
 ## Introdução
+
 Durante a etapa da Análise de requisitos foi realizada a [Análise de tarefas](../analise_requisitos/analise_tarefas.md) com intuito de obter mais informações sobre as tarefas realizadas pelos usuários no sistema Lichess. Essa análise foi realizada levando em consideração o [Perfil do usuário](../analise_requisitos/perfil_usuario.md) obtido por meio de questionários. A seguir, para uma análise mais detalhada é necessário a realização de entrevistas com usuários reais do produto, avaliando o ponto de vista do usuário de forma ativa, para isso será elaborado um Planejamento da Avaliação da Análise de tarefas e posteriormente a atividade será executada. Pois, segundo a obra "Interação Humano-Computador e Experiência do Usuário" de Simone D. J. Barbosa e Bruno Santana da Silva a realização da avaliação de IHC é essencial em qualquer processo de desenvolvimento com intuito de produzir um sistema interativo com alta qualidade de uso. Pois, essa ajuda o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência do usuário enquanto usa o sistema [1].
 
 ## Planejamento
-Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir: 
+
+Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir:
 
 **DECIDE**
 | Letra | Significado                                                 |
@@ -25,12 +27,12 @@ Diante disso, a seguir encontra-se o detalhamento do planejamento utilizando o F
 ### (D)eterminar os objetivos gerais da avaliação
 
 #### Objetivo
+
 O intuito dessa avaliação é coletar dados dos interessados no sistema (stakeholders), mais especificamente dos usuários e a suas interações com o sítio eletrônico e identificar problemas de interface que possam ser prejudiciais à experiência de uso, validando-se de critérios de qualidade como usabilidade, experiência do usuário, acessibilidade e comunicabilidade. Diante disso, o planejamento é relevante pois ao avaliar a qualidade de uso validando-se dele evita-se que sejam desperdiçados tempo e dinheiro. Dessarte, serão avaliadas questões relativas aos seguintes tópicos:
 
 1. Apropriação da tecnologia pelos usuários.
 2. Ideias e alternativas de design;
 3. Problemas na interação e na interface.
-
 
 #### (E)xplorar perguntas a serem feitas na avaliação
 
@@ -58,7 +60,8 @@ As perguntas elaboradas têm como base a "Tabela 11.1: Exemplos de perguntas que
 <p> Tabela 2: Questões a serem tratadas na entrevista (Fonte: [1], 2022).</p>
 </div>
 
-### Choose (escolher) os métodos de avaliação    
+### Choose (escolher) os métodos de avaliação
+
 O método utilizado foi o método da entrevista, o qual é um método investigativo, que trata-se de uma conversa guiada por um roteiro de perguntas, na qual um entrevistador busca obter informação de um entrevistado [2]. Esse método foi escolhido, pois permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário [1]. Na entrevista as perguntas podem ser classificadas como abertas e fechadas, que são respectivamente, perguntas de natureza exploratória e perguntas com opções dentre as quais o entrevistado deve selecionar. O modelo de entrevista escolhido foi o de entrevista estruturada, no qual o entrevistador se mantém fiel ao roteiro, devido à inexperiência dos entrevistadores.
 
 ### (I)dentificar e administrar as questões práticas da avaliação
@@ -78,7 +81,7 @@ Entrevista 2
 
 | Entrevistadores | Entrevistado |  Data  | Horário de início  e fim | Local            |
 | :-------------: | :----------: | :----: | :---------------------: | ---------------- |
-|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams 
+|        -        |              | [DATA] |        [HORÁRIO]        | Plataforma Teams
 <div style="text-align: center">
 <p> Tabela 4: Cronograma da entrevista 2 (Fonte: [1], 2022).</p>
 </div>
@@ -121,11 +124,12 @@ Com relação à ética serão seguidos os padrões de ética definidos no docum
 </div>
 
 ### (E)valuate (avaliar), interpretar e apresentar os dados
+
 Antes da conclusão da análise dos resultados serão verificados o grau de confiabilidade dos resultados obtidos e a validade externa do estudo, ou seja até que ponto os dados podem ser generalizados
 
 ### Planejamento do teste piloto
-O teste piloto será realizado por dois avaliadores como se fosse uma sessão normal de avaliação antes da entrevista real com os usuários com o intuito de garantir que todas as ferramentas estão funcionando de acordo com o planejado, verificar o próprio planejamento, e analisar se a avaliação, poderá produzir os dados necessários para o estudo, além de verificar a clareza e objetividade da linguagem utilizada na entrevista [1].
 
+O teste piloto será realizado por dois avaliadores como se fosse uma sessão normal de avaliação antes da entrevista real com os usuários com o intuito de garantir que todas as ferramentas estão funcionando de acordo com o planejado, verificar o próprio planejamento, e analisar se a avaliação, poderá produzir os dados necessários para o estudo, além de verificar a clareza e objetividade da linguagem utilizada na entrevista [1].
 
 ## Bibliografia
 
@@ -135,9 +139,8 @@ O teste piloto será realizado por dois avaliadores como se fosse uma sessão no
 
 [3] Dumas, Joseph S. e Redish, Janice C. (1999). A Practical Guide to Usability Testing. Intellect Books, GBR, 1st edition.
 
-
 ## Histórico de Versão
 
 | Versão | Data  | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ----- | -------------------- | ------------- | ----------- |
-| `1.0`  | 13/12 | Criação do documento | Lucas Gabriel | -           |
+| `1.0`  | 13/12 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
