@@ -2,15 +2,12 @@
 
 ## Introdução
 
-<!-- Adicionar o redirecioanmento correto de arquivo -->
 
-Este documento tem o papel como base o documento [Planejamento da avaliação da Análise de tarefas](../../../atas/ata_06_12.md). Sua função primária é estruturar e ordenar a disposição de dados coletados durante a fase de avaliação da **análise de tarefas** O resultante do planejamento que será descrito irá gerar o documento relato de resultados onde serão levantados pontos de melhoria para o sistema Lichess e identificadas sugestões de reprojeto pelo grupo.
+Este documento tem o papel como base o documento [Planejamento da avaliação da Análise de tarefas](./planejamento_avaliacao.md). Sua função primária é estruturar e ordenar a disposição de dados coletados durante a fase de avaliação da **análise de tarefas** O resultante do planejamento que será descrito irá gerar o documento relato de resultados onde serão levantados pontos de melhoria para o sistema Lichess e identificadas sugestões de reprojeto pelo grupo.
 
 ## Metodologia
 
-<!-- Adicionar o redirecioanmento correto de arquivo -->
-
-Com base no documento do [Planejamento da avaliação da Análise de tarefas](../../../atas/ata_06_12.md) e nos elementos de avaliação citados por Barbosa [1], iremos construir o relato de resultados.
+Com base no documento do [Planejamento da avaliação da Análise de tarefas](./planejamento_avaliacao.md) e nos elementos de avaliação citados por Barbosa [1], iremos construir o relato de resultados.
 
 Os elementos de avaliação são:
 
