@@ -67,4 +67,4 @@ Por fim, será feita sugestões de correções para cada um dos problemas identi
 
 | Versão |    Data    |                        Descrição                        |    Autor(es)     | Revisor(es) |
 | :----: | :--------: | :-----------------------------------------------------: | :--------------: | :---------: |
-| `1.0`  | 13/12/2022 | Criação da versão inicial do planejamento de resultados | Maurício Machado |      -      |
+| `1.0`  | 13/12/2022 | Criação da versão inicial do planejamento de resultados | Maurício Machado |   Nicolas Souza    |
