@@ -59,8 +59,10 @@ nav:
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Storyboard:
-              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/storyboard/planejamento_avaliacao.md
-              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/storyboard/planejamento_relato.md
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
+              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md
+          - Análise de tarefas:
+              - Planejamento do Relato de Resultados: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
