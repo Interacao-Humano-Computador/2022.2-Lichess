@@ -2,17 +2,7 @@
 
 ## Introdução
 
-O storyboard é um tipo de protótipo de baixa fidelidade,que consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o sistema que está sendo desenvolvido. Pode ser uma série de telas esboçadas no caso de um sistema baseado em GUI. Esse modelo de artefato deve conter os seguintes elementos:
-
-- As pessoas envolvidas;
-- Ambiente/contexto;
-- Tarefas;
-- Passos envolvidos;
-- A motivação para usar a sistema;
-- O que as pessoas precisam fazer para completar a tarefa;
-- A satisfação da pessoa ao completar a tarefa, no final do storyboard.
-
-O presente artefato apresenta o planejamento da avaliação dos storyboards elaborados para a aplicação web lichess. Os protótipos foram elaborados com base nas tarefas principais executadas pelo usuário durante a utilização do sistema, detalhadas na [análise de tarefas](../../analise_requisitos/analise_tarefas.md). O planejamento baseia-se nas atividades propostas pelo _framework_ DECIDE, a saber:
+O presente artefato apresenta o planejamento da avaliação dos storyboards elaborados para a aplicação web lichess. O planejamento baseia-se nas atividades propostas pelo _framework_ DECIDE, a saber:
 
 - D: Determinar os objetivos da avaliação;
 - E:  Explorar perguntas a serem respondidas com a avaliação
@@ -63,7 +53,37 @@ Antes da execução da entrevista, será realizado um teste piloto. O teste pilo
 
 ## Questões Éticas
 
+No caso de avaliações que envolvem participantes, é necessário colher o consentimento dos participantes, a partir do termo de consentimento livre e esclarecido, de acordo com os [aspectos éticos](../../analise_requisitos/aspectos_eticos.md) definidos para o projeto.
+
+### Termo de Consentimento livre e esclarecido
+
+Antes de iniciar a avaliação, o avaliador deve apresentar o termo de consentimento ao entrevistado e verificar se ele consente em participar da pesquisa e com a gravação da entrevista.
+
+<div style="text-align: center">
+<h3>
+Termo de Consentimento Livre e Esclarecido
+</h3>
+</div>
+------
+Somos uma equipe da disciplina de Interação Humano Computador, que está realizando uma avaliação do sistema Lichess, um sítio da internet que tem como foco a prática de xadrez online, os resultados desse projeto podem ser observados através deste [link](https://interacao-humano-computador.github.io/2022.2-Lichess/). Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que usam o sistema pensam a respeito de suas características e funcionamento e como imaginam que o novo sistema deveria apoiar a sua prática. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização de uma entrevista com duração de 30 minutos. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema Lichess.
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompido a qualquer momento, segundo a sua disponibilidade e vontade.
+
+Diante das explicações você acha que está suficientemente informado(a) a respeito da pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador?
+Caso o participante seja menor de idade é necessário a permissão do responsável legal.
+
+\(  \) Sim
+
+\(  \) Não
+
+-----
+
 ## Avaliação, interpretação e apresentação dos dados
+
+A avaliação, interpretação e apresentação dos dados será feita por meio do relato de resultados, de acordo com o [planejamento](planejamento_relato.md) realizado.
 
 ### Roteiro de Perguntas
 
@@ -118,13 +138,23 @@ A sequência de perguntas a seguir deve ser executada para cada um dos [storyboa
 </li>
 </ol>
 
-### Storyboards desenvolvidos
+## Storyboards desenvolvidos
 
-#### Tarefa 1: Jogar uma partida de xadrez
+O storyboard é um tipo de protótipo de baixa fidelidade,que consiste em uma série de desenhos mostrando como um usuário pode progredir em uma tarefa utilizando o sistema que está sendo desenvolvido. Pode ser uma série de telas esboçadas no caso de um sistema baseado em GUI. Esse modelo de artefato deve conter os seguintes elementos:
 
-#### Tarefa 2: Aprender a jogar xadrez
+- As pessoas envolvidas;
+- Ambiente/contexto;
+- Tarefas;
+- Passos envolvidos;
+- A motivação para usar a sistema;
+- O que as pessoas precisam fazer para completar a tarefa;
+- A satisfação da pessoa ao completar a tarefa, no final do storyboard.
 
-## Conclusão
+Os protótipos foram elaborados com base nas tarefas principais executadas pelo usuário durante a utilização do sistema, detalhadas na [análise de tarefas](../../analise_requisitos/analise_tarefas.md).
+
+- Tarefa 1: Jogar uma partida de xadrez
+
+- Tarefa 2: Aprender a jogar xadrez
 
 ## Bibliografia
 
@@ -136,4 +166,4 @@ A sequência de perguntas a seguir deve ser executada para cada um dos [storyboa
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  |       | Criação da versão inicial do artefato.|  Lucas M. e Nicolas |               |               |
+| `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas |               |               |
