@@ -37,4 +37,4 @@ Os elementos de interface podem ser observados no projeto no sítio eletrônico 
 
 | Versão | Data  | Descrição            | Autor(es)                    | Revisor(es) |
 | ------ | ----- | -------------------- | ---------------------------- | ----------- |
-| `1.0`  | 11/12 | Criação do documento | Lucas Macedo e Lucas Gabriel | Nicolas Souza |
+| `1.0`  | 11/12/2022 | Criação do documento | Lucas Macedo e Lucas Gabriel | Nicolas Souza |

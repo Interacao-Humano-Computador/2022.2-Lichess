@@ -144,4 +144,4 @@ O teste piloto será realizado por dois avaliadores como se fosse uma sessão no
 
 | Versão | Data  | Descrição            | Autor(es)     | Revisor(es) |
 | ------ | ----- | -------------------- | ------------- | ----------- |
-| `1.0`  | 13/12 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
+| `1.0`  | 13/12/2022 | Criação do documento | Lucas Gabriel | Nicolas Souza   |
