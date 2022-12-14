@@ -14,7 +14,7 @@ O relato de resultados deve conter os objetivos da avaliação juntamente com um
 
 ### Metodologia
 
-O relato de resultados deve conter um resumo da metologia utilizada, em consonância com o que está registrado registrado no [planejamento da avaliação](planejamento_avaliacao.md#metodologia).
+O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado registrado no [planejamento da avaliação](planejamento_avaliacao.md#metodologia).
 
 ### Avaliadores e Participantes
 
@@ -44,4 +44,4 @@ O avaliador deverá inserir no relato de resultados a gravação do teste piloto
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 13/12/2022      | Criação da versão inicial do documento | Nicolas Souza |               |
+| `1.0`  | 13/12/2022      | Criação da versão inicial do documento | Nicolas Souza | Lucas Gabriel   |

@@ -39,7 +39,7 @@ Por meio do [perfil de usuário](../../analise_requisitos/perfil_usuario.md) foi
 | 18/12/2022 <br> às 09:00 | Entrevista com o usuário | Nicolas Souza <br> Lucas Macedo | Lucas Gabriel |
 | 19/12/2022 <br> até 22:00 | Registro dos resultados da entrevista | Lucas Macedo | Nicolas Souza |
 
-### Papeis dos Avaliadores
+### Papéis dos Avaliadores
 
 Durante a entrevista, dois membros do grupo exercerão o papel de avaliadores. Um deles ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, e o outro responsável por conduzir a entrevista.
 
@@ -49,7 +49,7 @@ A entrevista será realizada na plataforma Microsoft Teams, para que seja possí
 
 ### Teste Piloto
 
-Antes da execução da entrevista, será realizado um teste piloto. O teste piloto consistirá na execução do entrevista com outro integrante do grupo, para avaliar o tempo gasto durante a entrevista, se as perguntas estão adequadas e se será necessário alterar algo no planejamento.
+Antes da execução da entrevista, será realizado um teste piloto. O teste piloto consistirá na execução da entrevista com outro integrante do grupo, para avaliar o tempo gasto durante a entrevista, se as perguntas estão adequadas e se será necessário alterar algo no planejamento.
 
 ## Questões Éticas
 
@@ -166,4 +166,4 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas |               |               |
+| `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
