@@ -2,7 +2,6 @@
 
 ## Introdução
 
-
 Este documento tem o papel como base o documento [Planejamento da avaliação da Análise de tarefas](./planejamento_avaliacao.md). Sua função primária é estruturar e ordenar a disposição de dados coletados durante a fase de avaliação da **análise de tarefas** O resultante do planejamento que será descrito irá gerar o documento relato de resultados onde serão levantados pontos de melhoria para o sistema Lichess e identificadas sugestões de reprojeto pelo grupo.
 
 ## Metodologia
@@ -62,6 +61,6 @@ Por fim, será feita sugestões de correções para cada um dos problemas identi
 
 ## Histórico de Versão
 
-| Versão |    Data    |                        Descrição                        |    Autor(es)     | Revisor(es) |
-| :----: | :--------: | :-----------------------------------------------------: | :--------------: | :---------: |
-| `1.0`  | 13/12/2022 | Criação da versão inicial do planejamento de resultados | Maurício Machado |   Nicolas Souza    |
+| Versão |    Data    |                        Descrição                        |    Autor(es)     |  Revisor(es)  |
+| :----: | :--------: | :-----------------------------------------------------: | :--------------: | :-----------: |
+| `1.0`  | 13/12/2022 | Criação da versão inicial do planejamento de resultados | Maurício Machado | Nicolas Souza |
