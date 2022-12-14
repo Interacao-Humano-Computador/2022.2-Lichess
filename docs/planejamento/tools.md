@@ -17,6 +17,7 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 |                 ![VsCode](../img/vscode-icon.png)                 |    Visual Studio Code     | Utilizado para manipulação dos arquivos do projeto, devido facilidade de integração de extensões e da experiência da maioria dos integrantes com essa ferramenta.         |
 |               ![Lucidchart](../img/lucidchart.png)                |        Lucidchart         | Utilizado para elaboração de diagramas.                                                                                                                                   |
 | ![This Person Doesn't Exist](../img/this-person-doesnt-exist.png) | This Person Doesn't Exist | Utilizado para geração de imagens para as personas.                                                                                                                       |
+| ![StoryBoard That](../img/storyboardthat.png) | Storyboard That | Utilizado para criação dos Storyboards                                                                                                                      |
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2022). </p>
@@ -32,3 +33,4 @@ As ferramentas foram escolhidas visando a fácil interação dos integrantes do 
 | :---: | :--------: | :-------------------------------------------------------------: | :-----------: | :-----------: |
 | `1.0` | 16/11/2022 |                Adição das ferramentas do projeto                | Lucas Macedo  | Nicolas Souza |
 | `1.1` | 27/11/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Nicolas Souza | Lucas Macedo  |
+| `1.2` | 14/12/2022 | Inclusão das ferramentas lucidchart e this person doesn't exist | Lucas Macedo | Nicolas Souza  |

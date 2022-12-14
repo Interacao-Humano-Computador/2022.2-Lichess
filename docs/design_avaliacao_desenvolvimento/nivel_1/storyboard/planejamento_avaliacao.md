@@ -154,7 +154,23 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 
 - Tarefa 1: Jogar uma partida de xadrez
 
+Na Figura 1, podemos ver o storyboard de jogar uma partida de xadrez, e ao ganhar, o usuário resolve repetir o processo.
+
+![Jogar uma partida](./img/jogar_uma_partida.png)
+
+<div style="text-align: center">
+<p> Figura 1: Jogar uma partida (Fonte: Autores. 2022).</p>
+</div>
+
 - Tarefa 2: Aprender a jogar xadrez
+
+Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ensinamentos do nível básico ao avançado.
+
+![Aprender a jogar xadrex](./img/aprender_a_jogar.png)
+
+<div style="text-align: center">
+<p> Figura 2: Aprender a jogar xadrez (Fonte: Autores. 2022).</p>
+</div>
 
 ## Bibliografia
 
@@ -167,3 +183,4 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
+| `1.1`  | 14/12/2022  | Adição dos storyboards |  Lucas Macedo | Nicolas |
