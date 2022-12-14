@@ -59,13 +59,27 @@ No caso de avaliações que envolvem participantes, é necessário colher o cons
 
 Antes de iniciar a avaliação, o avaliador deve apresentar o termo de consentimento ao entrevistado e verificar se ele consente em participar da pesquisa e com a gravação da entrevista.
 
-![Termo de Consentimento](../analise_tarefas/images/termoConsentimento.jpeg)
-
 <div style="text-align: center">
-<p>
-Figura 1: Termo de Consentimento. (Fonte: autor, 2022)
-</p>
+<h3>
+Termo de Consentimento Livre e Esclarecido
+</h3>
 </div>
+------
+Somos uma equipe da disciplina de Interação Humano Computador, que está realizando uma avaliação do sistema Lichess, um sítio da internet que tem como foco a prática de xadrez online, os resultados desse projeto podem ser observados através deste [link](https://interacao-humano-computador.github.io/2022.2-Lichess/). Nessa etapa do projeto, queremos conhecer o que algumas das pessoas que usam o sistema pensam a respeito de suas características e funcionamento e como imaginam que o novo sistema deveria apoiar a sua prática. Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização de uma entrevista com duração de 30 minutos. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+- Os dados coletados durante a entrevista destinam-se estritamente a atividades de análise e elaboração de melhorias para o sistema Lichess.
+- Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o cliente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e o anonimato dos participantes será preservado em quaisquer documentos que elaborarmos.
+- O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
+- A entrevista pode ser interrompido a qualquer momento, segundo a sua disponibilidade e vontade.
+
+Diante das explicações você acha que está suficientemente informado(a) a respeito da pesquisa que será realizada e concorda de livre e espontânea vontade em participar, como colaborador?
+Caso o participante seja menor de idade é necessário a permissão do responsável legal.
+
+\(  \) Sim
+
+\(  \) Não
+
+-----
 
 ## Avaliação, interpretação e apresentação dos dados
 
@@ -140,7 +154,23 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 
 - Tarefa 1: Jogar uma partida de xadrez
 
+Na Figura 1, podemos ver o storyboard de jogar uma partida de xadrez, e ao ganhar, o usuário resolve repetir o processo.
+
+![Jogar uma partida](./img/jogar_uma_partida.png)
+
+<div style="text-align: center">
+<p> Figura 1: Jogar uma partida (Fonte: Autores. 2022).</p>
+</div>
+
 - Tarefa 2: Aprender a jogar xadrez
+
+Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ensinamentos do nível básico ao avançado.
+
+![Aprender a jogar xadrex](./img/aprender_a_jogar.png)
+
+<div style="text-align: center">
+<p> Figura 2: Aprender a jogar xadrez (Fonte: Autores. 2022).</p>
+</div>
 
 ## Bibliografia
 
@@ -153,3 +183,4 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
+| `1.1`  | 14/12/2022  | Adição dos storyboards |  Lucas Macedo | Nicolas |
