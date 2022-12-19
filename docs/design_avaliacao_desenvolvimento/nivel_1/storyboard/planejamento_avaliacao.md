@@ -21,7 +21,7 @@ A avaliação dos storyboards elaborados tem como principais objetivos:
 
 ## Metodologia
 
-A avaliação do storyboard será feita por meio de uma entrevista com um usuário da plataforma lichess. Uma vez que a avaliação envolve pessoas, é necessário atentar-se às questões éticas, e a primeira etapa da entrevista consiste na apresentação do termo de consentimento ao entrevistado, com o qual ele pode ou não consentir. Partindo da premissa que o usuário esteja de acordo com os termos, um pequeno período de adaptação ocorrerá, no qual o entrevistador trabalhará para criar um ambiente amigável e descontraído para o entrevistado. A seguir, a proposta do projeto será apresentada e em seguida serão realizadas as perguntas descritas no [roteiro](#roteiro-de-perguntas). Após a finalização do roteiro, o entrevistado terá um período de tempo destinado para fazer comentários e sugestões que não tenham sido abordadas durante a entrevista, caso ache pertinente.
+A avaliação do storyboard será feita por meio de uma entrevista com um usuário da plataforma lichess.    Uma vez que a avaliação envolve pessoas, é necessário atentar-se às questões éticas, e a primeira etapa da entrevista consiste na apresentação do termo de consentimento ao entrevistado, com o qual ele pode ou não consentir. Partindo da premissa que o usuário esteja de acordo com os termos, um pequeno período de adaptação ocorrerá, no qual o entrevistador trabalhará para criar um ambiente amigável e descontraído para o entrevistado. A seguir, a proposta do projeto será apresentada e em seguida serão realizadas as perguntas descritas no [roteiro](#roteiro-de-perguntas). Após a finalização do roteiro, o entrevistado terá um período de tempo destinado para fazer comentários e sugestões que não tenham sido abordadas durante a entrevista, caso ache pertinente.
 
 ## Questões práticas
 
@@ -41,7 +41,7 @@ Por meio do [perfil de usuário](../../../analise_requisitos/perfil_usuario.md) 
 
 ### Papéis dos Avaliadores
 
-Durante a entrevista, dois membros do grupo exercerão o papel de avaliadores. Um deles ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, e o outro responsável por conduzir a entrevista.
+Durante a entrevista, um membros do grupo exercerá o papel de avaliador. Ele ficará responsável por observar os comportamentos, comunicação não verbal e respostas do entrevistado, enquanto conduz a entrevista.
 
 ### Ferramentas
 
@@ -156,7 +156,7 @@ Os protótipos foram elaborados com base nas tarefas principais executadas pelo 
 
 Na Figura 1, podemos ver o storyboard de jogar uma partida de xadrez, e ao ganhar, o usuário resolve repetir o processo.
 
-![Jogar uma partida](./img/jogar_uma_partida_v2.png)
+![Jogar uma partida](./assets/jogar_uma_partida_v2.png)
 
 <div style="text-align: center">
 <p> Figura 1: Storyboard da tarefa "Jogar uma partida", versão 2. (Fonte: Autores. 2022).</p>
@@ -166,7 +166,7 @@ Na Figura 1, podemos ver o storyboard de jogar uma partida de xadrez, e ao ganha
 
 Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ensinamentos do nível básico ao avançado.
 
-![Aprender a jogar xadrez](./img/aprender_a_jogar_v2.png)
+![Aprender a jogar xadrez](./assets/aprender_a_jogar_v2.png)
 
 <div style="text-align: center">
 <p> Figura 2: Storyboard da tarefa "Aprender a jogar xadrez", versão 2. (Fonte: Autores. 2022).</p>
@@ -184,4 +184,4 @@ Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ens
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
 | `1.1`  | 14/12/2022  | Adição dos storyboards |  Lucas Macedo | Nicolas |
-| `1.2`  | 19/12/2022  | Alteração dos storyboard para a versão 2. Versão 1 do ["jogar uma partida"](./img/jogar_uma_partida.png) e do ["aprender a jogar"](img/aprender_a_jogar.png) | Nicolas Souza | |
+| `1.2`  | 19/12/2022  | Alteração dos storyboard para a versão 2. Versão 1 do ["jogar uma partida"](./assets/jogar_uma_partida.png) e do ["aprender a jogar"](assets/aprender_a_jogar.png) | Nicolas Souza | |
