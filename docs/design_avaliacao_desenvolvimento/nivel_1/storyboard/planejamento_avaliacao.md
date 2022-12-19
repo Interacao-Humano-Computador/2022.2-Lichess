@@ -29,7 +29,7 @@ As seguintes subseções apresentam o planejamento prático das atividades.
 
 ### Recrutamento dos participantes
 
-Por meio do [perfil de usuário](../../analise_requisitos/perfil_usuario.md) foi possível traçar um desenho sobre os grupos que compõem a maior parte de usuários da plataforma, e tendo em vista esse perfil, escolheu-se recrutar um estudante universitário, na faixa etária de 20 a 25 anos e jogador de xadrez competitivo. A busca por usuários foi feita em grupos de xadrez com estudantes da Universidade de Brasília.
+Por meio do [perfil de usuário](../../../analise_requisitos/perfil_usuario.md) foi possível traçar um desenho sobre os grupos que compõem a maior parte de usuários da plataforma, e tendo em vista esse perfil, escolheu-se recrutar um estudante universitário, na faixa etária de 20 a 25 anos e jogador de xadrez competitivo. A busca por usuários foi feita em grupos de xadrez com estudantes da Universidade de Brasília.
 
 ### Cronograma da avaliação
 
@@ -53,7 +53,7 @@ Antes da execução da entrevista, será realizado um teste piloto. O teste pilo
 
 ## Questões Éticas
 
-No caso de avaliações que envolvem participantes, é necessário colher o consentimento dos participantes, a partir do termo de consentimento livre e esclarecido, de acordo com os [aspectos éticos](../../analise_requisitos/aspectos_eticos.md) definidos para o projeto.
+No caso de avaliações que envolvem participantes, é necessário colher o consentimento dos participantes, a partir do termo de consentimento livre e esclarecido, de acordo com os [aspectos éticos](../../../analise_requisitos/aspectos_eticos.md) definidos para o projeto.
 
 ### Termo de Consentimento livre e esclarecido
 
@@ -150,26 +150,26 @@ O storyboard é um tipo de protótipo de baixa fidelidade,que consiste em uma s�
 - O que as pessoas precisam fazer para completar a tarefa;
 - A satisfação da pessoa ao completar a tarefa, no final do storyboard.
 
-Os protótipos foram elaborados com base nas tarefas principais executadas pelo usuário durante a utilização do sistema, detalhadas na [análise de tarefas](../../analise_requisitos/analise_tarefas.md).
+Os protótipos foram elaborados com base nas tarefas principais executadas pelo usuário durante a utilização do sistema, detalhadas na [análise de tarefas](../../../analise_requisitos/analise_tarefas.md).
 
 - Tarefa 1: Jogar uma partida de xadrez
 
 Na Figura 1, podemos ver o storyboard de jogar uma partida de xadrez, e ao ganhar, o usuário resolve repetir o processo.
 
-![Jogar uma partida](./img/jogar_uma_partida.png)
+![Jogar uma partida](./img/jogar_uma_partida_v2.png)
 
 <div style="text-align: center">
-<p> Figura 1: Jogar uma partida (Fonte: Autores. 2022).</p>
+<p> Figura 1: Storyboard da tarefa "Jogar uma partida", versão 2. (Fonte: Autores. 2022).</p>
 </div>
 
 - Tarefa 2: Aprender a jogar xadrez
 
 Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ensinamentos do nível básico ao avançado.
 
-![Aprender a jogar xadrex](./img/aprender_a_jogar.png)
+![Aprender a jogar xadrez](./img/aprender_a_jogar_v2.png)
 
 <div style="text-align: center">
-<p> Figura 2: Aprender a jogar xadrez (Fonte: Autores. 2022).</p>
+<p> Figura 2: Storyboard da tarefa "Aprender a jogar xadrez", versão 2. (Fonte: Autores. 2022).</p>
 </div>
 
 ## Bibliografia
@@ -184,3 +184,4 @@ Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ens
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
 | `1.1`  | 14/12/2022  | Adição dos storyboards |  Lucas Macedo | Nicolas |
+| `1.2`  | 19/12/2022  | Alteração dos storyboard para a versão 2. Versão 1 do ["jogar uma partida"](./img/jogar_uma_partida.png) e do ["aprender a jogar"](img/aprender_a_jogar.png) | Nicolas Souza | |
