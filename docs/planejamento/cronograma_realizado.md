@@ -41,6 +41,39 @@ Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 <p> Tabela 2: Cronograma realizado do Ponto de Controle 2 (Fonte: autor, 2022).</p>
 </div>
 
+## Cronograma Ponto de Controle 3
+
+Na Tabela 3, temos as entregas realizadas para o Ponto de Controle 3.
+
+|                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
+| :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
+|               Princípios gerais do projeto |       05/12/2022       |    06/12/2022      |       Davi       | Lucas Macedo, Nicolas |
+|                    Metas de usabilidade                    |       09/12/2022       |     10/12/2022      |       Nicolas       | Maurício |
+|         Guia de estilo          |       11/12/2022       |     12/12/2022      |       Lucas Gabriel, Lucas Macedo        | Nicolas |
+|            Gravação da apresentação            |       11/12/2022       |     12/12/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
+|             Edição da apresentação             |       11/12/2022       |     12/12/2022      |       Mauricio       |      Nicolas       |
+
+<div style="text-align: center">
+<p> Tabela 3: Cronograma realizado do Ponto de Controle 3 (Fonte: autor, 2022).</p>
+</div>
+
+## Cronograma Ponto de Controle 4
+
+Na Tabela 4, temos as entregas realizadas para o Ponto de Controle 4.
+
+|                   Atividade                    | Data Limite de Entrega | Data Limite Revisão |      Autor(es)       | Revisor(es)  |
+| :--------------------------------------------: | :--------------------: | :-----------------: | :------------------: | :----------: |
+|               Planejamento do relato de resultados do storyboard                |       13/12/2022       |     13/12/2022      |       Nicolas Souza       | Lucas Gabriel |
+|                    Planejamento da avaliação storyboard                    |       13/12/2022       |     12/12/2022      |       Nicolas       | Lucas Gabriel |
+|         Planejamento do relato de resultados da avaliação da Análise de tarefas          |       13/12/2022       |     13/12/2022      |       Maurício Machado       | Nicolas Souza |
+| Planejamento da Avaliação da Análise de tarefas |       13/12/2022       |     13/12/2022      |    Lucas Gabriel     |     Nicolas Souza     |
+|            Gravação da apresentação            |       --/12/2022       |     --/12/2022      | Davi, Lucas G., Lucas M., Maurício, Nicolas |      Maurício       |
+|             Edição da apresentação             |       --/12/2022       |     --/12/2022      |       Mauricio       |      Nicolas       |
+
+<div style="text-align: center">
+<p> Tabela 4: Cronograma realizado do Ponto de Controle 4 (Fonte: autor, 2022).</p>
+</div>
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: <https://aprender3.unb.br/pluginfile.php/2335638/mod_resource/content/27/Plano_de_Ensino%20FIHC%20202202%20Turma%202%20Opção%202.pdf>. Acesso em: 16 de novembro de 2022;
@@ -53,3 +86,4 @@ Na Tabela 2, temos as entregas realizadas para o Ponto de Controle 2.
 | `1.1`  | 24/11/2022 |             Padronização das legendas             |  Nicolas Souza   | Lucas Macedo  |
 | `1.2`  | 01/12/2022 | Adição do cronograma do segundo ponto de controle |   Lucas Macedo   | Nicolas Souza |
 | `1.3`  | 07/12/2022 | Inclusão de revisores e datas que estavam faltando| Nicolas Souza    | Lucas Macedo |
+| `1.4`  | 14/12/2022 | Adição do terceiro e quarto cronograma de ponto de controle| Lucas Macedo    | Nicolas Souza |

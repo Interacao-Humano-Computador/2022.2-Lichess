@@ -43,6 +43,19 @@ Vídeo 3: Apresentação da etapa 3 do projeto
 </div>
 <br>
 
+## Apresentação 4
+
+<center>
+<iframe width="1000vw" height="400vh" src="https://www.youtube.com/embed/AL6gq7HDTIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+[Link Apresentação 4](https://youtu.be/5hyBg2txHaw)
+
+<div style="text-align: center">
+Vídeo 4: Apresentação da etapa 4 do projeto
+</div>
+<br>
+
 ## Histórico de versão do arquivo
 
 |    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
@@ -50,3 +63,4 @@ Vídeo 3: Apresentação da etapa 3 do projeto
 | 22/11/2022 | `1.0`  | Adição da apresentação 1 | Mauricio Machado | Lucas Macedo |
 | 04/12/2022 | `1.1`  | Adição da apresentação 2 | Mauricio Machado |   Nicolas    |
 | 11/12/2022 | `1.2`  | Adição da apresentação 3 | Mauricio Machado |   Nicolas    |
+| 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas    |

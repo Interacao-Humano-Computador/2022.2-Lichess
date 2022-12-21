@@ -16,7 +16,7 @@
 
 ## Bibliografia
 
-[1]
+[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 [2]
 
