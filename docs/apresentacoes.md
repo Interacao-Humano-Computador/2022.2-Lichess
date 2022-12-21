@@ -56,6 +56,20 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 </div>
 <br>
 
+## Apresentação 5
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VGYzx5PgTKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
+
+
+[Link Apresentação 5](https://youtu.be/VGYzx5PgTKA)
+
+<div style="text-align: center">
+Vídeo 5: Apresentação da etapa 5 do projeto
+</div>
+<br>
+
 ## Histórico de versão do arquivo
 
 |    Data    | Versão |        Descrição         | Autor(es)        | Revisor(es)  |
@@ -64,3 +78,4 @@ Vídeo 4: Apresentação da etapa 4 do projeto
 | 04/12/2022 | `1.1`  | Adição da apresentação 2 | Mauricio Machado |   Nicolas    |
 | 11/12/2022 | `1.2`  | Adição da apresentação 3 | Mauricio Machado |   Nicolas    |
 | 13/12/2022 | `1.3`  | Adição da apresentação 4 | Mauricio Machado |   Nicolas    |
+| 21/12/2022 | `1.4`  | Adição da apresentação 5 | Lucas Macedo |   Mauricio Machado    |
