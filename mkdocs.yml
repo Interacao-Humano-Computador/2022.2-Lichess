@@ -66,6 +66,8 @@ nav:
           - Análise de tarefas:
               - Planejamento da Avaliação: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md"
               - Relatos de Avaliação da Análise de tarefas: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md"
+      - Nível 2:
+          - Planejamento da Avaliação do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md"
 
   - Apresentações: "apresentacoes.md"
 
