@@ -61,7 +61,8 @@ nav:
       - Nível 1:
           - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
           - Storyboard:
-              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md   
+              - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
+              - Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md
           - Análise de tarefas:
               - Planejamento da Avaliação: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md"
   - Apresentações: "apresentacoes.md"

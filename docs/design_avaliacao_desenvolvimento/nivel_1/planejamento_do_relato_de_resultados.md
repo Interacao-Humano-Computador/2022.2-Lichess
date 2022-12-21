@@ -3,7 +3,7 @@
 ## Introdução
 
 O relato de resultados é um artefato que tem como objetivo documentar os resultados obtidos por meio de uma avaliação. O presente documento apresenta um planejamento para a elaboração de tal documento, referente à avaliação dos artefatos elaborados pela equipe.
-Esse documento é a junção dos dois documentos do relato de resultados do [storyboard](planejamento_relato.md) e da [análise de tarefas](planejamento_resultado_analise_tarefas.md).
+Esse documento é a junção dos dois documentos do relato de resultados do [storyboard](storyboard/planejamento_relato.md) e da [análise de tarefas](analise_tarefas/planejamento_resultado_analise_tarefas.md).
 
 ## Elementos do Relato de Resultados
 
@@ -15,7 +15,7 @@ O relato de resultados deve conter os objetivos da avaliação juntamente com um
 
 ### Metodologia
 
-O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado registrado no [planejamento da avaliação](planejamento_avaliacao.md#metodologia).
+O relato de resultados deve conter um resumo da metodologia utilizada, em consonância com o que está registrado registrado no planejamento da avaliação.
 
 ### Avaliadores e Participantes
 
@@ -23,7 +23,7 @@ O avaliador deverá registrar quais foram os avaliadores e os participantes do t
 
 ### Sumário dos dados
 
-O avaliador deverá registrar as respostas do entrevistado para cada uma das [perguntas planejadas](planejamento_avaliacao.md#perguntas), registrando, inclusive, as considerações do usuário caso este responda **não** ou **não sei informar** para qualquer uma das perguntas.
+O avaliador deverá registrar as respostas do entrevistado para cada uma das perguntas planejadas, registrando, inclusive, as considerações do usuário caso este responda **não** ou **não sei informar** para qualquer uma das perguntas.
 
 ### Problemas encontrados
 
@@ -37,11 +37,6 @@ O avaliador deverá propor sugestões de correções para os problemas encontrad
 
 O avaliador deverá inserir no relato de resultados a gravação do teste piloto e da entrevista. Caso o teste piloto aponte a necessidade de alterar o planejamento da avaliação, deverá ser registrado, também, o que será necessário alterar.
 
-## Referências
-
-Para cunho de avaliação dentro do projeto, o relato dos resultados do storyboard encontra-se nesse [Link](planejamento_relato.md).
-O relato dos resultados da análise de tarefas encontra-se nesse [Link](planejamento_resultado_analise_tarefas.md).
-
 ## Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
@@ -50,4 +45,4 @@ O relato dos resultados da análise de tarefas encontra-se nesse [Link](planejam
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 15/12/2022      | Criação da versão inicial do documento | Davi Silva | -   |
+| `1.0`  | 15/12/2022      | Criação da versão inicial do documento | Davi Silva | Nicolas Souza   |
