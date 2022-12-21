@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Protótipos tem como objetivo permitir que usuários e stakeholders consigam interagir com um produto pensado. Isos é extremamente prática para coleta de pontos positivos e negativos acerca de uma funcionalidade ou o produto como um todo.
+Protótipos tem como objetivo permitir que usuários e stakeholders consigam interagir com um produto pensado. Isso é extremamente prática para coleta de pontos positivos e negativos acerca de uma funcionalidade ou o produto como um todo.
 
 A utilização de protótipo de papel permite o foco na funcionalidade, deixando abstrato para o usuário questões como design, dessa forma a chance do usuário se distrair é menor.
 
@@ -76,7 +76,7 @@ Dentro do termo, buscamos informar tanto sobre a pesquisa quanto a gravação da
 
 ### Roteiro de Perguntas
 
-Esse formulário tem cárater mais livre, assim o roteiro é algo que deve ser seguido porém mais perguntas podem ser adicionadas conforme engajamento do entrevistado. Perguntas adicionais devem ser anotadas e trazidas no relatório de cada resposta.
+Esse formulário tem caráter mais livre, assim o roteiro é algo que deve ser seguido porém mais perguntas podem ser adicionadas conforme engajamento do entrevistado. Perguntas adicionais devem ser anotadas e trazidas no relatório de cada resposta.
 
 Para todo fluxo de teste que o entrevistado executar devem ser realizadas as perguntas indicadas no tabela 2.
 
