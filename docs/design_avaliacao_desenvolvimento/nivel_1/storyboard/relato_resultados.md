@@ -22,7 +22,7 @@ Vídeo 1: Gravação do teste piloto. (Fonte: autor, 2022)
 
 ### Objetivos da Avaliação
 
-A avaliação dos storyboards elaborados tem como principais objetivos:
+A avaliação dos [storyboards elaborados](planejamento_avaliacao.md#storyboards-desenvolvidos) tem como principais objetivos:
 
 - Avaliar se as tarefas representadas estão de acordo com o contexto do usuário;
 - Avaliar se as necessidades do usuário em relação às tarefas representadas são satisfeitas;
