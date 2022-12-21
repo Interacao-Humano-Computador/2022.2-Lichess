@@ -87,4 +87,4 @@ Durante a avaliação não foram encontrados problemas com o storyboard, e após
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 19/12/2022      | Criação da versão inicial do documento | Nicolas Souza |    |
+| `1.0`  | 19/12/2022      | Criação da versão inicial do documento | Nicolas Souza |  Mauricio Machado  |
