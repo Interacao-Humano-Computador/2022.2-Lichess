@@ -36,11 +36,17 @@ O entrevistado foi o estudante de engenharia aeroespacial, Pedro Dionisio de 19 
 
 Foram coletados dados acerca da funcionalidade do sistema  focados em questões gerais, porém pontos acerca da visibilidade e funcionalidade do sistema foram abordados com maior frequência.
 
+Diante disso, foram avaliadas questões relativas aos seguintes tópicos:
+
+- Apropriação da tecnologia pelos usuários;
+- Ideias e alternativas de design;
+- Problemas na interação e na interface.
+
 ## Dados obtidos
 
 ### Entrevista 01 - Pedro
 
-| Ordenação | Tópico da pergunta | Pergunta                                                                              | Resposta possível                                                                        | Tipo de pergunta |
+| Ordenação | Tópico da pergunta | Pergunta                                                                              | Resposta                                                                        | Tipo de pergunta |
 | --------- | ------------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------- |
 | 1°        | -                  | Qual seu nome completo ?                                                              | Pedro Dionisio de Souza                                                                      | Fechada          |
 | 2°        | -                  | Qual sua idade ?                                                                      | 19 anos                                                                      | Fechada          |
