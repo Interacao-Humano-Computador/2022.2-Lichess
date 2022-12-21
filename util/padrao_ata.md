@@ -8,7 +8,7 @@ O presente documento é um registro da reunião ocorrida no dia [DATA], no qual 
 
 | Alunos presentes      |    Data    | Horário de inicio e fim |      Local       |
 | :-------------------: | :--------: | :---------------------: | :--------------: |
-| Davi Silva, Lucas Gabriel, Lucas Macedo, Maurício Machado, Nicolas Souza, Renan Lacerda | [DATA] | [HORÁRIO] | Plataforma Teams |
+| Davi Silva, Lucas Gabriel, Lucas Macedo, Maurício Machado, Nicolas Souza | [DATA] | [HORÁRIO] | Plataforma Teams |
 
 <div style="text-align: center">
 <p> Tabela 1: Dados da reunião (Fonte: autor, 2022). </p>
