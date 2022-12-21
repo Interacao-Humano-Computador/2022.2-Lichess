@@ -59,12 +59,12 @@ nav:
       - Guia de Estilo: "analise_requisitos/guia_de_estilo.md"
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
+          - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados.md
           - Storyboard:
               - Planejamento da Avaliação: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao.md
-              - Planejamento do Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_relato.md
+              - Relato de Resultados: design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados.md
           - Análise de tarefas:
               - Planejamento da Avaliação: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao.md"
-              - Planejamento do Relato de Resultados: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_resultado_analise_tarefas.md"
               - Relatos de Avaliação da Análise de tarefas: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md"
 
   - Apresentações: "apresentacoes.md"
