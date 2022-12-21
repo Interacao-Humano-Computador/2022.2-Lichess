@@ -184,4 +184,4 @@ Na Figura 2, podemos ver o storyboard sobre aprender a jogar xadrez, obtendo ens
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 13/12/2022  | Criação da versão inicial do artefato.|  Nicolas | Lucas Gabriel |
 | `1.1`  | 14/12/2022  | Adição dos storyboards |  Lucas Macedo | Nicolas |
-| `1.2`  | 19/12/2022  | Alteração dos storyboard para a versão 2. Versão 1 do ["jogar uma partida"](./assets/jogar_uma_partida.png) e do ["aprender a jogar"](assets/aprender_a_jogar.png) | Nicolas Souza | |
+| `1.2`  | 19/12/2022  | Alteração dos storyboard para a versão 2. Versão 1 do ["jogar uma partida"](./assets/jogar_uma_partida.png) e do ["aprender a jogar"](assets/aprender_a_jogar.png) | Nicolas Souza | Mauricio Machado |
