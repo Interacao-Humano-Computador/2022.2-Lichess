@@ -49,6 +49,8 @@ De acordo com Krug, um teste feito com 3 ou 4 participantes é suficiente para d
 
 ### Cronograma da avaliação
 
+A Tabela 1 detalha as atividades da avaliação.
+
 | Data e horário | Atividade | Autor(es) | Revisor(es) |
 | :-: | - | - | - |
 | 18/01/2023 até as 23:00 | Entrega do protótipo de alta fidelidade | Lucas Macedo | Maurício |
@@ -56,6 +58,12 @@ De acordo com Krug, um teste feito com 3 ou 4 participantes é suficiente para d
 | 19/01/2023 até às 23:00 | Ajustes necessários antes da avaliação do protótipo | Nicolas | Lucas Macedo |
 | 20/01/2023 às 10:00 | Aplicação da avaliação do protótipo de alta fidelidade | Nicolas | Lucas Gabriel |
 | 22/01/2023 até 23:00 | Entrega do relato de resultados da avaliação do protótipo de alta fidelidade | Nicolas | Lucas Gabriel |
+
+<div style="text-align: center">
+<p>
+Tabela 1: Cronograma da Avaliação. (Fonte: autor, 2023)
+</p>
+</div>
 
 ### Papéis dos Avaliadores
 
@@ -148,4 +156,4 @@ O avaliador deverá apresentar para o usuário o caminho que ele deverá executa
 
 | Versão | Data  | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ----- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 10/01/2023  | Criação da versão inicial do artefato.|  Nicolas Souza |  |
+| `1.0`  | 10/01/2023  | Criação da versão inicial do artefato.|  Nicolas Souza | Davi Silva |
