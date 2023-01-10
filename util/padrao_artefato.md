@@ -9,7 +9,7 @@
 </div>
 
 <div style="text-align: center">
-<p> Tabela 1: Descrição (Fonte: autor, 2022).</p>
+<p> Tabela 1: Descrição (Fonte: autor, 2023).</p>
 </div>
 
 ## Desenvolvimento (trocar o nome de acordo com as seções do artefato)

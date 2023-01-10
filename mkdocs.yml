@@ -69,7 +69,8 @@ nav:
               - Relatos de Avaliação da Análise de tarefas: "design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise.md"
       - Nível 2:
           - Planejamento da Avaliação do Protótipo de Papel: "design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade.md"
-
+      - Nível 3:
+          - Planejamento da Avaliação do Protótipo de Alta Fidelidade: "design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade.md"
   - Apresentações: "apresentacoes.md"
 
   # - Nova navegação: "nome do arquivo relativo a docs"
