@@ -2,13 +2,11 @@
 
 ## Introdução
 
-Durante a etapa da Análise de requisitos foi realizada a [Análise de tarefas](../analise_requisitos/analise_tarefas.md) com intuito de obter mais informações sobre as tarefas realizadas pelos usuários no sistema Lichess. Essa análise foi realizada levando em consideração o [Perfil do usuário](../analise_requisitos/perfil_usuario.md) obtido por meio de questionários. A seguir, para uma análise mais detalhada é necessário a realização de entrevistas com usuários reais do produto, avaliando o ponto de vista do usuário de forma ativa, para isso será elaborado um Planejamento da Avaliação da Análise de tarefas e posteriormente a atividade será executada. Pois, segundo a obra "Interação Humano-Computador e Experiência do Usuário" de Simone D. J. Barbosa e Bruno Santana da Silva a realização da avaliação de IHC é essencial em qualquer processo de desenvolvimento com intuito de produzir um sistema interativo com alta qualidade de uso. Pois, essa ajuda o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência do usuário enquanto usa o sistema [1].
+Durante a etapa da Análise de requisitos foi realizada a [Análise de tarefas](../../../analise_requisitos/analise_tarefas.md) com intuito de obter mais informações sobre as tarefas realizadas pelos usuários no sistema Lichess. Essa análise foi realizada levando em consideração o [Perfil do usuário](../../../analise_requisitos/perfil_usuario.md) obtido por meio de questionários. A seguir, para uma análise mais detalhada é necessário a realização de entrevistas com usuários reais do produto, avaliando o ponto de vista do usuário de forma ativa, para isso será elaborado um Planejamento da Avaliação da Análise de tarefas e posteriormente a atividade será executada. Pois, segundo a obra "Interação Humano-Computador e Experiência do Usuário" de Simone D. J. Barbosa e Bruno Santana da Silva a realização da avaliação de IHC é essencial em qualquer processo de desenvolvimento com intuito de produzir um sistema interativo com alta qualidade de uso. Pois, essa ajuda o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência do usuário enquanto usa o sistema [1].
 
 ## Planejamento
 
 Foi utilizado o Framework DECIDE com intuito de orientar o planejamento, a execução e a análise da avaliação de IHC. Esse Framework é uma sigla onde cada letra representa uma etapa do planejamento, conforme a Tabela 1 a seguir:
-
-**DECIDE**
 
 | Letra | Significado                                                 |
 | ----- | ----------------------------------------------------------- |
@@ -67,7 +65,7 @@ O método utilizado foi o método da entrevista, o qual é um método investigat
 
 ### (I)dentificar e administrar as questões práticas da avaliação
 
-O recrutamento de usuários que participarão da avaliação será feito por meio de convites a usuários da plataforma ques com perfis similares aos identificados no [Perfil de Usuário](../analise_requisitos/perfil_usuario.md) e nas [Personas](../analise_requisitos/personas.md). Serão avaliados 5 usuários, pois segundo Dumas e Redish uma avaliação de IHC deve envolver de cinco a doze usuários, mas apenas cinco são o suficiente para detecção da maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC, para que um possa conduzir a entrevista e outro possa anotar as informações relevantes, não serão necessários gastos devido a utilização da plataforma Microsoft Teams, a qual é gratuita para os estudantes da Universidade de Brasília. O cronograma a ser seguido pode ser observado a seguir nas tabelas de 3 a 7
+O recrutamento de usuários que participarão da avaliação será feito por meio de convites a usuários da plataforma ques com perfis similares aos identificados no [Perfil de Usuário](../../../analise_requisitos/perfil_usuario.md)) e nas [Personas](../../../analise_requisitos/personas.md). Serão avaliados 5 usuários, pois segundo Dumas e Redish uma avaliação de IHC deve envolver de cinco a doze usuários, mas apenas cinco são o suficiente para detecção da maioria dos problemas[3]. A entrevista será conduzida por dois membros do grupo de IHC, para que um possa conduzir a entrevista e outro possa anotar as informações relevantes, não serão necessários gastos devido a utilização da plataforma Microsoft Teams, a qual é gratuita para os estudantes da Universidade de Brasília. O cronograma a ser seguido pode ser observado a seguir nas tabelas de 3 a 7
 
 Entrevista 1
 
@@ -116,7 +114,7 @@ Entrevista 5
 
 ### (D)ecidir como lidar com as questões éticas  
 
-Com relação à ética serão seguidos os padrões de ética definidos no documento de [Aspectos Éticos](../analise_requisitos/aspectos_eticos.md), o termo de consentimento relativo à entrevista pode ser observados logo a seguir na Figura 1.
+Com relação à ética serão seguidos os padrões de ética definidos no documento de [Aspectos Éticos](../../../analise_requisitos/aspectos_eticos.md), o termo de consentimento relativo à entrevista pode ser observados logo a seguir na Figura 1.
 
 ![Termo de consentimento da entrevista](images/termoConsentimento.jpeg)
 

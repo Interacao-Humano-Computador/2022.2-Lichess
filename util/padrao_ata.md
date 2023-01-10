@@ -11,7 +11,7 @@ O presente documento é um registro da reunião ocorrida no dia [DATA], no qual 
 | Davi Silva, Lucas Gabriel, Lucas Macedo, Maurício Machado, Nicolas Souza | [DATA] | [HORÁRIO] | Plataforma Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: autor, 2022). </p>
+<p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
 </div>
 
 ## Objetivos da reunião
