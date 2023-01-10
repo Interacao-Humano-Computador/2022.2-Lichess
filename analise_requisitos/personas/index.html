@@ -1,0 +1,1724 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../perfil_usuario/">
+      
+      
+        <link rel="next" href="../metas_usabilidade/">
+      
+      <link rel="icon" href="../../img/logo.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.3">
+    
+    
+      
+        <title>Personas - Lichess</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6b71719e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent="">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#personas" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Lichess" class="md-header__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lichess
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Personas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema escuro"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Tema escuro" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="grey" data-md-color-accent=""  aria-label="Tema claro"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Tema claro" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Interacao-Humano-Computador/2022.2-Lichess" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Lichess" class="md-nav__button md-logo" aria-label="Lichess" data-md-component="logo">
+      
+  <img src="../../img/logo.png" alt="logo">
+
+    </a>
+    Lichess
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Interacao-Humano-Computador/2022.2-Lichess" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2022.2-Lichess
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" tabindex="0" aria-expanded="false">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_01_11/" class="md-nav__link">
+        01/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_10_11/" class="md-nav__link">
+        10/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_15_11/" class="md-nav__link">
+        15/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_22_11/" class="md-nav__link">
+        22/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_29_11/" class="md-nav__link">
+        29/11/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_06_12/" class="md-nav__link">
+        06/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_13_12/" class="md-nav__link">
+        13/12/2022
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_03_01/" class="md-nav__link">
+        03/01/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" tabindex="0" aria-expanded="false">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_realizado/" class="md-nav__link">
+        Cronograma Realizado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/tools/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologias/" class="md-nav__link">
+        Metodologia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/sites_avaliados/" class="md-nav__link">
+        Sítios avaliados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_3_6" type="checkbox" id="__nav_3_6" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_6" tabindex="0" aria-expanded="false">
+          Avaliação dos sítios
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Avaliação dos sítios" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Avaliação dos sítios
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/s%C3%ADtios_avaliados/resultados_tse/" class="md-nav__link">
+        Resultados TSE
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/s%C3%ADtios_avaliados/resultados_age_telecom/" class="md-nav__link">
+        Resultados Age Telecom
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/s%C3%ADtios_avaliados/resultados_lichess.pdf" class="md-nav__link">
+        Resultados Lichess
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/app_selected/" class="md-nav__link">
+        Sítio selecionado
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/processo_de_design/" class="md-nav__link">
+        Processo de Design
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" tabindex="0" aria-expanded="true">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../aspectos_eticos/" class="md-nav__link">
+        Aspectos éticos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../principios_gerais/" class="md-nav__link">
+        Princípios Gerais do Projeto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfil_usuario/" class="md-nav__link">
+        Perfil de Usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Personas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Personas
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#o-que-e" class="md-nav__link">
+    O que é?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quando-usar" class="md-nav__link">
+    Quando usar?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#como-aplicar" class="md-nav__link">
+    Como aplicar?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologias" class="md-nav__link">
+    Metodologias
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#perfil-do-usuario" class="md-nav__link">
+    Perfil do Usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definicao-das-personas" class="md-nav__link">
+    Definição das Personas
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição das Personas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ravi-lama" class="md-nav__link">
+    Ravi Lama
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jorge-carvalho" class="md-nav__link">
+    Jorge Carvalho
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#roberta-max" class="md-nav__link">
+    Roberta Max
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ana-julia" class="md-nav__link">
+    Ana Júlia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metas_usabilidade/" class="md-nav__link">
+        Metas de Usabilidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../mapa_empatia/" class="md-nav__link">
+        Mapa de Empatia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../analise_tarefas/" class="md-nav__link">
+        Análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guia_de_estilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" tabindex="0" aria-expanded="false">
+          Design, Avaliação e Desenvolvimento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Design, Avaliação e Desenvolvimento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_1" type="checkbox" id="__nav_5_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1" tabindex="0" aria-expanded="false">
+          Nível 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nível 1" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_1/planejamento_do_relato_de_resultados/" class="md-nav__link">
+        Planejamento do Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_1_2" type="checkbox" id="__nav_5_1_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1_2" tabindex="0" aria-expanded="false">
+          Storyboard
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Storyboard" data-md-level="3">
+        <label class="md-nav__title" for="__nav_5_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboard
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_1/storyboard/planejamento_avaliacao/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_1/storyboard/relato_resultados/" class="md-nav__link">
+        Relato de Resultados
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_1_3" type="checkbox" id="__nav_5_1_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_1_3" tabindex="0" aria-expanded="false">
+          Análise de tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de tarefas" data-md-level="3">
+        <label class="md-nav__title" for="__nav_5_1_3">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/planejamento_avaliacao/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_1/analise_tarefas/relato_resultados_analise/" class="md-nav__link">
+        Relatos de Avaliação da Análise de tarefas
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_2" type="checkbox" id="__nav_5_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_2" tabindex="0" aria-expanded="false">
+          Nível 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nível 2" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_2/planejamento_avaliacao_prototipo_baixa_fidelidade/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Papel
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " data-md-toggle="__nav_5_3" type="checkbox" id="__nav_5_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_3" tabindex="0" aria-expanded="false">
+          Nível 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nível 3" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design_avaliacao_desenvolvimento/nivel_3/planejamento_alta_fidelidade/" class="md-nav__link">
+        Planejamento da Avaliação do Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#o-que-e" class="md-nav__link">
+    O que é?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quando-usar" class="md-nav__link">
+    Quando usar?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#como-aplicar" class="md-nav__link">
+    Como aplicar?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologias" class="md-nav__link">
+    Metodologias
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#perfil-do-usuario" class="md-nav__link">
+    Perfil do Usuário
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definicao-das-personas" class="md-nav__link">
+    Definição das Personas
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição das Personas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ravi-lama" class="md-nav__link">
+    Ravi Lama
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#jorge-carvalho" class="md-nav__link">
+    Jorge Carvalho
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#roberta-max" class="md-nav__link">
+    Roberta Max
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ana-julia" class="md-nav__link">
+    Ana Júlia
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+
+<h1 id="personas">Personas</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Este é um método de elicitação muito utilizado, inclusive existem metodologias de projeto guiadas por personas. São pessoas fictícias criadas pelos desenvolvedores e projetistas de sistemas, para representar os usuários importantes para guiar a elicitação de requisitos e funcionalidades.</p>
+<p>São de muita valia, pois criam uma percepção tangível dos usuários para os envolvidos no desenvolvimento do software. Os usuários se tornam menos abstratos e genéricos. É também uma importante ferramenta de síntese de ideias, de forma que o nome de uma persona já evoca, na mente dos desenvolvedores, todas as necessidades e objetivos ligados àquela persona. Determinamos de inicio, as persona primárias e a anti-persona.</p>
+<h3 id="o-que-e">O que é?</h3>
+<p>Personas são personagens ficcionais, gerados através da combinação de comportamentos observados entre consumidores com perfis extremos. Representa as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente.</p>
+<h3 id="quando-usar">Quando usar?</h3>
+<p>Em diversas fases do processo, pois servem para alinhar informações dos usuários com todas as pessoas envolvidas, mas são especialmente úteis na geração e validação de ideias.
+Elas auxiliam no processo de design porque direcionam as soluções para o sentido dos usuários, orientando o olhar sob as informações e, assim, apoiando as tomadas de decisão.</p>
+<h3 id="como-aplicar">Como aplicar?</h3>
+<p>A partir dos dados de campo, são identificadas diferentes usuários. Estas podem variar desde aspectos demográficos como sexo, faixa etária e classe social até perfis comportamentais como, por exemplo, se o indivíduo é independente com relação ao cuidado da saúde ou se depende de familiares na gestão de suas doenças.
+Depois de identificar todas os tipos de usuário, compõem-se os personagens combinando esses aspectos e usando como referência os perfis identificados em campo. Assim, cria-se um grupo de personas com características significativamente diferentes que representem perfis extremos de usuários do produto ou serviço analisado.
+Ao fim, deve-se atribuir um nome e criar histórias e necessidades que ajudem na “personificação deste arquétipo.</p>
+<h2 id="metodologias">Metodologias</h2>
+<p>O responsável por esse artefato, Mauricio Machado, ficou responsável por criar personas que retratariam os usuários mais comuns do LiChess.
+A partir desses requisitos, buscamos as personas básicas que mais utilizariam esses requisitos. As personas foram detalhadas, com suas histórias, necessidades e objetivos.
+Segundo Courage e Baxter, cada projeto possui seu próprio elenco de personas, consistindo em média de três a 12 personas. Para esse trabalho, foram criadas 3 personas.
+Todas as imagens utilizadas nesse artefato foram retiradas do site <a href="https://thispersondoesnotexist.com">This Person Doest Not Exist</a>, um site que utiliza de inteligencia artificial para criar imagens sem copyright.</p>
+<h2 id="perfil-do-usuario">Perfil do Usuário</h2>
+<p>A elaboração das Personas parte do perfil de usuário, representado na Tabela 1, que foi traçado a partir dos <a href="../perfil_usuario/">resultados</a> do questionário aplicado.</p>
+<table>
+<thead>
+<tr>
+<th>Característica</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Idade</td>
+<td>Jovem, com idade média de 23 anos.</td>
+</tr>
+<tr>
+<td>Experiência</td>
+<td>Especialista</td>
+</tr>
+<tr>
+<td>Atitudes</td>
+<td>Tecnófilos</td>
+</tr>
+<tr>
+<td>Tarefas primárias</td>
+<td>Jogar xadrez competitivamente, estudar movimentos e jogar xadrez casualmente</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>Tabela 1: Perfil do usuário (fonte: autor, 2022).</p>
+</div>
+
+<h2 id="definicao-das-personas">Definição das Personas</h2>
+<p>A partir do perfil do usuário e das tarefas primárias identificadas, foi elaborado o elenco de personas. O elenco é composto de duas personas primárias e uma antipersona. A quantidade de personas foi definida de forma a torná-las memoráveis, a utilização de um elenco grande de personas pode distanciar a equipe das personas. O elenco de personas está descrito nas seções seguintes.</p>
+<h3 id="ravi-lama">Ravi Lama</h3>
+<div style="text-align: center">
+<p>Tabela 2: Persona 1</p>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Nome</strong></td>
+<td>Ravi Lama</td>
+</tr>
+<tr>
+<td align="left"><strong>Foto</strong></td>
+<td><img width="200" src="../imgs/personas/ravi.jpeg"><p>Figura 1 Ravi Lama persona</p></td>
+</tr>
+<tr>
+<td align="left"><strong>Descrição</strong></td>
+<td>Ravi Lama, idade de 21 anos morador de Brasília<br> Ravi é um excelente aluno com um rico histórico escolar. Sempre busca ser o primeiro em qualquer atividade. <br>Homem. <br>Solteiro.</td>
+</tr>
+<tr>
+<td align="left"><strong>Status</strong></td>
+<td>Persona-Primária.</td>
+</tr>
+<tr>
+<td align="left"><strong>Objetivos</strong></td>
+<td>Ravi sempre busca excelência em tudo que executa. Já recebeu diversos prêmios em competições de xadrez e matemática. Ravi é introvertido e se sente mais confortável em ambiente que já conhece.</td>
+</tr>
+<tr>
+<td align="left"><strong>Habilidades</strong></td>
+<td>Ravi começou a jogar xadrez a partir dos 6 anos. Desde cedo foi instruído por seus pais a desenvolver esse teor técnico. Além de saber a teoria do xadrez, Ravi possui um forte perfil competitivo, manipulando a jogado de seus inimigos.</td>
+</tr>
+<tr>
+<td align="left"><strong>Tarefas</strong></td>
+<td>Ravi tem diversas tarefas durante o dia. A importância delas é a construção de um currículo forte para poder estudar no exterior. Assim das 08:00 às 09:30 tem aula de piano. Após isso, das 10:00 às 11:30 assite partidas de xadrez e faz alguma tarefas da faculdade. À tarde, Ravi passa maior de seu tempo em aulas e quando não está em aula aproveita para aumentar seu ranque no Lichess. Por fim ao chegar em casa à noite, gasta duas horas fazendo lições e depois utiliza o linkedin por uma hora para se conectar com pessoas que podem enriquecer seu networking e trazer novas oportunidades para ele.</td>
+</tr>
+<tr>
+<td align="left"><strong>Relacionamentos</strong></td>
+<td>Ravi tem um pequeno grupo de amigos, os quais tem sua confiança máxima. Todos seus problemas e segredos são contados apenas para esse grupo.</td>
+</tr>
+<tr>
+<td align="left"><strong>Requisitos</strong></td>
+<td>Ravi acredita que o elemento de ranqueamento deve ser mais indicativo e ter algum reforço para fortalecer esse ambiente competitivo. Além disso, Ravi gosta de usar o elemento de torneios para constantemente se desafiar com jogadores de alto nível.</td>
+</tr>
+<tr>
+<td align="left"><strong>Expectativas</strong></td>
+<td>Ravi quer estar nas melhores posições de ranqueamento do LiChess</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>Fonte: Mauricio Machado</p>
+</div>
+
+<h3 id="jorge-carvalho">Jorge Carvalho</h3>
+<div style="text-align: center">
+<p>Tabela 3: Anti-persona</p>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Nome</strong></td>
+<td>Jorge Carvalho</td>
+</tr>
+<tr>
+<td align="left"><strong>Foto</strong></td>
+<td><img width="200" src="../imgs/personas/jorge.jpeg"><p>Figura 2 Jorge Carvalho persona</p></td>
+</tr>
+<tr>
+<td align="left"><strong>Descrição</strong></td>
+<td>Jorge Carvalho, idade de 65 anos morador de Brasília<br> Jorge é aposentado e busca novos hobbies para conhecer novas pessoas e formar novas amizades.<br>Homem. <br>Viúvo.</td>
+</tr>
+<tr>
+<td align="left"><strong>Status</strong></td>
+<td>Antipersona.</td>
+</tr>
+<tr>
+<td align="left"><strong>Objetivos</strong></td>
+<td>Jorge adora jogos de tabuleiro onde pode conversar e entender o que o jogador está pensando. Após a morte de sua esposa, Jorge tenta formar novas conexões através de hobbies e acabou usando seu gosto de jogos de tabuleiro para tal. Jorge adora conversar.</td>
+</tr>
+<tr>
+<td align="left"><strong>Habilidades</strong></td>
+<td>Jorge durante sua vida sempre adorou jogos de tabuleiro. Possui alta capacidade em jogos de estratégia e ensinou seus filhos e seus netos a jogarem xadrez. Apesar disso, Jorge é um analfabeto digital ficando refém de seus filhos e parentes próximos para ajudá-lo em operações do dia-a-dia com celular.</td>
+</tr>
+<tr>
+<td align="left"><strong>Tarefas</strong></td>
+<td>Jorge tem 3 tarefas regulares. Cuidar dos seus netos na parte da manhã até irem pra escola, durando em média 4 horas (das 08:00 às 12:00). Passear com seu cão Rodolfinho, passeio leve que serve como exercício para Jorge, essa atividade é leve e dura por volta de 30 minutos. Por fim, a útilma tarefa de Jorge é limpar seu quarto, algo que faz religiosamente devido ao hábito reforçado por sua amada, essa atividade dura em média 1 hora.</td>
+</tr>
+<tr>
+<td align="left"><strong>Relacionamentos</strong></td>
+<td>Jorge tem se visto cada vez mais isolado da sociedade, adora contato humano mas sente que exige muito esforço para criar novas conexões em sua idade.</td>
+</tr>
+<tr>
+<td align="left"><strong>Requisitos</strong></td>
+<td>Para usuários que não tem como intuito utilizar o app com frequência e que gostam de um contato mais próximo entre jogadores. Jorge revela que a possibilidade de parear com um jogador próximo seria de seu interesse, além disso a possibilidade de se comunicar verbalmente durante uma partida seria algo interessante para ele.</td>
+</tr>
+<tr>
+<td align="left"><strong>Expectativas</strong></td>
+<td>Jorge quer encontrar novos melhores amigos para aproveitar seus dias e formar novas memórias</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>Fonte: Mauricio Machado</p>
+</div>
+
+<h3 id="roberta-max">Roberta Max</h3>
+<div style="text-align: center">
+<p>Tabela 4: Persona 2</p>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Nome</strong></td>
+<td>Roberta Max</td>
+</tr>
+<tr>
+<td align="left"><strong>Foto</strong></td>
+<td><img width="200" src="../imgs/personas/roberta.jpeg"><p>Figura 3 Roberta Max persona</p></td>
+</tr>
+<tr>
+<td align="left"><strong>Descrição</strong></td>
+<td>Roberta Max, idade de 23 anos moradora de Brasília<br> Roberta é estudante e ao mesmo tempo trabalha, usando seu celular para aproveitar momentos livres durante seu dia.<br>Mulher. <br>Solteira.</td>
+</tr>
+<tr>
+<td align="left"><strong>Status</strong></td>
+<td>Persona-Primária.</td>
+</tr>
+<tr>
+<td align="left"><strong>Objetivos</strong></td>
+<td>Roberta tem dias corridos e busca pagar as contas enquanto conclui sua graduação. Busca utilizar jogos de celular de forma casual para passar o tempo e se divertir. Roberta é extrovertida e adora sair e conhecer novos cenários.</td>
+</tr>
+<tr>
+<td align="left"><strong>Habilidades</strong></td>
+<td>Roberta começou a usar o LiChess via recomendação de amigo. Não sabe sobre estratégias do xadrez, sabendo apenas os movimentos de cada peça e trabalhando em cima disso. Roberta adora assistir outras pessoas jogarem para aprender via exemplo.</td>
+</tr>
+<tr>
+<td align="left"><strong>Tarefas</strong></td>
+<td>Roberta tem uma vida muito ocupada e cheia de tarefas. De manhã coloca roupas para secar e já coloca o primeiro lote de roupas sujas para lavar, essa atividade dura em torno de 25 minutos. Após isso, pega sua marmita e vai até o ponto de ônibus aonde se dirigirá para seu trabalho, o tempo de deslocamento dura 1 hora e meia. Após isso, Roberta passa das 09:00 às 18:00 trabalhando, depois passa mais uma hora e meia para chegar em casa. Depois disso vai pra sua faculdade onde estuda até as 23:00. Ao chegar em casa Roberta repete o processo de lavagem de roupa e se prepara para dormir.</td>
+</tr>
+<tr>
+<td align="left"><strong>Relacionamentos</strong></td>
+<td>Roberta tem um grande grupo de amigos, mas poucos usam o LiChess.</td>
+</tr>
+<tr>
+<td align="left"><strong>Requisitos</strong></td>
+<td>Roberta gostaria de saber mais sobre como jogar xadrez. Para ela, lições e exemplos de forma rápida e prática são essenciais para seu desenvolvimento. A função de assistir outras partidas precisa ser melhorada a fim de Roberta entender o que os jogadores estão pensando ao executar as ações.</td>
+</tr>
+<tr>
+<td align="left"><strong>Expectativas</strong></td>
+<td>Roberta quer se divertir enquanto está se transportando entre casa, faculdade e trabalho.</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>Fonte: Mauricio Machado</p>
+</div>
+
+<h3 id="ana-julia">Ana Júlia</h3>
+<div style="text-align: center">
+<p>Tabela 4: Persona 3</p>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="left"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Nome</strong></td>
+<td>Ana Júlia</td>
+</tr>
+<tr>
+<td align="left"><strong>Foto</strong></td>
+<td><img width="200" src="../imgs/personas/ana.jpeg"><p>Figura 4 Ana Júlia persona</p></td>
+</tr>
+<tr>
+<td align="left"><strong>Descrição</strong></td>
+<td>Ana Júlia, idade de 30 anos moradora de Brasília<br> Ana possui um emprego fixo mas gosta de usar seu tempo livre para fortalecer comunidades, sendo administradora de diversas plataformas, reforçando suas regras<br>Mulher. <br>Solteira.</td>
+</tr>
+<tr>
+<td align="left"><strong>Status</strong></td>
+<td>Persona Secund;ária.</td>
+</tr>
+<tr>
+<td align="left"><strong>Objetivos</strong></td>
+<td>Ana Júlia tem uma vida muito organizada. Ela descobriu seu propósito cedo, e desde então busca padronizar ambientes para trazer a maior eficiência para eles. Outro objetivo de Ana é criar um jogo de tabuleiro próprio.</td>
+</tr>
+<tr>
+<td align="left"><strong>Habilidades</strong></td>
+<td>Ana consegue enxergar diversos padrões de comportamentos em ambientes de anonimato como a internet devido sua vasta experiência nessa área. Dessa forma ela consegue identificar usuários que querem bular o sistema e os reporta o quanto antes. Além disso Ana tem uma grande habilidade de pesquisa encontrando e repassando documentações com facilidade.</td>
+</tr>
+<tr>
+<td align="left"><strong>Tarefas</strong></td>
+<td>Ana Júlia tem uma vida organizada e programa. Tem 3 tarefas principais durante seu dia. A primeira é durante uma hora organizar como será seu dia, isso inclui: ler o jornal, fazer uma todo list, fazer uma leitura de 15 minutos e responder seus emails. Após isso, gasta 8 horas no seu trabalho remoto, onde é responsável pelo RH da empresa em que trabalha. Por fim, ao chegar em casa à noite gerencia durante 2 horas e meia, plataformas, entre elas o Lichess.</td>
+</tr>
+<tr>
+<td align="left"><strong>Relacionamentos</strong></td>
+<td>Ana possui poucos amigos, sendo mais apegada aos seus animais de estimação. Possui 4 gatos. Ana quer se relacionar e portanto tem usado aplicativos de relacionamento para encontrar sua alma gêmea.</td>
+</tr>
+<tr>
+<td align="left"><strong>Requisitos</strong></td>
+<td>Ana gostaria que o Lichess tivesse ferramentas onde usuários podem reportar outros por burlar o sistema, assim a identificação de cheaters se torna mais fácil. Além disso, Ana gostaria de uma interface de gerenciamento própria no Lichess para administradores a fim de centralizar a operação.</td>
+</tr>
+<tr>
+<td align="left"><strong>Expectativas</strong></td>
+<td>Ana quer tornar o Lichess o mais limpo possível dando chance a todos os usuários de aprender e se divertir usando o sistema.</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p>Fonte: Mauricio Machado</p>
+</div>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<p>[1] This Person Doest Not Exist. Acesso em: 23 de nov. de 2022.Disponível em: <a href="https://thispersondoesnotexist.com">https://thispersondoesnotexist.com</a> <br></p>
+<p>[2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.</p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>24/11/2022</td>
+<td>Criação do documento e adição das personas</td>
+<td>Mauricio</td>
+<td>Lucas Macedo</td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>30/11/2022</td>
+<td>Inclusão do perfil de usuário e inclusão da justificativa sobre a escolha das personas</td>
+<td>Nicolas Souza</td>
+<td>Lucas Macedo</td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>06/12/2022</td>
+<td>Adição de persona Ana e refatoração de persona Jorge</td>
+<td>Mauricio Machado</td>
+<td>Lucas Macedo</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2022 Lichess
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["tabs", "navigation.section"], "search": "../../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ba449ae6.min.js"></script>
+      
+    
+  </body>
+</html>
